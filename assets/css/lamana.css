@@ -120,8 +120,7 @@ iframe {
 }
 
 .fab {
-   width: 100px !important;
-    height: 100px !important;
+   padding:20px;
 }
 
 
