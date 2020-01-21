@@ -1,0 +1,195 @@
+body, html {
+    height: 100%;
+    background-color: beige;
+    background-image: url("../images/beige-tiles.png");
+    padding-top: 70px;
+    font-family: 'Open Sans', sans-serif;
+};
+
+/* ///////////////////////// */
+/*          navigation       */
+/* ///////////////////////// */
+.navbar {
+padding: 5px 50px 5px 30px;
+}
+
+
+
+/* ///////////////////////// */
+/*           Hero            */
+/* ///////////////////////// */
+ 
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/bean-salad.jpg");
+  height: 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; 
+}
+
+.hero-text {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+/* ///////////////////////// */
+/*      Subscribe            */
+/* ///////////////////////// */
+.flex-container {
+  display: flex;
+  width: 100%;
+  padding: 10px 100px 10px 10px;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.subscribe {
+  background-color: #ed553b;
+  color: white;
+}
+
+.space {
+padding:0px 20px 0px 20px;
+}
+
+
+
+/* ///////////////////////// */
+/*          card             */
+/* ///////////////////////// */
+
+.card {
+    margin:10px;
+    
+}
+
+
+.card-img-top {
+   
+  display: block;
+  max-width:100%;
+  width: auto;
+  height: auto;
+}
+
+
+.profile-image {
+  background-image: url('../images/profile-lamana1.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: teal;
+  width:100%;
+  height: auto;
+}
+
+/* ///////////////////////// */
+/*          instagram         */
+/* ///////////////////////// */
+
+.feed {
+align-items: center;
+}
+
+iframe {
+  width: 80%;
+}
+
+/* ///////////////////////// */
+/*           Footer          */
+/* ///////////////////////// */
+
+
+.footer {
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+  background-color: orange;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+}
+
+
+
+.h2 {
+  padding: 50px;
+  background-color: orange;
+  color: white;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  margin-bottom: 0.5rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.2;
+   }
+
+h1, .h1 {
+  font-size: 2.5rem;
+  color: white; }
+
+h2, .h2 {
+  font-size: 2rem; }
+
+h3, .h3 {
+  font-size: 1.75rem;
+  }
+
+h4, .h4 {
+  font-size: 1.5rem; }
+
+h5, .h5 {
+  font-size: 1.25rem; }
+
+h6, .h6 {
+  font-size: 1rem; }
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300; }
+
+a {
+  color: #1a1a1a;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects; }
+  a:hover {
+    color: black;
+    text-decoration: underline; }
+
+a:not([href]):not([tabindex]) {
+  color: inherit;
+  text-decoration: none; }
+  a:not([href]):not([tabindex]):hover, a:not([href]):not([tabindex]):focus {
+    color: inherit;
+    text-decoration: none; }
+  a:not([href]):not([tabindex]):focus {
+    outline: 0; }
+
+    input[type=text] {
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=text]:focus {
+    border-color:#333;
+}
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
