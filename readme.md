@@ -10,13 +10,11 @@ Vegan and Vegetarian Lifestyle Brand featuring recipes, detox programs and examp
 * HTML5
 * CSS / Bootstrap
 * JavaScript
-* JQuery
-* PHO
+* PHP
 
 ```
 
 ### Live Site
-http://culinaryhealing.com
-http://culinaryhealing.com
+https://culinaryhealing.herokuapp.com/
 
 
