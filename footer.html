@@ -1,41 +1,54 @@
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+   <link rel="stylesheet" href="assets/css/lamana.css">
   <!-- Footer -->
-    <div class=  "flex-container footer">  
+    <div class= "footer">  
         <div class="row">
-            <div class="col">
+            <div class="col-md-4 h1">Contact Us</div>
+             <div class="col-md-4 h1">Email Us</div>
+            <div class="col-md-4 h1">Follow Us</div>
+        </div>
+        <div class="row">
+            <div class="col-4">
                 <p>LaMana@culinaryhealing.com</p>
                 <p>919-695-3778</p>
             </div>
             
-            <div class="col">
+            <div class="col-4">
                 <form action="mail.php" method="POST">
                     <div class="row">
-                        <div class="col">
-                            <p>Name <input type="text" name="name"></p>
-                        </div>
+                        <div class="col">Name</div>
+                        <div class="col"><input type="text" name="name"></div>
+                        <div class="w-100"></div>
+                        <div class="col">Email</div>
+                        <div class="col"><input type="text" name="email"></div>
+                        <div class="w-100"></div>
+                        <div class="col">Message</div>
+                        <div class="col"><textarea name="message" rows="6" cols="25"></textarea><br /></div>
+                        <div class="w-100"></div>
+                        <div class="col"></div>
+                        <div class="col"><input type="submit" value="Send"></div>
                     </div>
-                    <div class="row">
-                        <div class="col">
-                            <p>Email <input type="text" name="email"></p>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col">
-                            <p>Message<textarea name="message" rows="6" cols="25"></textarea><br /></p>
-                            <p><input type="submit" value="Send"></p>
-                        </div>
-                    </div >
                 </form>
             </div>
 
-            <div class="col">
-                <p> Follow us</p>
-                <i class="fab fa-facebook-f"></i>
+            <div class="col-4">
+                <i class="fab fa-facebook-f" ></i>
                 <i class="fab fa-linkedin-in"></i>
                 <i class="fab fa-instagram"></i>
             </div>
         </div>
-    
-            
+           </div>
+
+        <div class="footer-copyright">
+            © 2006 Copyright 
+            <a class="grey-text text-lighten-4 right" href="http://lamanadonadelle.com">Site created by LaMana</a>
+           
+          </div>
     </div>
 
 

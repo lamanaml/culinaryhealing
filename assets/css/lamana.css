@@ -58,25 +58,19 @@ padding:0px 20px 0px 20px;
 }
 
 
-
 /* ///////////////////////// */
 /*          card             */
 /* ///////////////////////// */
-
 .card {
     margin:10px;
-    
 }
 
-
 .card-img-top {
-   
   display: block;
   max-width:100%;
   width: auto;
   height: auto;
 }
-
 
 .profile-image {
   background-image: url('../images/profile-lamana1.jpg');
@@ -90,7 +84,6 @@ padding:0px 20px 0px 20px;
 /* ///////////////////////// */
 /*          instagram         */
 /* ///////////////////////// */
-
 .feed {
 align-items: center;
 }
@@ -102,18 +95,33 @@ iframe {
 /* ///////////////////////// */
 /*           Footer          */
 /* ///////////////////////// */
-
-
 .footer {
   /* position: fixed; */
   width: 100%;
+  padding: 50px;
   left: 0;
   bottom: 0;
   background-color: #ed553b;
   color: white;
   font-size: 12px;
-    justify-content:s pace-between;
- 
+    justify-content: space-between;
+}
+
+.footer-copyright {
+  /* position: fixed; */
+  width: 100%;
+  padding:10px;
+  left: 0;
+  bottom: 0;
+  background-color: grey;
+  color: white;
+  font-size: 12px;
+   
+}
+
+.fab {
+   width: 100px !important;
+    height: 100px !important;
 }
 
 
