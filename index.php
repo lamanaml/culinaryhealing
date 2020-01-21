@@ -86,10 +86,7 @@
       </div> 
 
     <!-- Instagram Feed -->
-      <div class="container feed">
-        <div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'gN9tTSuhATrT4NaKJFeU'});Pixlee.addSimpleWidget({widgetId:'23905'});};</script><script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
-      </div>
-
+      <div class="powr-instagram-feed" id="c002e1c2_1579628908"></div><script src="https://www.powr.io/powr.js?platform=embed"></script>
     <!-- footer -->
     <?php include_once("footer.html"); ?>
 
