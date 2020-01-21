@@ -106,12 +106,13 @@ iframe {
 
 .footer {
   /* position: fixed; */
+  width: 100%;
   left: 0;
   bottom: 0;
-  background-color: orange;
+  background-color: #ed553b;
   color: white;
   font-size: 12px;
-  text-align: center;
+ 
 }
 
 
