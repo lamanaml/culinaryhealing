@@ -25,8 +25,7 @@
 
     </head>
     <body>
-      
-<?php include_once("nav.html"); ?>
+      <?php include_once("nav.html"); ?>
      
 
       <!-- Hero -->
@@ -114,10 +113,7 @@
         <div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'gN9tTSuhATrT4NaKJFeU'});Pixlee.addSimpleWidget({widgetId:'23905'});};</script><script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
       </div> -->
 
-      <!-- Footer -->
-      <div class="footer">  
-          © CULINARY HEALING  2006 ALL RIGHTS RESERVED | THIS WEBSITE WAS DESIGNED AND DEVELOPED BY <a href="http://www.lamanadonadelle.com">LAMANA DONADELLE</a> (YEAH THATS ME TOO)
-      </div>
+       <?php include_once("footer.html"); ?>
 
 
       <!-- Scripts -->
