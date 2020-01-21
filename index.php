@@ -86,7 +86,7 @@
       </div> 
 
     <!-- Footer-->
-    <?php include_once("footer.html"); ?> 
+ 
 
 
     <!-- Scripts -->
