@@ -22,14 +22,12 @@
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
       <link rel="stylesheet" href="assets/css/lamana.css">
    </head>
-   <body>
+   <body id="classes">
       <!-- Navigation -->
       <?php include_once("nav.html"); ?>
 
       <!-- main content -->
-Recipes go here
-
-
+      Classes go here
 
 
 
