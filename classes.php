@@ -26,40 +26,80 @@
       <!-- Navigation -->
       <?php include_once("nav.html"); ?>
 
-      <!-- main content -->
-      <!-- main content -->
+         <!-- main content -->
 
-      <div class="container whitebg">
+   <div class="container whitebg">
+
       <div class="jumbotron whitebg">
         <h1 class="display-4">Classes</h1>
-    
-<h3>Group classes</h3>
-<p>
-4 course vegan/vegetarian cooking class features a demonstration of techniques with partial participation.
-</p>
-   <p>
-3 – 3.5 hour cooking class </p><p>
-$65/pp for 7 – 20 people
-</p>
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      Hands on
-    </div>
-    <div class="col-sm">
-      Small Classes
-    </div>
-    <div class="col-sm">
-     Dinner Included
-    </div>
-  </div>
+        <p> 4 course vegan/vegetarian cooking class features a demonstration of techniques with partial participation.</p>
+         <p> 3 – 3.5 hour cooking class </p>
+         <p>$65pp</p>
+      </div>
+
+      <div class="card-group">
+         <div class="card border-danger mb-3" style="max-width: 18rem;">
+         <div class="card-header">Hands on</div>
+         <div class="card-body text-danger">
+            <h5 class="card-title"></h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+         </div>
+         </div>
+         <div class="card border-warning mb-3" style="max-width: 18rem;">
+         <div class="card-header">Small Classes</div>
+         <div class="card-body text-warning">
+            <h5 class="card-title">Warning card title</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+         </div>
+         </div>
+         <div class="card border-info mb-3" style="max-width: 18rem;">
+         <div class="card-header">Dinner Included</div>
+         <div class="card-body text-info">
+            <h5 class="card-title">Info card title</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+         </div>
+         </div>
+
+      </div>
+   
+
+   <div class="card-group">
+      <div class="card" style="width: 18rem;">
+         <img class="card-img-top" src="assets/images/bean-salad.jpg" alt="Card image cap">
+         <div class="card-body">
+            <h5 class="card-title">April</h5>
+            <p class="card-text">4-Course Vegan Cooking Class</p>
+         </div>
+         <ul class="list-group list-group-flush">
+            <li class="list-group-item">Appetizere</li>
+            <li class="list-group-item">Salad</li>
+            <li class="list-group-item">Entree</li>
+            <li class="list-group-item">Dessert</li>
+         </ul>
+         <div class="card-body">
+            <a href="#" class="card-link">Register Now</a>
+         </div>
+      </div>
+
+      <div class="card" style="width: 18rem;">
+         <img class="card-img-top" src="assets/images/bean-salad.jpg" alt="Card image cap">
+         <div class="card-body">
+            <h5 class="card-title">May</h5>
+            <p class="card-text">4-Course Vegan Cooking Class</p>
+         </div>
+         <ul class="list-group list-group-flush">
+            <li class="list-group-item">Appetizere</li>
+            <li class="list-group-item">Salad</li>
+            <li class="list-group-item">Entree</li>
+            <li class="list-group-item">Dessert</li>
+         </ul>
+         <div class="card-body">
+            <a href="#" class="card-link">Register Now</a>
+         </div>
+      </div>
+   </div>
 </div>
-
-  
-  </div>
 </div>
-
-
 
 
       <!-- Footer -->
