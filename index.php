@@ -65,21 +65,20 @@
             <img src="assets/images/personal-chef3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
               <h5 class="card-title">Personal Chef Services</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Want to eat healthier but have no time to cook? A personal chef is the answer! Try us out at our special discounted price!.</p>
             </div>
           </div>
           <div class="card shadow p-3 mb-5 bg-white rounded">
             <img src="assets/images/burger-mushroom.jpg" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
               <h5 class="card-title">21-Day Cleanse</h5>
-              <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-            </div>
+              <p class="card-text">Take a 21 day vacation from the toxins of the world. Let your body fight the battle against toxins, leaving you lighter, clearer and healthier! 
           </div>
           <div class="card shadow p-3 mb-5 bg-white rounded">
             <img src="assets/images/vegetable-soup.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
             <div class="card-body">
               <h5 class="card-title">About</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+              <p class="card-text">Culinary Healing is a philosophy that marries delicious cuisine with healthy eating. We specialize in vegetarian, vegan and live foods; however, many of our services are designed to work with meat eaters and people interested in transitioning to a different diet. Culinary Healing is all about creating well balanced, healthy, delicious meals to support health and vitality!</p>
             </div>
           </div>
         </div>
