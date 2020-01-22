@@ -93,6 +93,7 @@ padding:0px 20px 0px 20px;
 /* ///////////////////////// */
 .feed {
 align-items: center;
+justify-content: space-between;
 background-color: white;
 }
 
@@ -106,10 +107,10 @@ iframe {
 .footer {
   /* position: fixed; */
   width: 100%;
-
   background-color: #ed553b;
   color: white;
   font-size: 12px;
+   align-items: center;
   justify-content: space-between;
 }
 
