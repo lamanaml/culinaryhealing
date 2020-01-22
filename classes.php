@@ -28,9 +28,8 @@
 
          <!-- main content -->
 
-   <div class="container whitebg">
-
-      <div class="jumbotron whitebg">
+   <div class="container"> 
+      <div class="jumbotron ">
         <h1 class="display-4">Classes</h1>
         <p> 4 course vegan/vegetarian cooking class features a demonstration of techniques with partial participation.</p>
          <p> 3 – 3.5 hour cooking class </p>
