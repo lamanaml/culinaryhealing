@@ -2,7 +2,7 @@ body, html {
     height: 100%;
     background-color: beige;
     background-image: url("../images/beige-tiles.png");
-    padding-top: 70px;
+    
     font-family: 'Open Sans', sans-serif;
 };
 
@@ -10,7 +10,7 @@ body, html {
 /*          navigation       */
 /* ///////////////////////// */
 .navbar {
-padding: 5px 50px 5px 30px;
+padding: 5px 90px 5px 30px;
 }
 
 
