@@ -26,7 +26,7 @@
     <!-- Navigation -->
     <?php include_once("nav.html"); ?>
 
-    <!-- main content -->
+
  <!-- main content -->
 
       <div class="container whitebg">
