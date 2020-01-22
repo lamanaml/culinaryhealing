@@ -28,12 +28,12 @@
 
     <!-- main content -->
 
-    <div class="container">
+    <div class="container whitebg">
       <div class="jumbotron">
         <h1 class="display-4">1 Day Cleanse</h1>
     
         <div class="row">
-          <div class="col-sm-8"><img src="assets/image/oatmeal.jpg"></div>
+          <div class="col-sm-8"><img src="assets/images/oatmeal.jpg"></div>
           <div class="col-sm-4">  <p>
             Need a quick cleanse? Sign up for our FREE 1-Day Juice Cleanse! You will be feasting on fresh juices, herbal teas and water for 24 hours straight. You will receive guidance, recipes and motivation to help you make it through the day. Best of all, it's FREE!
           </p>
@@ -43,8 +43,8 @@
         <p>
         Price: Free
          </p> <p>
-        <a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Register Now</a>
-        <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"7bd51cd7f1b65f154b476fb09","lid":"a57ff37c91","uniqueMethods":true}) })</script>
+        <a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Register Now <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"7bd51cd7f1b65f154b476fb09","lid":"a57ff37c91","uniqueMethods":true}) })</script></a>
+        
          </p>
         </div>
          </div>
