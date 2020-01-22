@@ -27,7 +27,38 @@
       <?php include_once("nav.html"); ?>
 
       <!-- main content -->
-      Classes go here
+      <!-- main content -->
+
+      <div class="container whitebg">
+      <div class="jumbotron whitebg">
+        <h1 class="display-4">Classes</h1>
+    
+<h3>Group classes</h3>
+<p>
+4 course vegan/vegetarian cooking class features a demonstration of techniques with partial participation.
+</p>
+   <p>
+3 – 3.5 hour cooking class </p><p>
+$65/pp for 7 – 20 people
+</p>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      Hands on
+    </div>
+    <div class="col-sm">
+      Small Classes
+    </div>
+    <div class="col-sm">
+     Dinner Included
+    </div>
+  </div>
+</div>
+
+  
+  </div>
+</div>
+
 
 
 
