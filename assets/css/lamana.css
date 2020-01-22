@@ -2,7 +2,7 @@ body, html {
     height: 100%;
     background-color: beige;
     background-image: url("../images/beige-tiles.png");
-    
+    padding-top: 50px;
     font-family: 'Open Sans', sans-serif;
 };
 
@@ -106,8 +106,7 @@ iframe {
 .footer {
   /* position: fixed; */
   width: 100%;
-  left: 0;
-  bottom: 0;
+ padding:50px;
   background-color: #ed553b;
   color: white;
   font-size: 12px;
@@ -133,8 +132,6 @@ iframe {
 
 
 .h2 {
-  padding: 50px;
-  background-color: orange;
   color: white;
   font-size: 18px;
 }
