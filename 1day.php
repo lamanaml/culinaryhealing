@@ -31,12 +31,29 @@
     <div class="container">
       <div class="jumbotron">
         <h1 class="display-4">1 Day Cleanse</h1>
-        <p>
+    
+        <div class="row">
+          <div class="col-sm-8">col-sm-8</div>
+          <div class="col-sm-4">  <p>
             Need a quick cleanse? Sign up for our FREE 1-Day Juice Cleanse! You will be feasting on fresh juices, herbal teas and water for 24 hours straight. You will receive guidance, recipes and motivation to help you make it through the day. Best of all, it's FREE!
-        </p>
+          </p>
         <p>
-          Complete the form below and you will receive an email to get start
+          Complete the form below and you will receive an email to get started.
         </p>
+
+        Price: Free
+        <a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Register Now</a>
+        <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"7bd51cd7f1b65f154b476fb09","lid":"a57ff37c91","uniqueMethods":true}) })</script>
+        
+        </div>
+         </div>
+
+
+
+
+
+
+      
 
         <!-- Begin Mailchimp Signup Form -->
           <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -63,7 +80,13 @@
             <label for="mce-LNAME">Last Name </label>
             <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
           </div>
-          
+          <div class="mc-field-group size1of2">
+            <label for="mce-BIRTHDAY-month">Birthday </label>
+            <div class="datefield">
+              <span class="subfield monthfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
+              <span class="subfield dayfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
+              <span class="small-meta nowrap">( mm / dd )</span>
+            </div>
           </div>	<div id="mce-responses" class="clear">
               <div class="response" id="mce-error-response" style="display:none"></div>
               <div class="response" id="mce-success-response" style="display:none"></div>
