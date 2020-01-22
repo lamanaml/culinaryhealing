@@ -25,7 +25,7 @@
     <!-- Navigation -->
     <?php include_once("nav.html"); ?>
 
-    <!-- main content -->
+   <!-- main content -->
 
     <div class="container whitebg">
       <div class="jumbotron whitebg">
@@ -34,10 +34,10 @@
         <div class="row">
           <div class="col-sm-8"><img src="assets/images/oatmeal.jpg" width="100%"></div>
           <div class="col-sm-4">  
-            <p>Are you feeling bloated or sluggish?  Truth is, we could all use a little boost from time to time.  This 1-Day detox will re-energize you as it boost your immune system.  Help your digeetive system more effectively digest food while you exprience feelings of lightness, increased energy and oveall good health.  Whether you need a tune-up or are considering a lifestyle change... This 1-Day detox is a good place to start.
+            <p>Are you feeling bloated or sluggish?  This 1-Day detox will re-energize you as it boost your immune system.  Help your digetive system while you exprience feelings of lightness, increased energy and oveall good health.  Whether you need a tune-up or are considering a lifestyle change... This 1-Day detox is a good place to start.
               </p>
               <p>
-             You will be feasting on fresh juices, herbal teas and water for 24 hours straight. You will receive guidance, recipes and motivation to help you make it through the day. Best of all, it's FREE!
+             But LaMana, what will I have to do, you ask?  You will be feasting on fresh juices, herbal teas and water for 24 hours straight. You will receive guidance, recipes and motivation to help you make it through the day. Best of all, it's FREE!
           </p>
         
         <p>
@@ -52,6 +52,7 @@
         
       </div>
     </div>
+ 
 
 
     <!-- Footer -->
