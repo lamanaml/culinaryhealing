@@ -33,7 +33,7 @@
         <h1 class="display-4">1 Day Cleanse</h1>
     
         <div class="row">
-          <div class="col-sm-8"><img src="assets/images/oatmeal.jpg" width="50%"></div>
+          <div class="col-sm-8"><img src="assets/images/oatmeal.jpg" width="100%"></div>
           <div class="col-sm-4">  <p>
             Need a quick cleanse? Sign up for our FREE 1-Day Juice Cleanse! You will be feasting on fresh juices, herbal teas and water for 24 hours straight. You will receive guidance, recipes and motivation to help you make it through the day. Best of all, it's FREE!
           </p>

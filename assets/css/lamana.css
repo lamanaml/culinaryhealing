@@ -68,6 +68,10 @@ padding:0px 20px 0px 20px;
     margin:10px;
 }
 
+.display-4 {
+    color:grey;
+}
+
 .card-img-top {
   display: block;
   max-width:100%;
