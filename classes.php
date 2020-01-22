@@ -87,7 +87,7 @@
             <p class="card-text">4-Course Vegan Cooking Class</p>
          </div>
          <ul class="list-group list-group-flush">
-            <li class="list-group-item">Appetizere</li>
+            <li class="list-group-item">Appetizer</li>
             <li class="list-group-item">Salad</li>
             <li class="list-group-item">Entree</li>
             <li class="list-group-item">Dessert</li>

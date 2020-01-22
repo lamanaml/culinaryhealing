@@ -37,28 +37,12 @@
           and FEEL BETTER?</h3>
           <p>Join our 21-Day cleanse and let me show you how!</p>
           <p>April 4 - 24, 2020</p>
-            <button type="button" class="btn btn-info">Learn More</button>
+          <a class="btn btn-info" href="21day.php" role="button">Learn More</a>
           </div>
         </div>
 
       <!-- Subscribe -->
-      <div class="subscribe flex-container">
-        <h4 class="space">Join our Mailing List</h4>
-        <!-- Begin Mailchimp Signup Form -->
-          <link class="space" href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-          <div id="mc_embed_signup">
-            <form action="https://culinaryhealing.us20.list-manage.com/subscribe/post?u=7bd51cd7f1b65f154b476fb09&amp;id=a57ff37c91" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-              <div id="mc_embed_signup_scroll">
-                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-              </div>
-            </form>
-          </div>
-        <!--End mc_embed_signup-->
-        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7bd51cd7f1b65f154b476fb09_a57ff37c91" tabindex="-1" value="">
-        </div>
-        <div class="clear space"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-      </div>
+  <?php include_once("subscribe.html"); ?>
   
       <!-- Cards -->
       <div class="container">
