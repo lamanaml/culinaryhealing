@@ -31,8 +31,6 @@
     <div class="container">
       <div class="jumbotron">
         <h1 class="display-4">1 Day Cleanse</h1>
-        <p class="lead">1-Day Cleanse</p>
-        <hr class="my-4">
         <p>
             Need a quick cleanse? Sign up for our FREE 1-Day Juice Cleanse! You will be feasting on fresh juices, herbal teas and water for 24 hours straight. You will receive guidance, recipes and motivation to help you make it through the day. Best of all, it's FREE!
         </p>
@@ -65,13 +63,7 @@
             <label for="mce-LNAME">Last Name </label>
             <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
           </div>
-          <div class="mc-field-group size1of2">
-            <label for="mce-BIRTHDAY-month">Birthday </label>
-            <div class="datefield">
-              <span class="subfield monthfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
-              <span class="subfield dayfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
-              <span class="small-meta nowrap">( mm / dd )</span>
-            </div>
+          
           </div>	<div id="mce-responses" class="clear">
               <div class="response" id="mce-error-response" style="display:none"></div>
               <div class="response" id="mce-success-response" style="display:none"></div>
