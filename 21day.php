@@ -119,7 +119,7 @@ A list of activities and resources to help support the cleansing process</p>
          <p class="card-text">24 hour hotline for questions and issues that may arise</p>
       </div>
    </div>
-
+   </div>
    <div>
         <p>
         Price: $39
@@ -130,7 +130,7 @@ A list of activities and resources to help support the cleansing process</p>
                  </div>
 </div>
   </div>
-
+   </div>
     <!-- Footer -->
     <?php include_once("footer.html"); ?>
 
