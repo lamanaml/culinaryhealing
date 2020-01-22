@@ -15,8 +15,7 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Culinary Healing : 1-day cleanse</title>
-    <meta name="description" content="">
+    <title>Culinary Healing : 1-Day Detox
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -30,16 +29,17 @@
 
     <div class="container whitebg">
       <div class="jumbotron whitebg">
-        <h1 class="display-4">1 Day Cleanse</h1>
+        <h1 class="display-4">1-Day Detox</h1>
     
         <div class="row">
           <div class="col-sm-8"><img src="assets/images/oatmeal.jpg" width="100%"></div>
-          <div class="col-sm-4">  <p>
-            Need a quick cleanse? Sign up for our FREE 1-Day Juice Cleanse! You will be feasting on fresh juices, herbal teas and water for 24 hours straight. You will receive guidance, recipes and motivation to help you make it through the day. Best of all, it's FREE!
+          <div class="col-sm-4">  
+            <p>Are you feeling bloated or sluggish?  Truth is, we could all use a little boost from time to time.  This 1-Day detox will re-energize you as it boost your immune system.  Help your digeetive system more effectively digest food while you exprience feelings of lightness, increased energy and oveall good health.  Whether you need a tune-up or are considering a lifestyle change... This 1-Day detox is a good place to start.
+              </p>
+              <p>
+             You will be feasting on fresh juices, herbal teas and water for 24 hours straight. You will receive guidance, recipes and motivation to help you make it through the day. Best of all, it's FREE!
           </p>
-        <p>
-          Complete the form below and you will receive an email to get started.
-        </p>
+        
         <p>
         Price: Free
          </p> <p>
