@@ -27,7 +27,7 @@
     <!-- Navigation -->
     <?php include_once("nav.html"); ?>
 
- <!-- main content -->
+<!-- 21-day -->
 
     <div class="container whitebg">
       <div class="jumbotron whitebg">
@@ -51,37 +51,85 @@ If you need a little help to get on track to better health, join us.
         <p>
         <div class="card-group">
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card image cap">
+    <img class="card-img-top" src="assets/images/burger-bean.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <h5 class="card-title">Whole Food</h5>
+      <p class="card-text">Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible.</p>
+      
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card image cap">
+    <img class="card-img-top" src="assets/images/raw-lasagna.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <h5 class="card-title">Live Food / Raw</h5>
+      <p class="card-text">Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.</p>
+      
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card image cap">
+    <img class="card-img-top" src="assets/images/vegetable-soup.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <h5 class="card-title">Liquids</h5>
+      <p class="card-text">Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!</p>
+      
     </div>
-  </div>
+  </div>  </div>
         </p>
+     
+ <div>
+This cleanse is for people with all levels of fasting experience from first time fasters to the experts. It is virtual, so you can live anywhere in the world and still participate. Please note that you must not participate in this fast if you are pregnant, nursing or have chronic medical conditions. If you are on medication, consult your doctor before participating.
+</div>
+  <h3 >What's Included</h3>
+<div class="card-group">
+   
+  
+   <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+      <div class="card-header">Step by Step Instructions</div>
+      <div class="card-body">
+         <p class="card-text">Access to web site with daily instruction on what to eat and what to eliminate. Guidance and information on how to optimize your detox experience
+A list of activities and resources to help support the cleansing process</p>
+      </div>
+   </div>
+
+   <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
+      <div class="card-header">Daily Email</div>
+      <div class="card-body">
+         <p class="card-text">Daily email with encouragement and useful tips</p>
+      </div>
+   </div>
+   
+   <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+      <div class="card-header">Recipes</div>
+      <div class="card-body">
+         <p class="card-text">Access to forum full of recipes for each phase.</p>
+      </div>
+   </div>
+
+   <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+      <div class="card-header">Group Discussion</div>
+      <div class="card-body">
+         <p class="card-text">Access to an online community of support specifically for this fast</p>
+      </div>
+   </div>
+
+
+   <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
+      <div class="card-header">Hotline</div>
+      <div class="card-body">
+         <p class="card-text">24 hour hotline for questions and issues that may arise</p>
+      </div>
+   </div>
+
+   <div>
         <p>
         Price: $39
-         </p> <p>
+         </p> 
+         <p>
         <a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Register Now <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"7bd51cd7f1b65f154b476fb09","lid":"a57ff37c91","uniqueMethods":true}) })</script></a>
-        
-         </p>
-
+                 </p>
+                 </div>
+</div>
+  </div>
 
     <!-- Footer -->
     <?php include_once("footer.html"); ?>
