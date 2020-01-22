@@ -86,8 +86,7 @@
       </div> 
 
     <!-- Footer-->
- 
-  <?php include_once("footer.html"); ?> 
+    <?php include_once("footer.html"); ?> 
 
     <!-- Scripts -->
     <!-- <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
