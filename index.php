@@ -43,6 +43,22 @@
 
       <!-- Subscribe -->
   <?php include_once("subscribe.html"); ?>
+
+
+
+  <!-- about Hero -->
+      <div class="hero-image2">
+        <div class="hero-text">
+          <h3>About LaMana</h3>
+          <p>Plant Based Personal Chef </p>
+          <p>Wholistic Health Educator </p>
+          <p>Software Engineer</p>
+          <p>Information Architect</p>
+          <p>Mother</p>
+          <a class="btn btn-info" href="about.php" role="button">Learn More</a>
+          </div>
+        </div>
+
   
       <!-- Cards -->
       <div class="container">
@@ -50,8 +66,8 @@
           <div class="card shadow p-3 mb-5 bg-white rounded">
             <img src="assets/images/personal-chef3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Personal Chef Services</h5>
-              <p class="card-text">Want to eat healthier but have no time to cook? A personal chef is the answer! Try us out at our special discounted price!.</p>
+              <h5 class="card-title">Classes</h5>
+              <p class="card-text">Try to catch one of my freestyle classes.  This is not about following instructions, it's about following your heart.  We are all great in the kitchen, come discover your greatness. </p>
             </div>
           </div>
           <div class="card shadow p-3 mb-5 bg-white rounded">
@@ -64,8 +80,8 @@
           <div class="card shadow p-3 mb-5 bg-white rounded">
             <img src="assets/images/vegetable-soup.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
             <div class="card-body">
-              <h5 class="card-title">About</h5>
-              <p class="card-text">Culinary Healing is a philosophy that marries delicious cuisine with healthy eating. We specialize in vegetarian, vegan and live foods; however, many of our services are designed to work with meat eaters and people interested in transitioning to a different diet. Culinary Healing is all about creating well balanced, healthy, delicious meals to support health and vitality!</p>
+              <h5 class="card-title">Recipes</h5>
+              <p class="card-text">Take a tour of the food that I love to cook and eat.  I am not a huge recipe follower.  I sometimes use recipees as my guide, then put my own spin on them.  I encourage you to use these as a starting point, then make your own magic!</p>
             </div>
           </div>
         </div>
