@@ -33,104 +33,85 @@
       <div class="jumbotron whitebg">
         <h1 class="display-4">21-Day Cleanse</h1>
     
-              <p>
-           It's cleanse time!
-
-​</p><p>
-
-A good cleanse helps remove toxins from our body and helps us maintain a healthy weight. Although the body is designed to rid itself of toxins naturally, it can become overburdened. This cleanse will give our bodies additional support to expel toxins and manage weight, which is important to maintaining our health and wellbeing.
-</p><p>
-​
-
-During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  All we need are discipline and willpower.
-</p><p>
-​
-
-If you need a little help to get on track to better health, join us.
-          </p>
-        <p>
+              <p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis. From the air that we breath, to products that we use, to the foods that we eat.  Although our bodies ae designed to rid itself of these toxins naturally, it can become overburdened. Detox progams, like this cleanse, gives our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and wellbeing.​</p>
+              
+              <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p>
+              
         <div class="card-group">
-  <div class="card">
-    <img class="card-img-top" src="assets/images/burger-bean.jpg" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Whole Food</h5>
-      <p class="card-text">Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible.</p>
-      
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="assets/images/raw-lasagna.jpg" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Live Food / Raw</h5>
-      <p class="card-text">Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.</p>
-      
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="assets/images/vegetable-soup.jpg" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Liquids</h5>
-      <p class="card-text">Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!</p>
-      
-    </div>
-  </div>  </div>
-        </p>
+          <div class="card">
+            <img class="card-img-top" src="assets/images/burger-bean.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Whole Food</h5>
+              <p class="card-text">Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible.</p>
+            </div>
+          </div>
+          <div class="card">
+            <img class="card-img-top" src="assets/images/raw-lasagna.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Live Food / Raw</h5>
+              <p class="card-text">Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.</p>
+            </div>
+          </div>
+          <div class="card">
+            <img class="card-img-top" src="assets/images/vegetable-soup.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Liquids</h5>
+              <p class="card-text">Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!</p>
+            </div>
+          </div>  
+        </div>  
+
      
- <div>
-This cleanse is for people with all levels of fasting experience from first time fasters to the experts. It is virtual, so you can live anywhere in the world and still participate. Please note that you must not participate in this fast if you are pregnant, nursing or have chronic medical conditions. If you are on medication, consult your doctor before participating.
-</div>
-  <h3 >What's Included</h3>
-<div class="card-group">
+        <div>This cleanse is for people with all levels of fasting experience from first time fasters to the experts. It is virtual, so you can live anywhere in the world and still participate. Please note that you must not participate in this fast if you are pregnant, nursing or have chronic medical conditions. If you are on medication, consult your doctor before participating.
+        </div>
+
+        <h3 >What's Included</h3>
+        <div class="card-group">
+          <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+              <div class="card-header">Step by Step Instructions</div>
+              <div class="card-body">
+              <p class="card-text">Access to web site with daily instruction on what to eat and what to eliminate. Guidance and information on how to optimize your detox experience A list of activities and resources to help support the cleansing process</p>
+              </div>
+            </div>
+
+            <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
+                <div class="card-header">Daily Email</div>
+                <div class="card-body">
+                  <p class="card-text">Daily email with encouragement and useful tips</p>
+                </div>
+            </div>
+        
+            <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+                <div class="card-header">Recipes</div>
+                <div class="card-body">
+                  <p class="card-text">Access to forum full of recipes for each phase.</p>
+                </div>
+            </div>
+
+            <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+                <div class="card-header">Group Discussion</div>
+                <div class="card-body">
+                  <p class="card-text">Access to an online community of support specifically for this fast</p>
+                </div>
+            </div>
+
+            <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
+                <div class="card-header">Hotline</div>
+                <div class="card-body">
+                  <p class="card-text">24 hour hotline for questions and issues that may arise</p>
+                </div>
+            </div>
+          </div>
+        
+          <div>
+            <p>Price: $39 </p> 
+              <p><a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Register Now <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"7bd51cd7f1b65f154b476fb09","lid":"a57ff37c91","uniqueMethods":true}) })</script></a>   </p>
+          </div>
+        </div>
+      </div>
+   </div>
    
-  
-   <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
-      <div class="card-header">Step by Step Instructions</div>
-      <div class="card-body">
-         <p class="card-text">Access to web site with daily instruction on what to eat and what to eliminate. Guidance and information on how to optimize your detox experience
-A list of activities and resources to help support the cleansing process</p>
-      </div>
-   </div>
-
-   <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
-      <div class="card-header">Daily Email</div>
-      <div class="card-body">
-         <p class="card-text">Daily email with encouragement and useful tips</p>
-      </div>
-   </div>
    
-   <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
-      <div class="card-header">Recipes</div>
-      <div class="card-body">
-         <p class="card-text">Access to forum full of recipes for each phase.</p>
-      </div>
-   </div>
-
-   <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
-      <div class="card-header">Group Discussion</div>
-      <div class="card-body">
-         <p class="card-text">Access to an online community of support specifically for this fast</p>
-      </div>
-   </div>
-
-
-   <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-      <div class="card-header">Hotline</div>
-      <div class="card-body">
-         <p class="card-text">24 hour hotline for questions and issues that may arise</p>
-      </div>
-   </div>
-   </div>
-   <div>
-        <p>
-        Price: $39
-         </p> 
-         <p>
-        <a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Register Now <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"7bd51cd7f1b65f154b476fb09","lid":"a57ff37c91","uniqueMethods":true}) })</script></a>
-                 </p>
-                 </div>
-</div>
-  </div>
-   </div>
     <!-- Footer -->
     <?php include_once("footer.html"); ?>
 
