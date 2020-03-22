@@ -32,6 +32,7 @@
     <!-- Hero -->
       <div class="hero-image">
         <div class="hero-text">
+          
           <h1>21-DAY CLEANSE</h1>
           <h3>WANT TO EAT BETTER <br />
           and FEEL BETTER?</h3>

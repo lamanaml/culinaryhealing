@@ -79,12 +79,12 @@
           <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
               <div class="card-header">Instructions</div>
               <div class="card-body">
-              <p class="card-text">Access to web site with daily instruction on what to eat and what to eliminate. Guidance and information on how to optimize your detox experience A list of activities and resources to help support the cleansing process</p>
+              <p class="card-text">This section </p>
               </div>
             </div>
 
             <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
-                <div class="card-header">Daily Email</div>
+                <div class="card-header">Daily Notes</div>
                 <div class="card-body">
                   <p class="card-text">Daily email with encouragement and useful tips</p>
                 </div>
