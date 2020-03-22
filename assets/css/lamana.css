@@ -99,6 +99,12 @@ padding:0px 20px 0px 20px;
   height: auto;
 }
 
+img-right {
+  display: block;
+  align: left;
+  width: 40%;
+}
+
 /* ///////////////////////// */
 /*          instagram         */
 /* ///////////////////////// */
