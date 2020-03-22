@@ -36,7 +36,7 @@
           <h3>WANT TO EAT BETTER <br />
           and FEEL BETTER?</h3>
           <p>Join our 21-Day cleanse and let me show you how!</p>
-          <p>April 4 - 24, 2020</p>
+          <p>April 8 - 28, 2020</p>
           <a class="btn btn-info" href="21day.php" role="button">Learn More</a>
           </div>
         </div>
@@ -45,19 +45,21 @@
   <?php include_once("subscribe.html"); ?>
 
 
-
-  <!-- about Hero -->
-      <div class="hero-image2">
-        <div class="hero-text">
+<!-- about -->
+ <figure class='full-width'>
+    <img class="profile" src="../images/profile-lamana.jpg">
+    <figcaption> <div >
           <h3>About LaMana</h3>
-          <p>Plant Based Personal Chef </p>
+          <p>Hello world!  I am LaMana, a health supportive plant-based chef.  I currently live in Burlington, NC</p>
           <p>Wholistic Health Educator </p>
           <p>Software Engineer</p>
           <p>Information Architect</p>
           <p>Mother</p>
           <a class="btn btn-info" href="about.php" role="button">Learn More</a>
-          </div>
-        </div>
+          </div></figcaption>
+  </figure>
+
+  
 
   
       <!-- Cards -->
