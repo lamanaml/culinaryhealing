@@ -36,7 +36,9 @@
               <p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis. From the air that we breath, to products that we use, to the foods that we eat.  Although our bodies ae designed to rid itself of these toxins naturally, it can become overburdened. Detox progams, like this cleanse, gives our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and wellbeing.​</p>
               
               <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p>
-              
+   <!-- ------------------------------  The phases --------------------------------------------- -->
+          <h3 >What will I eat?</h3>
+          <p>The cleanse is divided into 4 phases that are designed to gradually detox our bodies efficiently but with the least amount of symptoms, then gradually prepare our digestive systems for our new and improved diet.   ​</p>
         <div class="card-group">
           <div class="card">
             <img class="card-img-top" src="assets/images/burger-bean.jpg" alt="Card image cap">
@@ -49,23 +51,30 @@
             <img class="card-img-top" src="assets/images/raw-lasagna.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Live Food / Raw</h5>
-              <p class="card-text">Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.</p>
+              <p class="card-text">Live foods are uncooked fruits and vegetables, so the enzymes are still in tact. These enzymes repair and rebuild our bodies</p>
             </div>
           </div>
           <div class="card">
             <img class="card-img-top" src="assets/images/vegetable-soup.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Liquids</h5>
-              <p class="card-text">Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!</p>
+              <p class="card-text">Fresh fruit and veggie juice, coconut water, broths, herbal tea will flood our bodies with nutrients!</p>
+            </div>
+          </div>  
+          <div class="card">
+            <img class="card-img-top" src="assets/images/vegetable-soup.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Water</h5>
+              <p class="card-text">Distilled water to completely starve the toxins and kick the detox into the highest gear. </p>
             </div>
           </div>  
         </div>  
 
-     
-        <div>This cleanse is for people with all levels of fasting experience from first time fasters to the experts. It is virtual, so you can live anywhere in the world and still participate. Please note that you must not participate in this fast if you are pregnant, nursing or have chronic medical conditions. If you are on medication, consult your doctor before participating.
+        
+<!-- ------------------------------  The components --------------------------------------------- -->
+        <h3 >How does it work?</h3>
+        <div>This cleanse is for people with all levels of fasting experience from first time fasters to the experts. It is virtual, so you can live anywhere in the world and still participate. 
         </div>
-
-        <h3 >What's Included</h3>
         <div class="card-group">
           <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
               <div class="card-header">Step by Step Instructions</div>
@@ -103,9 +112,12 @@
             </div>
           </div>
         
-          <div>
+   <!-- ------------------------------  Register --------------------------------------------- -->      
+         <div>
             <p>Price: $39 </p> 
               <p><a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Register Now <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"7bd51cd7f1b65f154b476fb09","lid":"a57ff37c91","uniqueMethods":true}) })</script></a>   </p>
+          </div>
+          <div>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  LaMana Donadelle is a health supportive chef, not a medical doctor. If you are on medication, consult your doctor before participating.  By regisstering for this cleanse, you agree to hold harmlmess LaMana Donadelle and Culinary Healing for any issuesl while participating in this cleanse. 
           </div>
         </div>
       </div>
