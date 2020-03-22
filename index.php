@@ -45,31 +45,14 @@
   <?php include_once("subscribe.html"); ?>
 
 
-<!-- about -->
- <figure class='full-width'>
-    <img class="profile" src="../images/profile-lamana.jpg">
-    <figcaption> <div >
-          <h3>About LaMana</h3>
-          <p>Hello world!  I am LaMana, a health supportive plant-based chef.  I currently live in Burlington, NC</p>
-          <p>Wholistic Health Educator </p>
-          <p>Software Engineer</p>
-          <p>Information Architect</p>
-          <p>Mother</p>
-          <a class="btn btn-info" href="about.php" role="button">Learn More</a>
-          </div></figcaption>
-  </figure>
-
-  
-
-  
       <!-- Cards -->
       <div class="container">
         <div class="card-group ">
           <div class="card shadow p-3 mb-5 bg-white rounded">
-            <img src="assets/images/personal-chef3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+            <img src="assets/images/profile-lamana1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Classes</h5>
-              <p class="card-text">Try to catch one of my freestyle classes.  This is not about following instructions, it's about following your heart.  We are all great in the kitchen, come discover your greatness. </p>
+              <h5 class="card-title">About LaMana</h5>
+              <p class="card-text">Hello world!  I am LaMana, a health supportive plant-based chef.  I currently live in Burlington, NC </p>
             </div>
           </div>
           <div class="card shadow p-3 mb-5 bg-white rounded">
