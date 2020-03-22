@@ -77,7 +77,7 @@
         </div>
         <div class="card-group">
           <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
-              <div class="card-header">Step by Step Instructions</div>
+              <div class="card-header">Instructions</div>
               <div class="card-body">
               <p class="card-text">Access to web site with daily instruction on what to eat and what to eliminate. Guidance and information on how to optimize your detox experience A list of activities and resources to help support the cleansing process</p>
               </div>
@@ -89,18 +89,18 @@
                   <p class="card-text">Daily email with encouragement and useful tips</p>
                 </div>
             </div>
-        
-            <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
-                <div class="card-header">Recipes</div>
-                <div class="card-body">
-                  <p class="card-text">Access to forum full of recipes for each phase.</p>
-                </div>
-            </div>
 
             <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
                 <div class="card-header">Group Discussion</div>
                 <div class="card-body">
                   <p class="card-text">Access to an online community of support specifically for this fast</p>
+                </div>
+            </div>
+
+            <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+                <div class="card-header">Recipes</div>
+                <div class="card-body">
+                  <p class="card-text">Access to forum full of recipes for each phase.</p>
                 </div>
             </div>
 
@@ -117,7 +117,7 @@
             <p>Price: $39 </p> 
               <p><a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Register Now <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"7bd51cd7f1b65f154b476fb09","lid":"a57ff37c91","uniqueMethods":true}) })</script></a>   </p>
           </div>
-          <div>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  LaMana Donadelle is a health supportive chef, not a medical doctor. If you are on medication, consult your doctor before participating.  By regisstering for this cleanse, you agree to hold harmlmess LaMana Donadelle and Culinary Healing for any issuesl while participating in this cleanse. 
+          <div>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  LaMana Donadelle is a health supportive chef, not a medical doctor. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmlmess LaMana Donadelle and Culinary Healing for any issues while participating in this cleanse. 
           </div>
         </div>
       </div>
