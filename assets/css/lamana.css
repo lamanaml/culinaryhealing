@@ -8,11 +8,12 @@ body, html {
     height: 100%;
     width: 100%;
     background-color: beige;
-    background-image: url("../images/beige-tiles.png");
+   
+   background-image: url("../images/beige-tiles.png");
     /* padding-top: 50px; */
     font-family: 'Open Sans', sans-serif;
-    font-size: calc(1em + .5vw) };
-};
+    /* font-size: calc(1em + .5vw) };
+}; */
 
 /* ///////////////////////// */
 /*          navigation       */
