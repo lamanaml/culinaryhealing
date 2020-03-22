@@ -100,8 +100,8 @@ padding:0px 20px 0px 20px;
 }
 
 img-right {
-  align: left;
-  width: 20%;
+   float: left;
+   width: 20%;
 }
 
 /* ///////////////////////// */
