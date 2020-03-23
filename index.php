@@ -32,7 +32,7 @@
     <!-- Hero -->
       <div class="hero-image">
         <div class="hero-text">
-          
+
           <h1>21-DAY CLEANSE</h1>
           <h3>WANT TO EAT BETTER <br />
           and FEEL BETTER?</h3>
@@ -53,21 +53,21 @@
             <img src="assets/images/profile-lamana1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
               <h5 class="card-title">About LaMana</h5>
-              <p class="card-text">Hello world!  I am LaMana, a health supportive plant-based chef.  I currently live in Burlington, NC </p>
+              <p class="card-text">Hello world!  I am LaMana, a health supportive plant-based chef, living and thriving in the south!  <a href="about.php">Read More...</a>   </p>
             </div>
           </div>
           <div class="card shadow p-3 mb-5 bg-white rounded">
             <img src="assets/images/burger-mushroom.jpg" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
               <h5 class="card-title">21-Day Cleanse</h5>
-              <p class="card-text">Take a 21 day vacation from the toxins of the world. Let your body fight the battle against toxins, leaving you lighter, clearer and healthier! 
+              <p class="card-text">Take a 21 day vacation from the toxins of the world. Let your body fight the battle against toxins, leaving you lighter, clearer and healthier! <a href="21day.php">Learn more...</a> 
             </div>
           </div>
           <div class="card shadow p-3 mb-5 bg-white rounded">
             <img src="assets/images/vegetable-soup.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
             <div class="card-body">
               <h5 class="card-title">Recipes</h5>
-              <p class="card-text">Take a tour of the food that I love to cook and eat.  I am not a huge recipe follower.  I sometimes use recipees as my guide, then put my own spin on them.  I encourage you to use these as a starting point, then make your own magic!</p>
+              <p class="card-text">Take a tour of the food that I love to cook and eat.  I am not a huge recipe follower.  I sometimes use recipes as my guide, then put my own spin on them.  I encourage you to use these as a starting point, then make your own magic! <a href="recipes.php">Eat More...</a> </p>
             </div>
           </div>
         </div>
