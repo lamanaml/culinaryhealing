@@ -32,27 +32,14 @@
     <!-- Hero -->
       <div class="hero-image">
         <div class="hero-text">
-          <div class="card" style="width: 18rem;">
-            <div class="card-body">
-              <h3 class="card-title">21-DAY CLEANSE</h3>
-              <h3 class="card-subtitle mb-2 text-muted"> WANT TO EAT BETTER <br />
+<div class="container">
+          <h1>21-DAY CLEANSE</h1>
+          <h3>WANT TO EAT BETTER <br />
           and FEEL BETTER?</h3>
-          
-              <p class="card-text"><p>Join our 21-Day cleanse and learn how!</p>
-              <p>April 8 - 28, 2020
-              <a class="btn btn-info" href="21day.php" role="button">Learn More</a>
-             
-            </div>
+          <p>Join our 21-Day cleanse and learn how!</p>
+          <p>April 8 - 28, 2020</p>
+          <a class="btn btn-info" href="21day.php" role="button">Learn More</a>
           </div>
-
-
-
-
-
-
-          
-         
-          
           </div>
         </div>
 
