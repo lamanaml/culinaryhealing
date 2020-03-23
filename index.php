@@ -32,13 +32,27 @@
     <!-- Hero -->
       <div class="hero-image">
         <div class="hero-text">
-
-          <h1>21-DAY CLEANSE</h1>
-          <h3>WANT TO EAT BETTER <br />
+          <div class="card" style="width: 18rem;">
+            <div class="card-body">
+              <h3 class="card-title">21-DAY CLEANSE</h3>
+              <h3 class="card-subtitle mb-2 text-muted"> WANT TO EAT BETTER <br />
           and FEEL BETTER?</h3>
-          <p>Join our 21-Day cleanse and let me show you how!</p>
-          <p>April 8 - 28, 2020</p>
-          <a class="btn btn-info" href="21day.php" role="button">Learn More</a>
+          
+              <p class="card-text"><p>Join our 21-Day cleanse and learn how!</p>
+              <p>April 8 - 28, 2020
+              <a class="btn btn-info" href="21day.php" role="button">Learn More</a>
+             
+            </div>
+          </div>
+
+
+
+
+
+
+          
+         
+          
           </div>
         </div>
 
@@ -57,7 +71,7 @@
             </div>
           </div>
           <div class="card shadow p-3 mb-5 bg-white rounded">
-            <img src="assets/images/whole2.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+            <img src="assets/images/whole3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
               <h5 class="card-title">21-Day Cleanse</h5>
               <p class="card-text">Take a 21 day vacation from the toxins of the world. Let your body fight the battle against toxins, leaving you lighter, clearer and healthier! <a href="21day.php">Learn more...</a> 
