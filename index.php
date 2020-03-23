@@ -30,6 +30,7 @@
  <!-- index -->
 
     <!-- Hero -->
+    <div class="container">
       <div class="hero-image">
         <div class="hero-text">
 
@@ -41,6 +42,7 @@
           <a class="btn btn-info" href="21day.php" role="button">Learn More</a>
           </div>
           </div>
+        </div>
         </div>
 
       <!-- Subscribe -->
