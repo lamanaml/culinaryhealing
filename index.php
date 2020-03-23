@@ -25,12 +25,12 @@
   <body id="home">
 
     <!-- navigation -->
-    <!-- <?php include_once("nav.html"); ?> -->
+     <?php include_once("nav.html"); ?>
     
  <!-- index -->
 
     <!-- Hero -->
-    <!-- <div class="container">
+    <div class="container">
       <div class="hero-image">
         <div class="hero-text">
           <h1>21-DAY CLEANSE</h1>
@@ -42,7 +42,7 @@
           </div>
           </div>
         </div>
-        </div> -->
+        </div>
 
       <!-- Subscribe -->
   <?php include_once("subscribe.html"); ?>
