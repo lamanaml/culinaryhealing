@@ -41,7 +41,7 @@
           <p>The cleanse is divided into 4 phases that are designed to gradually detox our bodies with the least amount of symptoms.  After reaching the deepest level of detox, we slowly reverse the phases to prepare our digestive systems for our new and improved diet.</p>
         <div class="card-group">
           <div class="card">
-            <img class="card-img-top" src="assets/images/whole2.jpg" alt="Card image cap">
+            <img class="card-img-top" src="assets/images/whole3.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Whole Food</h5>
               <p class="card-text">(Phase 1) Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible.</p>
@@ -55,7 +55,7 @@
             </div>
           </div>
           <div class="card">
-            <img class="card-img-top" src="assets/images/juice" alt="Card image cap">
+            <img class="card-img-top" src="assets/images/juice.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Liquids</h5>
               <p class="card-text">(Phase 3) Fresh fruit and veggie juice, coconut water, broths, herbal tea will flood our bodies with nutrients!</p>
