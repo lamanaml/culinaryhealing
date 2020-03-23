@@ -251,7 +251,7 @@ input[type=submit] {
 
 
 
-// Bootstrap resets
+/* // Bootstrap resets
 .card {
   border: none;
 }
@@ -319,9 +319,9 @@ input[type=submit] {
     }
     
   }
-}
+} */
 
-@media (max-width: 576px) {
+@media (max-width:743px) {
   
   .flex-container {
   display: flex;
