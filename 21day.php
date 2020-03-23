@@ -79,35 +79,35 @@
           <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
               <div class="card-header">Instructions</div>
               <div class="card-body">
-              <p class="card-text">This section </p>
+              <p class="card-text">The Web site walks us step by step through the entire 21 days.  This is where we identify what to eat, what to eliminate, and identify supportive activities to help make our journey a little easier.  </p>
               </div>
             </div>
 
             <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
                 <div class="card-header">Daily Notes</div>
                 <div class="card-body">
-                  <p class="card-text">Daily email with encouragement and useful tips</p>
+                  <p class="card-text">Each day, you will receive a daily email with tips and encourgement.  The email wil contain links to relevant informaiton to help us stay on track. </p>
                 </div>
             </div>
 
             <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
                 <div class="card-header">Group Discussion</div>
                 <div class="card-body">
-                  <p class="card-text">Access to an online community of support specifically for this fast</p>
+                  <p class="card-text">There is a PRIVATE discussion forum where members of the cleanse can support each other.  We ask and answer questions, share our experiences, and motivate each other to keep pushing forward. </p>
                 </div>
             </div>
 
             <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
                 <div class="card-header">Recipes</div>
                 <div class="card-body">
-                  <p class="card-text">Access to forum full of recipes for each phase.</p>
+                  <p class="card-text">There are several recipes for each phase of the cleanse.  You can test some out and find your favorites, or add your own! </p>
                 </div>
             </div>
 
             <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header">Hotline</div>
                 <div class="card-body">
-                  <p class="card-text">24 hour hotline for questions and issues that may arise</p>
+                  <p class="card-text">You will have access to LaMana anytime.  Call, email, chat or through the group discussion, you are never alone!</p>
                 </div>
             </div>
           </div>
