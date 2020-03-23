@@ -31,7 +31,7 @@
 <div class="container whitebg">
      
     <!-- Hero -->
-   
+<!--    
       <div class="hero-image">
         <div class="hero-text">
           <h1>21-DAY CLEANSE</h1>
@@ -45,8 +45,7 @@
         </div>
         </div>
 
-      <!-- Subscribe -->
-  <?php include_once("subscribe.html"); ?>
+ -->
 
 
       <!-- Cards -->
