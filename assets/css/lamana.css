@@ -332,9 +332,10 @@ input[type=submit] {
   justify-content: center;
 }
 
-h1, h2, h3, .btn {
+h1, h2, h3 {
   font-size: 1.5rem;
   padding: 10px;
+  justify-content: center;
 }
 
 }
