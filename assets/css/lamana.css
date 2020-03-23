@@ -248,6 +248,9 @@ input[type=submit] {
 
 
 
+
+
+
 // Bootstrap resets
 .card {
   border: none;
@@ -316,4 +319,15 @@ input[type=submit] {
     }
     
   }
+}
+@media (min-width: 576px) {
+  
+  .flex-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 10px 100px 10px 10px;
+  align-items: center;
+  justify-content: flex-end;
+}
 }
