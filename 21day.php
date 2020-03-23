@@ -37,35 +37,35 @@
               
               <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p>
    <!-- ------------------------------  The phases --------------------------------------------- -->
-          <h3 >What will I eat?</h3>
-          <p>The cleanse is divided into 4 phases that are designed to gradually detox our bodies efficiently but with the least amount of symptoms, then gradually prepare our digestive systems for our new and improved diet.   ​</p>
+          <h3 >What will we eat?</h3>
+          <p>The cleanse is divided into 4 phases that are designed to gradually detox our bodies with the least amount of symptoms.  After reaching the deepest level of detox, we slowly reverse the phases to prepare our digestive systems for our new and improved diet.</p>
         <div class="card-group">
           <div class="card">
             <img class="card-img-top" src="assets/images/burger-bean.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Whole Food</h5>
-              <p class="card-text">Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible.</p>
+              <p class="card-text">(Phase 1) Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible.</p>
             </div>
           </div>
           <div class="card">
             <img class="card-img-top" src="assets/images/raw-lasagna.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Live Food / Raw</h5>
-              <p class="card-text">Live foods are uncooked fruits and vegetables, so the enzymes are still in tact. These enzymes repair and rebuild our bodies</p>
+              <p class="card-text">(Phase 2)Live foods are uncooked fruits and vegetables, so the enzymes are still in tact. These enzymes repair and rebuild our bodies</p>
             </div>
           </div>
           <div class="card">
             <img class="card-img-top" src="assets/images/vegetable-soup.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Liquids</h5>
-              <p class="card-text">Fresh fruit and veggie juice, coconut water, broths, herbal tea will flood our bodies with nutrients!</p>
+              <p class="card-text">(Phase 3)Fresh fruit and veggie juice, coconut water, broths, herbal tea will flood our bodies with nutrients!</p>
             </div>
           </div>  
           <div class="card">
             <img class="card-img-top" src="assets/images/vegetable-soup.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Water</h5>
-              <p class="card-text">Distilled water to completely starve the toxins and kick the detox into the highest gear. </p>
+              <p class="card-text">(Phase 4)Distilled water to completely starve the toxins and kick the detox into the highest gear. </p>
             </div>
           </div>  
         </div>  
