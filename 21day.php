@@ -42,7 +42,7 @@
             ew and improved diet.</p>
         <div class="card-group">
           <div class="card">
-            <img class="card-img-top" src="assets/images/whole2.jpg" alt="Card image cap">
+            <img class="card-img-top" src="assets/images/whole.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Whole Food</h5>
               <p class="card-text">(Phase 1) Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible.</p>
