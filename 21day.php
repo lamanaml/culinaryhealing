@@ -38,7 +38,7 @@
               <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p>
    <!-- ------------------------------  The phases --------------------------------------------- -->
           <h3 >What will we eat?</h3>
-          <p>The cleanse is divided into 4 phases that are designed to gradually detox our bodies with the least amount of symptoms.  After reaching the deepest level of detox, we slowly reverse the phases to prepare our digestive systems for our new and improved diet.</p>
+          <p>The cleanse is divided into 4 phases that are designed to gradually detox our bodies with the least amount of hunger and withdrawal symptoms.  After reaching the deepest level of detox, we slowly reverse the phases to prepare our digestive systems for our new and improved diet.</p>
         <div class="card-group">
           <div class="card">
             <img class="card-img-top" src="assets/images/whole3.jpg" alt="Card image cap">
