@@ -29,12 +29,7 @@
     
  <!-- index -->
 <div class="container whitebg">
-      <div class="jumbotron whitebg">
-        <h1 class="display-4">21-Day Cleanse</h1>
-    
-              <p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis. From the air that we breath, to products that we use, to the foods that we eat.  Although our bodies ae designed to rid itself of these toxins naturally, it can become overburdened. Detox progams, like this cleanse, gives our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and wellbeing.​</p>
-              
-              <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p>
+     
     <!-- Hero -->
     <div class="container">
       <div class="hero-image">
