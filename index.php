@@ -28,7 +28,7 @@
      <?php include_once("nav.html"); ?>
     
  <!-- index -->
-<div class="container whitebg">
+
      
     <!-- Hero -->
 <!--    
