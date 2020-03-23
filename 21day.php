@@ -37,8 +37,8 @@
               
               <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p>
    <!-- ------------------------------  The phases --------------------------------------------- -->
-          <h3 >What will we eat?</h3>
-          <p>The cleanse is divided into 4 phases that are designed to gradually detox our bodies with the least amount of hunger and withdrawal symptoms.  After reaching the deepest level of detox, we slowly reverse the phases to prepare our digestive systems for our new and improved diet.</p>
+          <h3>The process</h3>
+          <p>This cleanse is divided into 4 phases that are designed to gradually detox our bodies with the least amount of hunger and withdrawal symptoms.  After reaching the deepest level of detox, we slowly reverse the phases to prepare our digestive systems for our new and improved diet.</p>
         <div class="card-group">
           <div class="card">
             <img class="card-img-top" src="assets/images/whole3.jpg" alt="Card image cap">
@@ -48,7 +48,7 @@
             </div>
           </div>
           <div class="card">
-            <img class="card-img-top" src="assets/images/raw2.jpg" alt="Card image cap">
+            <img class="card-img-top" src="assets/images/raw3.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Live Food / Raw</h5>
               <p class="card-text">(Phase 2) Live foods are uncooked fruits and vegetables, so the enzymes are still in tact. These enzymes repair and rebuild our bodies</p>
@@ -72,21 +72,21 @@
 
         
 <!-- ------------------------------  The components --------------------------------------------- -->
-        <h3 >How does it work?</h3>
-        <div>This cleanse is for people with all levels of fasting experience from first time fasters to the experts. It is virtual, so you can live anywhere in the world and still participate. 
+        <h3>The experience</h3>
+        <div>This cleanse is for people with all levels of fasting experience from first time fasters to the experts. It is virtual, so you can live anywhere in the world and still participate. There are several components that work together to create the total cleanse experience.
         </div>
         <div class="card-group">
           <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
               <div class="card-header">Instructions</div>
               <div class="card-body">
-              <p class="card-text">The Web site walks us step by step through the entire 21 days.  This is where we identify what to eat, what to eliminate, and identify supportive activities to help make our journey a little easier.  </p>
+              <p class="card-text">Our Web site walks us step by step through the entire 21 days.  This is where we identify what to eat, what to eliminate, and identify supportive activities to help make our journey a little easier.  </p>
               </div>
             </div>    
 
             <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
                 <div class="card-header">Daily Notes</div>
                 <div class="card-body">
-                  <p class="card-text">Each day, you will receive a daily email with tips and encourgement.  The email wil contain links to relevant informaiton to help us stay on track. </p>
+                  <p class="card-text">Each day, we will receive a daily email with tips and encourgement.  The email will contain links to relevant informaiton to help us stay on track. </p>
                 </div>
             </div>
 
@@ -117,8 +117,8 @@
             <p>Price: $39 </p> 
               <p><a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Register Now <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"7bd51cd7f1b65f154b476fb09","lid":"a57ff37c91","uniqueMethods":true}) })</script></a>   </p>
           </div>
-          <div>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  LaMana Donadelle is a health supportive chef, not a medical doctor. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmlmess LaMana Donadelle and Culinary Healing for any issues while participating in this cleanse. 
-          </div>
+          <h6>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  LaMana Donadelle is a health supportive chef, not a medical doctor. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmlmess LaMana Donadelle and Culinary Healing for any issues while participating in this cleanse. 
+          </h6>
         </div>
       </div>
    </div>
