@@ -334,7 +334,7 @@ input[type=submit] {
 
 h1, h2, h3 {
   font-size: 1.25rem;
-  padding: 10px;
+  padding: 50px;
   justify-content: center;
   align-items: center;
 }
