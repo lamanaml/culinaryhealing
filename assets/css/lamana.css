@@ -43,7 +43,6 @@ padding: 5px 90px 5px 30px;
   left: 20%;
   transform: translate(-50%, -50%);
   color: white;
-  font-size: 1rem;
   
 }
 
@@ -114,7 +113,6 @@ padding:0px 20px 0px 20px;
    width: 30%;
    padding:20px;
 }
-
 
 .img-left {
    float: left;
