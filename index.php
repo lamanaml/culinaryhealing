@@ -31,7 +31,7 @@
 <div class="container whitebg">
      
     <!-- Hero -->
-    <div class="container">
+   
       <div class="hero-image">
         <div class="hero-text">
           <h1>21-DAY CLEANSE</h1>
