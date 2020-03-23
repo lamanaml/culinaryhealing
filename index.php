@@ -25,7 +25,7 @@
   <body id="home">
 
     <!-- navigation -->
-    <?php include_once("nav.html"); ?>
+    <!-- <?php include_once("nav.html"); ?> -->
     
  <!-- index -->
 
@@ -33,7 +33,6 @@
     <div class="container">
       <div class="hero-image">
         <div class="hero-text">
-
           <h1>21-DAY CLEANSE</h1>
           <h3>WANT TO EAT BETTER <br />
           and FEEL BETTER?</h3>
