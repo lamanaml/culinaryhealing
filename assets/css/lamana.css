@@ -10,6 +10,7 @@ body, html {
     background-color: beige;
     background-image: url("../images/beige-tiles.png");
     padding-top: 50px;
+    padding-left:10px;
     font-family: 'Open Sans', sans-serif;
     
 };
