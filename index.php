@@ -29,8 +29,7 @@
     
  <!-- index -->
 
-     
-    <!-- Hero -->
+         <!-- Hero -->
    
       <div class="hero-image">
         <div class="hero-text">

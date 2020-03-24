@@ -27,6 +27,17 @@ padding: 5px 90px 5px 30px;
 /*           Hero            */
 /* ///////////////////////// */
  
+
+
+.hero-text {
+  text-align: left;
+  position: relative;
+  top: 50%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/bean-salad.jpg");
   height: 70%;
@@ -34,16 +45,6 @@ padding: 5px 90px 5px 30px;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative; 
-}
-
-.hero-text {
-  text-align: left;
-
-  top: 50%;
-  left: 20%;
-  transform: translate(-50%, -50%);
-  color: white;
-  
 }
 
 .container-class {
