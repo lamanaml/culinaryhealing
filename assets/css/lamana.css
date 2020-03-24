@@ -31,7 +31,7 @@ padding: 5px 90px 5px 30px;
 
 .hero-text {
   text-align: left;
-  position: absolute;
+ 
   top: 50%;
   left: 20%;
   transform: translate(-50%, -50%);
