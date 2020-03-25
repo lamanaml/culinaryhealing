@@ -333,5 +333,8 @@ input[type=submit] {
   align-items: center;
 } */
 
+.hero-text {
+  text-align: center;
+
 }
 
