@@ -331,6 +331,9 @@ input[type=submit] {
   padding: 10px;
   justify-content: center;
   align-items: center;
+  font-weight: 400;
+  line-height: 1;
+  
 } 
 
 .hero-text {
