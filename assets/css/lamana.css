@@ -348,6 +348,11 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: 1.25rem;
+  padding:0px;
+   }
+
+   p {
+     padding:0px;
    }
 
 .hero-text {
