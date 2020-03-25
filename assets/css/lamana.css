@@ -326,12 +326,12 @@ input[type=submit] {
   justify-content: center;
 }
 
-/* h1, h2, h3 {
+ h1, h2, h3 {
   font-size: 1.5rem;
   padding: 10px;
   justify-content: center;
   align-items: center;
-} */
+} 
 
 .hero-text {
   text-align: center;
