@@ -27,10 +27,9 @@
     <!-- navigation -->
      <?php include_once("nav.html"); ?>
     
- <!-- index -->
+     <!-- index -->
 
-         <!-- Hero -->
-   
+      <!-- Hero -->
       <div class="hero-image">
         <div class="hero-text">
           <h1>21-DAY CLEANSE</h1>
@@ -46,8 +45,6 @@
 
       <!-- Subscribe -->
   <?php include_once("subscribe.html"); ?>
-
-
 
       <!-- Cards -->
       <div class="container">
