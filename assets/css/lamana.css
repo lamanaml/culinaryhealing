@@ -359,7 +359,7 @@ input[type=submit] {
 
 @media (max-width:768px) {
 
-    .topnav.responsive {position: relative;}
+  .topnav.responsive {position: relative;}
   .topnav.responsive a.icon {
     position: absolute;
     right: 0;
@@ -370,7 +370,7 @@ input[type=submit] {
     display: block;
     text-align: left;
   }
-}
+
   
   .flex-container {
   display: flex;
@@ -413,6 +413,7 @@ h3, .h3 {
 
 .hero-text {
   text-align: center;
+  justify-content: center;
 
 }
-
+}
