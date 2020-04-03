@@ -59,13 +59,13 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
     <div class="w3-quarter">
-      <img src="/w3images/steak.jpg" alt="Steak" style="width:100%">
-      <h3>Let Me Tell You About This Steak</h3>
+      <img src="recipes/images/whitebeansoup.JPG" alt="Steak" style="width:100%">
+      <h3>White Bean Soup with Tomatoes and Spinach</h3>
       <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
     <div class="w3-quarter">
-      <img src="/w3images/cherries.jpg" alt="Cherries" style="width:100%">
-      <h3>Cherries, interrupted</h3>
+      <img src="recipes/images/rolledoatwaffles.JPG" alt="Cherries" style="width:100%">
+      <h3>Rolled Oat Waffles</h3>
       <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
       <p>What else?</p>
     </div>
