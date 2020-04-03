@@ -34,8 +34,7 @@
       <div class="hero-image">
         <div class="hero-text">
           <h1>21-DAY CLEANSE</h1>
-          <h3 class="cursive">WANT TO EAT BETTER </h3>
-          <h3 class="cursive"> and FEEL BETTER?</h3>
+          <h3 class="cursive"> Eat Better... Feel Better. </h3>
           <p>April 8 - 28, 2020</p>
           <a class="btn btn-info" href="21day.php" role="button">Learn More</a>
         </div>
