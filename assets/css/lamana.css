@@ -357,7 +357,7 @@ input[type=submit] {
   }
 } */
 
-@media (max-width:768px) {
+@media (max-width:600px) {
 
   .topnav.responsive {position: relative;}
   .topnav.responsive a.icon {
