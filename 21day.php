@@ -29,7 +29,7 @@
 
 <!-- 21-day -->
 
-    <div class="container whitebg">   
+    <div class="container whitebg">     
       <div class="jumbotron whitebg">
         <h1 class="display-4">21-Day Cleanse</h1>
     

@@ -20,6 +20,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/lamana.css">
   </head>
   <body id="home">
@@ -33,18 +34,16 @@
       <div class="hero-image">
         <div class="hero-text">
           <h1>21-DAY CLEANSE</h1>
-          <h3>WANT TO EAT BETTER <br />
-          and FEEL BETTER?</h3>
-          <p>Join our 21-Day cleanse and learn how!</p>
+          <h3 class="cursive">WANT TO EAT BETTER </h3>
+          <h3 class="cursive"> and FEEL BETTER?</h3>
           <p>April 8 - 28, 2020</p>
           <a class="btn btn-info" href="21day.php" role="button">Learn More</a>
-          </div>
-          </div>
         </div>
-        </div>
+      </div>
+
 
       <!-- Subscribe -->
-  <?php include_once("subscribe.html"); ?>
+      <?php include_once("subscribe.html"); ?>
 
       <!-- Cards -->
       <div class="container">
