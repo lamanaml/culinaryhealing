@@ -26,10 +26,10 @@
     <link rel="stylesheet" href="assets/css/lamana.css">
   </head>
   <body id="home">
-
+<div>
     <!-- navigation -->
      <?php include_once("nav.html"); ?>
-    
+    </div>
      <!-- index -->
 
       <!-- Hero -->
