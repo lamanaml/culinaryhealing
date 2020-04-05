@@ -300,8 +300,13 @@ h3, .h3 {
 .hero-text {
   text-align: center;
   justify-content: center;
-   
   align-items: center;
 
-}
+ }
+
+ .navbar-brand {
+   width:200px;
+   align-items: right;
+
+ }
 }
