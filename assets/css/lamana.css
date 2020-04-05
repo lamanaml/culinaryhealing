@@ -10,7 +10,7 @@ body, html {
     width: 100%;
     background-color: beige;
     background-image: url("../images/beige-tiles.png");
-    padding-top: 50px;
+    /* padding-top: 50px; */
     font-family: 'Open Sans', sans-serif;
 };
 
@@ -289,7 +289,7 @@ h3, .h3 {
   p {
     padding:0px;
   }
-
+/* 
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/bean-salad.jpg");
   height: 70%;
@@ -302,7 +302,7 @@ h3, .h3 {
   justify-content: center;
   align-items: center;
 
- }
+ } */
 
  .navbar-brand {
    width:200px;
