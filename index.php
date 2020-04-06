@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="assets/css/lamana.css">
   </head>
   <body id="home">
-<div>
+<div class="nav-div">
     <!-- navigation -->
      <?php include_once("nav.html"); ?>
     </div>
