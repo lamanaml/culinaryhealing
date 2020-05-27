@@ -44,7 +44,7 @@
        <div><p> ​Well... this is my journey, join me if you can...</p>
       </div>
     </div>
-
+</div>
     <!-- Footer -->
     <?php include_once("footer.html"); ?>
 

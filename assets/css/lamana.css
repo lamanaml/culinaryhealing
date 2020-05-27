@@ -12,6 +12,7 @@ body, html {
     background-image: url("../images/beige-tiles.png");
     /* padding-top: 50px; */
     font-family: 'Open Sans', sans-serif;
+     padding-top: 70px;
 };
 
 /* ///////////////////////// */
@@ -24,8 +25,9 @@ padding: 5px 90px 5px 30px;
 margin:2px;
 background-color: purple;
 }
-
-
+ .nav-link {
+font-family: 'Roboto', sans-serif;
+ }
 
 /* ///////////////////////// */
 /*           Hero            */
@@ -153,11 +155,20 @@ background-color: white;
   width: 100%;
   padding:20px;
   background-color: #ed553b;
-  color: white;
-  font-size: 12px;
+  color: black;
+  font-size: 14px;
   align-items: left;
+  font-family: 'Roboto', sans-serif;
 
 }
+
+.footerheader {
+ margin-bottom: 0.5rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  line-height: 1;
+   }
+
 
 .footer-copyright {
   /* position: fixed; */
@@ -166,14 +177,14 @@ background-color: white;
   left: 0;
   bottom: 0;
   background-color: grey;
-  color: white;
+  color: black;
   font-size: 12px;
-  align:center;
+  text-align-last: center;
    
 }
 
 .fab {
-   padding:20px;
+   padding:0px 10px 0px 10px;
 }
 
 
@@ -313,4 +324,6 @@ h3, .h3 {
    align-items: right;
 
  }
-}
+
+
+

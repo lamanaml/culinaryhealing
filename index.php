@@ -22,6 +22,8 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+
 
     <link rel="stylesheet" href="assets/css/lamana.css">
   </head>
@@ -37,7 +39,7 @@
         <div class="hero-text">
           <h1>21-DAY CLEANSE</h1>
           <h3 class="cursive"> Eat Better... Feel Better. </h3>
-          <p>April 8 - 28, 2020</p>
+          <p>July 11 - 31, 2020</p>
           <a class="btn btn-info" href="21day.php" role="button">Learn More</a>
         </div>
       </div>
