@@ -33,14 +33,16 @@
       <div class="jumbotron whitebg">
         <h1 class="display-4">21-Day Cleanse</h1>
     
-              <p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis. From the air that we breath, to products that we use, to the foods that we eat.  Although our bodies ae designed to rid itself of these toxins naturally, it can become overburdened. Detox progams, like this cleanse, gives our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and wellbeing.​</p>
+              <p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis. From the air that we breath, to products that we use, to the foods that we eat.  Although our bodies ae designed to rid itself of these toxins naturally, it can become overburdened. Detox programs, like this cleanse, gives our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and wellbeing.​</p>
               
               <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p>
    <!-- ------------------------------  The phases --------------------------------------------- -->
           <h3>The process</h3>
-          <p>This cleanse is divided into 4 phases that are designed to gradually detox our bodies with the least amount of hunger and withdrawal symptoms.  After reaching the deepest level of detox, we slowly reverse the phases to prepare our digestive systems for our n
-            ew and improved diet.</p>
-        <div class="card-group">
+          <p>This cleanse is divided into 4 phases that are designed to gradually detox our bodies with the least amount of hunger and withdrawal symptoms.  After reaching the deepest level of detox, we slowly reverse the phases to prepare our digestive systems for our new and improved diet.</p>
+
+          <img src="assets/images/cleanseprocess.png">
+
+        <!-- <div class="card-group">
           <div class="card">
             <img class="card-img-top" src="assets/images/whole.jpg" alt="Card image cap">
             <div class="card-body">
@@ -69,7 +71,7 @@
               <p class="card-text">(Phase 4) Distilled water to completely starve the toxins and kick the detox into the highest gear. </p>
             </div>
           </div>  
-        </div>  
+        </div>   -->
 
         
 <!-- ------------------------------  The components --------------------------------------------- -->
