@@ -37,13 +37,9 @@
               
               <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p>
    <!-- ------------------------------  The phases --------------------------------------------- -->
-          <h3>The process</h3>
-          <p>This cleanse is divided into 4 phases that are designed to gradually detox our bodies with the least amount of hunger and withdrawal symptoms.  After reaching the deepest level of detox, we slowly reverse the phases to prepare our digestive systems for our new and improved diet.</p>
-
-          <img src="assets/images/cleanseprocess.png">
+          <img src="assets/images/chprocessweb.png>
         
-
-        <!-- <div class="card-group">
+          <!-- <div class="card-group">
           <div class="card">
             <img class="card-img-top" src="assets/images/whole.jpg" alt="Card image cap">
             <div class="card-body">
@@ -76,8 +72,8 @@
 
         
 <!-- ------------------------------  The components --------------------------------------------- -->
-        <h3>The experience</h3>
-        <div>This cleanse is for people with all levels of fasting experience from first time fasters to the experts. It is virtual, so you can live anywhere in the world and still participate. There are several components that work together to create the total cleanse experience.
+        <h3>The Experience</h3>
+        <div>This cleanse is for people with all levels of fasting experience from first timers to the experts. It is virtual, so you can live anywhere in the world and still participate. There are several components that work together to create the total cleanse experience.
         </div>
         <div class="card-group">
           <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
@@ -90,7 +86,7 @@
             <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
                 <div class="card-header">Daily Notes</div>
                 <div class="card-body">
-                  <p class="card-text">Each day, we will receive a daily email with tips and encourgement.  The email will contain links to relevant informaiton to help us stay on track. </p>
+                  <p class="card-text">Each day, we will receive a daily email with tips and encouragement.  The email will contain links to relevant information to help us stay on track. </p>
                 </div>
             </div>
 
