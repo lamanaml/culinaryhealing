@@ -65,13 +65,13 @@
               <p class="card-text">Take a 21 day vacation from the toxins of the world. Let your body fight the battle against toxins, leaving you lighter, clearer and healthier! <a href="21day.php">Learn more...</a> 
             </div>
           </div>
-          <div class="card shadow p-3 mb-5 bg-white rounded">
+          <!-- <div class="card shadow p-3 mb-5 bg-white rounded">
             <img src="assets/images/vegetable-soup.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
             <div class="card-body">
               <h5 class="card-title">Recipes</h5>
               <p class="card-text">Take a tour of the food that I love to cook and eat.  I am not a huge recipe follower.  I sometimes use recipes as my guide, then put my own spin on them.  I encourage you to use these as a starting point, then make your own magic! <a href="recipes.php">Eat More...</a> </p>
             </div>
-          </div>
+          </div> -->
         </div>
   
 

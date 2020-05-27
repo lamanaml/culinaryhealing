@@ -41,6 +41,7 @@
           <p>This cleanse is divided into 4 phases that are designed to gradually detox our bodies with the least amount of hunger and withdrawal symptoms.  After reaching the deepest level of detox, we slowly reverse the phases to prepare our digestive systems for our new and improved diet.</p>
 
           <img src="assets/images/cleanseprocess.png">
+        
 
         <!-- <div class="card-group">
           <div class="card">
