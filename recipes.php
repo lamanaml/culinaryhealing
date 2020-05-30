@@ -55,63 +55,31 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <div class="w3-row-padding w3-padding-16 w3-center" id="food">
     <div class="w3-quarter">
       <img src="recipes/images/kalesquashstew.JPG" alt="Kale Butternut Squash Stew" style="width:100%">
-      <h3>Kale and Butternut Squash Stew</h3>
-      <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      <h3>Kale Salad</h3>
     </div>
+
     <div class="w3-quarter">
       <img src="recipes/images/whitebeansoup.JPG" alt="Steak" style="width:100%">
-      <h3>White Bean Soup with Tomatoes and Spinach</h3>
-      <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      <h3>Eggplant Parmesan</h3>
     </div>
+
     <div class="w3-quarter">
       <img src="recipes/images/rolledoatwaffles.JPG" alt="Cherries" style="width:100%">
       <h3>Rolled Oat Waffles</h3>
-      <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-      <p>What else?</p>
     </div>
+
     <div class="w3-quarter">
       <img src="/w3images/wine.jpg" alt="Pasta and Wine" style="width:100%">
       <h3>BBQ Collard Green Rolls</h3>
-      <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
     </div>
+  
   </div>
   
   <!-- Second Photo Grid-->
   <div class="w3-row-padding w3-padding-16 w3-center">
     <div class="w3-quarter">
       <img src="/w3images/popsicle.jpg" alt="Popsicle" style="width:100%">
-      <h3>Smokey Black Ban Chili</h3>
-      <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="/w3images/salmon.jpg" alt="Salmon" style="width:100%">
-      <h3>Focaccia </h3>
-      <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="/w3images/sandwich.jpg" alt="Sandwich" style="width:100%">
-      <h3>Spicy South of the Border Black Bean Burger</h3>
-      <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="recipes/images/rastachx.JPG" alt="Croissant" style="width:100%">
-      <h3>Rasta Chicken</h3>
-      <p>Lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="recipes/images/mapleoatbread.JPG" alt="Salmon" style="width:100%">
-      <h3>Maple Oat Bread </h3>
-      <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="recipes/images/creamystuffedpeppers.JPG" alt="Sandwich" style="width:100%">
-      <h3>Creamy Mushroom Stuffed Peppers</h3>
-      <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="/w3images/croissant.jpg" alt="Croissant" style="width:100%">
-      <h3>Le French</h3>
-      <p>Lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      <h3>Collard Green Egg Rolls</h3>
     </div>
   </div>
 
