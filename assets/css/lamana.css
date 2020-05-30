@@ -73,7 +73,8 @@ font-family: 'Dancing Script', cursive;
 }
 .blackheader {
     color:black;
-    font-size: 18px;
+    font-size: 24px;
+    font-weight: bold ;
 
     
 }
