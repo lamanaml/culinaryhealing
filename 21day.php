@@ -77,23 +77,23 @@
         </div>
         <div class="card-group">
           <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
-              <div class="card-header">Instructions</div>
+              <div class="card-header">Prework</div>
               <div class="card-body">
-              <p class="card-text">Our Web site walks us step by step through the entire 21 days.  This is where we identify what to eat, what to eliminate, and identify supportive activities to help make our journey a little easier.  </p>
+              <p class="card-text">This initial time will help us ramp up our knowledge about clean healthy eating.  We will learn about the foods that help establish and maintain optimal health.  We will learn how to identify safe recipes, menu plan and grocery shop like a pro!  </p>
               </div>
             </div>    
 
             <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
                 <div class="card-header">Daily Notes</div>
                 <div class="card-body">
-                  <p class="card-text">Each day, we will receive a daily email with tips and encouragement.  The email will contain links to relevant information to help us stay on track. </p>
+                  <p class="card-text">Once we are empowered with our goal, we will start the journey.  You will receive daily notes of information, encouragement and tips to keep us all on track! </p>
                 </div>
             </div>
 
             <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
                 <div class="card-header">Group Discussion</div>
                 <div class="card-body">
-                  <p class="card-text">There is a PRIVATE discussion forum where members of the cleanse can support each other.  We ask and answer questions, share our experiences, and motivate each other to keep pushing forward. </p>
+                  <p class="card-text">There is a PRIVATE discussion group where current members of the cleanse can support each other.  We ask and answer questions, share our experiences, and motivate each other to keep pushing forward. </p>
                 </div>
             </div>
 
@@ -107,17 +107,17 @@
             <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header">Hotline</div>
                 <div class="card-body">
-                  <p class="card-text">You will have access to LaMana anytime.  Call, email, chat or through the group discussion, you are never alone!</p>
+                  <p class="card-text">Our facilitators will be available 24-7 to support us all through the cleanse.  Through phone call, email, chat or through the group discussion, you are never alone!</p>
                 </div>
             </div>
           </div>
         
    <!-- ------------------------------  Register --------------------------------------------- -->      
          <div>
-            <p>Price: $39 </p> 
+            <p>Price: $45 </p> 
               <p><a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Register Now <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"7bd51cd7f1b65f154b476fb09","lid":"a57ff37c91","uniqueMethods":true}) })</script></a>   </p>
           </div>
-          <h6>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  LaMana Donadelle is a health supportive chef, not a medical doctor. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmlmess LaMana Donadelle and Culinary Healing for any issues while participating in this cleanse. 
+          <h6>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  We are not medical doctors. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmlmess Culinary Healing and any of its employees for any issues while participating in this cleanse. 
           </h6>
         </div>
       </div>
