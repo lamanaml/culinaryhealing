@@ -43,7 +43,7 @@
         
         <div class="wrapper">
           <div class="box c"><h1 class="display-4">21-Day Cleanse - First steps</h1></div>
-          <div class="box c">B</div>
+          <div class="box d">B</div>
         </div>
         
 
