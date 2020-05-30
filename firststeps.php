@@ -69,7 +69,7 @@
         </div>
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
-          <img src="assets/images/juice.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
+          <img src="assets/images/juice1.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
           <div class="card-body">
             <h5 class="card-title">Liquids</h5>
             <p class="card-text">Liquids - Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!<a href="recipes.php">Learn More...</a> </p>
