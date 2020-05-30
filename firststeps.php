@@ -51,21 +51,26 @@
             <img src="assets/images/whole2.jpg" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
               <h5 class="card-title">Whole Food</h5>
-              <p class="card-text">  <a href="about.php">Read More...</a>   </p>
+              <p class="card-text">  
+                Whole foods - Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible.
+                
+                <a href="about.php">Read More...</a>   </p>
             </div>
           </div>
           <div class="card shadow p-3 mb-5 bg-white rounded">
             <img src="assets/images/raw.jpg" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
               <h5 class="card-title">Live Food</h5>
-              <p class="card-text"> <a href="21day.php">Learn more...</a> 
+              <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact. 
+
+ <a href="21day.php">Learn more...</a> 
             </div>
           </div>
           <div class="card shadow p-3 mb-5 bg-white rounded">
             <img src="assets/images/juice.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
             <div class="card-body">
               <h5 class="card-title">Liquids</h5>
-              <p class="card-text"><a href="recipes.php">Eat More...</a> </p>
+              <p class="card-text">Liquids - Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!<a href="recipes.php">Eat More...</a> </p>
             </div>
           </div>
         </div>
