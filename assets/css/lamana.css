@@ -67,6 +67,10 @@ font-family: 'Dancing Script', cursive;
     margin: 0px;
     
 }
+.container {
+    background-color: white;
+    
+}
 
 /* ///////////////////////// */
 /*      Subscribe            */
