@@ -61,7 +61,7 @@
         </div>
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
-          <img src="assets/images/raw.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+          <img src="assets/images/raw3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
             <h5 class="card-title">Live Food</h5>
             <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.  <a href="21day.php">Learn more...</a> 
