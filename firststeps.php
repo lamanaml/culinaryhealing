@@ -88,7 +88,7 @@
 
     <div class="card" style="width: 18rem;">
       <div class="card-header">
-       <h1> What's the deal with:</h1>
+       <span class="blackheader"> What's the deal with:</span>
       </div>
       <ul class="list-group list-group-flush">
         <li class="list-group-item">Reading labels</li>
