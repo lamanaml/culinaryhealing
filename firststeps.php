@@ -37,8 +37,9 @@
       <!-- Hero -->
 
 <div class="jumbotron">
-  <h1 class="display-4">The Prework</h1>
-  <p class="lead"> .</p>
+  <h1 class="display-4">First steps</h1>
+  <p class="lead"> "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Don't limit yourself to what you think is possible as a human being.  Open your mind to experience life as a spiritual being.  There are no limitations.
+</p>
   <hr class="my-4">
   
 </div>
