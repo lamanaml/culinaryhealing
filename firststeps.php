@@ -30,57 +30,77 @@
 
     <link rel="stylesheet" href="assets/css/lamana.css">
   </head>
-  <body id="home">
-<div class="nav-div">
-    <!-- navigation -->
-     <?php include_once("nav.html"); ?>
+  <body id="firststeps">
+    <div class="nav-div">
+      <!-- navigation -->
+      <?php include_once("nav.html"); ?>
     </div>
-     <!-- prework -->
+    <!-- prework -->
 
-      <!-- Hero -->
-
-<div class="jumbotron">
-  <h1 class="display-4">First steps</h1>
-  <p class="lead"> "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Don't limit yourself to what you think is possible as a human being.  Open your mind to experience life as a spiritual being.  There are no limitations.
-</p>
-  <hr class="my-4">
-  
-</div>
+    <!-- Hero -->
+    <div class="container">
+      <div class="jumbotron">
+        <h1 class="display-4">First steps</h1>
+        <p class="lead"> "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Don't limit yourself to what you think is possible as a human being.  Open your mind to experience life as a spiritual being.  There are no limitations.
+        </p>
+      </div>
+    </div>
       
+    <div class="container">
+    <!-- Cards -->
+      <div class="card-group ">
 
-      <!-- Cards -->
-      <div class="container">
-        <div class="card-group ">
-          <div class="card shadow p-3 mb-5 bg-white rounded">
-            <img src="assets/images/whole2.jpg" class="card-img-top" class="rounded-bottom" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Whole Food</h5>
-              <p class="card-text">  
-                Whole foods - Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible.
-                
-                <a href="about.php">Read More...</a>   </p>
-            </div>
-          </div>
-          <div class="card shadow p-3 mb-5 bg-white rounded">
-            <img src="assets/images/raw.jpg" class="card-img-top" class="rounded-bottom" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Live Food</h5>
-              <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact. 
-
- <a href="21day.php">Learn more...</a> 
-            </div>
-          </div>
-          <div class="card shadow p-3 mb-5 bg-white rounded">
-            <img src="assets/images/juice.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
-            <div class="card-body">
-              <h5 class="card-title">Liquids</h5>
-              <p class="card-text">Liquids - Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!<a href="recipes.php">Eat More...</a> </p>
-            </div>
+        <div class="card shadow p-3 mb-5 bg-white rounded">
+          <img src="assets/images/whole2.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Whole Food</h5>
+            <p class="card-text">  
+              Whole foods - Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible.
+              <a href="about.php">Learn More...</a>   </p>
           </div>
         </div>
 
+        <div class="card shadow p-3 mb-5 bg-white rounded">
+          <img src="assets/images/raw.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Live Food</h5>
+            <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.  <a href="21day.php">Learn more...</a> 
+          </div>
+        </div>
 
+        <div class="card shadow p-3 mb-5 bg-white rounded">
+          <img src="assets/images/juice.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
+          <div class="card-body">
+            <h5 class="card-title">Liquids</h5>
+            <p class="card-text">Liquids - Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!<a href="recipes.php">Learn More...</a> </p>
+          </div>
+        </div>
+      </div>
+   
+  <div class="card-group ">
+
+    <div class="card" style="width: 18rem;">
+      <img class="card-img-top" src="..." alt="Card image cap">
+      <div class="card-body">
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      </div>
+    </div>
+
+    <div class="card" style="width: 18rem;">
+      <div class="card-header">
+        What's the deal with:
+      </div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">Cras justo odio</li>
+        <li class="list-group-item">Dapibus ac facilisis in</li>
+        <li class="list-group-item">Vestibulum at eros</li>
+      </ul>
+    </div>
+
+ </div>
   </div>
+
+
 
     <!-- Footer-->
     <?php include_once("footer.html"); ?> 
