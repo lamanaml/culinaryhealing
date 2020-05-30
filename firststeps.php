@@ -81,18 +81,17 @@
 
     <div class="card" style="width: 18rem;">
       <img class="card-img-top" src="assets/images/foodquestions.jpg" alt="Card image cap">
-      <div class="card-body">
+      <div class="card-body">Check out this section to demystify some of the elements of a healthier lifestyle.   
         
       </div>
     </div>
 
     <div class="card" style="width: 18rem;">
       <div class="card-header">
-        What's the deal with:
+       <h2> What's the deal with:</h2>
       </div>
       <ul class="list-group list-group-flush">
-        <li class="list-group-item">Cleaning and storing fruits and veggies
-</li>
+       
         <li class="list-group-item">Reading labels
 </li>
         <li class="list-group-item">Journaling, prayer and meditation and finding peace
@@ -121,7 +120,7 @@
 
 </li>
 <li class="list-group-item">Me feeling sick
-      </ul>
+      
       <li class="list-group-item">Intermittent fasting / Alkaline diet / Gluten 
       </ul>
     </div>
