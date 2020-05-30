@@ -63,7 +63,7 @@
             <h5 class="card-title">Whole Food</h5>
             <p class="card-text">  
               Whole foods - Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible.
-              <a href="about.php">Learn More...</a>   </p>
+               </p><p><a href="#" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
 
@@ -71,7 +71,7 @@
           <img src="assets/images/raw3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
             <h5 class="card-title">Live Food</h5>
-            <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.  <a href="21day.php">Learn more...</a> 
+            <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.  </p><p><a href="#" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
 
@@ -79,7 +79,7 @@
           <img src="assets/images/juice4.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
           <div class="card-body">
             <h5 class="card-title">Liquids</h5>
-            <p class="card-text">Liquids - Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!<a href="recipes.php">Learn More...</a> </p>
+            <p class="card-text">Liquids - Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!</p><p><a href="#" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
       </div>
