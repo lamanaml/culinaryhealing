@@ -116,10 +116,11 @@
 
 
          <div class="alert alert-primary" role="alert">
-            <p>Price: $45 </p> 
+           <h2>REGISTER NOW!!</h2>
+            <h3>Price: $45 </h3> 
               <p><a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Register Now <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"7bd51cd7f1b65f154b476fb09","lid":"a57ff37c91","uniqueMethods":true}) })</script></a>   </p>
           </div>
-          <h6>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  We are not medical doctors. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmlmess Culinary Healing and any of its employees for any issues while participating in this cleanse. 
+          <h6>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  We are not medical doctors. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmless Culinary Healing and any of its employees for any issues while participating in this cleanse. 
           </h6>
         </div>
       </div>
