@@ -18,7 +18,7 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Culinary Healing</title>
+    <title>Culinary Healing - First Steps</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -41,12 +41,18 @@
     <div class="container">
       <div class="jumbotron">
         <h1 class="display-4">First steps</h1>
-        <p class="lead"> "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Don't limit yourself to what you think is possible as a human being.  Open your mind to experience life as a spiritual being.  There are no limitations.
-        </p>
+
+       
+        <p class="lead"> "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.   </p>
+
+        <p class="lead"> That said, let's take a few days to arm ourselves with the knowledge needed to crush this cleanse. Below are the different phases of the cleanse. We explain each phase, what it means, what to eat, what not to eat, and give you a few activities to help to make sure you understand.  This First Steps section is here to help make sure we have all of the information that we need before we start on day 1.  This way, when the time starts, we will already be floating! </p>
+
+        <p class="lead"> Let's fun with the learning and activities, as the more time we spend here, the more prepared we will be for our 3-week journey! </p>
+
+
+         
       </div>
-    </div>
-      
-    <div class="container">
+
     <!-- Cards -->
       <div class="card-group ">
 
