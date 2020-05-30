@@ -56,7 +56,7 @@
     <!-- Cards -->
     
       <div class="card-group ">
-      <span class="blackheader"> The Phases</span>
+      <div class="blackheader"> The Phases</div>
         <div class="card shadow p-3 mb-5 bg-white rounded">
           <img src="assets/images/whole.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
