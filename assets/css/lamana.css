@@ -71,7 +71,12 @@ font-family: 'Dancing Script', cursive;
     background-color: white;
     
 }
+.blackheader {
+    color:black;
+    font-size: 18px;
 
+    
+}
 /* ///////////////////////// */
 /*      Subscribe            */
 /* ///////////////////////// */

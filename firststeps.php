@@ -91,37 +91,19 @@
        <h1> What's the deal with:</h1>
       </div>
       <ul class="list-group list-group-flush">
-       
-        <li class="list-group-item">Reading labels
-</li>
-        <li class="list-group-item">Journaling, prayer and meditation and finding peace
-</li>
-<li class="list-group-item">Colonics and enemas
-
-</li>
-<li class="list-group-item">Vitamins and supplements
-
-</li>
-<li class="list-group-item">Herbs and superfoods
-
-</li>
-<li class="list-group-item">Physical activity
-</li>
-<li class="list-group-item">Meat and Dairy
-</li>
-<li class="list-group-item">Salt / Sugar / Oils / Carbs
-</li>
-<li class="list-group-item">Coffee and Tea
-
-</li>
-<li class="list-group-item">Eating out / Attending Events / Traveling
-</li>
-<li class="list-group-item">My emotions / My energy
-
-</li>
-<li class="list-group-item">Me feeling sick
-      
-      <li class="list-group-item">Intermittent fasting / Alkaline diet / Gluten 
+        <li class="list-group-item">Reading labels</li>
+        <li class="list-group-item">Journaling, prayer and meditation and finding peace</li>
+        <li class="list-group-item">Colonics and enemas</li>
+        <li class="list-group-item">Vitamins and supplements</li>
+        <li class="list-group-item">Herbs and superfoods</li>
+        <li class="list-group-item">Physical activity</li>
+        <li class="list-group-item">Meat and Dairy</li>
+        <li class="list-group-item">Salt / Sugar / Oils / Carbs</li>
+        <li class="list-group-item">Coffee and Tea</li>
+        <li class="list-group-item">Eating out / Attending Events / Traveling</li>
+        <li class="list-group-item">My emotions / My energy</li>
+        <li class="list-group-item">Me feeling sick</li>  
+        <li class="list-group-item">Intermittent fasting / Alkaline diet / Gluten 
       </ul>
     </div>
 
