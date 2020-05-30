@@ -80,7 +80,7 @@
   <div class="card-group ">
 
     <div class="card" style="width: 18rem;">
-      <img class="card-img-top" src="assets/images/firststeps.php" alt="Card image cap">
+      <img class="card-img-top" src="assets/images/foodquestions.jpg" alt="Card image cap">
       <div class="card-body">
         
       </div>
