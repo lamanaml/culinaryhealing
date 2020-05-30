@@ -54,6 +54,7 @@
       </div>
 
     <!-- Cards -->
+    <span class="blackheader"> The Phases</span>
       <div class="card-group ">
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
@@ -86,13 +87,6 @@
   <div class="card-group ">
 
     <div class="card" style="width: 18rem;">
-      <img class="card-img-top" src="assets/images/foodquestions.jpg" alt="Card image cap">
-      <div class="card-body">Check out this section to demystify some of the elements of a healthier lifestyle.   
-        
-      </div>
-    </div>
-
-    <div class="card" style="width: 18rem;">
       <div class="card-header">
        <span class="blackheader"> What's the deal with:</span>
       </div>
@@ -112,7 +106,12 @@
         <li class="list-group-item">Intermittent fasting / Alkaline diet / Gluten 
       </ul>
     </div>
-
+<div class="card" style="width: 18rem;">
+      <img class="card-img-top" src="assets/images/foodquestions.jpg" alt="Card image cap">
+      <div class="card-body">Check out this section to demystify some of the elements of a healthier lifestyle.   
+        
+      </div>
+    </div>
  </div>
   </div>
 
