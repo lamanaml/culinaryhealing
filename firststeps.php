@@ -51,7 +51,7 @@
       <div class="card-group ">
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
-          <img src="assets/images/whole2.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+          <img src="assets/images/whole.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
             <h5 class="card-title">Whole Food</h5>
             <p class="card-text">  
