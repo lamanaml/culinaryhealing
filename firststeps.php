@@ -88,7 +88,7 @@
 
     <div class="card" style="width: 18rem;">
       <div class="card-header">
-       <h2> What's the deal with:</h2>
+       <h1> What's the deal with:</h1>
       </div>
       <ul class="list-group list-group-flush">
        
