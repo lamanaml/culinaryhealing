@@ -123,7 +123,7 @@
           </div>
         
    <!-- ------------------------------  Register --------------------------------------------- -->      
-<div class="alert alert-success" role="alert">
+<div class="alert alert-success" role="alert" center>
            <h2>REGISTER NOW!!</h2>
             <h3>Price: $45 </h3> 
       <div>
