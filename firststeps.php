@@ -53,8 +53,7 @@
 
     </div>
          
-      </div>
-<div class="container">
+    
     <!-- Cards -->
     <div class="container">
       <div > <h1 class="display-4">The Phases</h1></div>
