@@ -125,46 +125,14 @@
 
            <h2>REGISTER NOW!!</h2>
             <h3>Price: $45 </h3> 
-
-
-            <script
-    src="https://www.paypal.com/sdk/js?client-id=SB_CLIENT_ID"> // Required. Replace SB_CLIENT_ID with your sandbox client ID.
-  </script>
-
-  <div id="paypal-button-container"></div>
-
-  <script>
-    paypal.Buttons().render('#paypal-button-container');
-    // This function displays Smart Payment Buttons on your web page.
-  </script>
-  
-           <div id="paypal-button-container"></div>
-<script src="https://www.paypal.com/sdk/js?client-id=AdSBBt2wxstg1Kqw-6DcjuD0wd4fCBKUX-pdsBYvzC_taETS9D3aHFc8t8ri3aYpRYL90RzkKuu7b6Tb&currency=USD" data-sdk-integration-source="button-factory"></script>
-<script>
-  paypal.Buttons({
-      style: {
-          shape: 'pill',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'buynow',
-          
-      },
-      createOrder: function(data, actions) {
-          return actions.order.create({
-              purchase_units: [{
-                  amount: {
-                      value: '$49'
-                  }
-              }]
-          });
-      },
-      onApprove: function(data, actions) {
-          return actions.order.capture().then(function(details) {
-              alert('Transaction completed by ' + details.payer.name.given_name + '!');
-          });
-      }
-  }).render('#paypal-button-container');
-</script>
+      <div>
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="WMNXR8LR85MQ8">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form>
+      </div>
 
           </div>
           <h6>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  We are not medical doctors. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmless Culinary Healing and any of its employees for any issues while participating in this cleanse. 
@@ -179,9 +147,7 @@
 
 
     <!-- Scripts -->
-    <script
-    src="https://www.paypal.com/sdk/js?client-id=SATKDEIVAtir4OUrlgSVuwXw1QobVhwW5aQSAPLq4AwrldL5xZQN9ETMqYMxe6CjXGwENtudjkdi7kFHD"> // Required. Replace SB_CLIENT_ID with your sandbox client ID.
-  </script>
+    
      
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
