@@ -40,16 +40,11 @@
     <!-- Hero -->
     <div class="container">
       <div class="jumbotron">
-        
-       
-          <h1 class="display-4">21-Day Cleanse - FIRST STEPS</h1>
-          <div class="banner">
-          </div>
+        <h1 class="display-4">21-Day Cleanse - FIRST STEPS</h1>
+          <div class="banner"> </div>
         </div>
-        
 
-       
-        <p class="lead"> "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.   </p>
+          <p class="lead"> "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.   </p>
 
         <p class="lead"> That said, let's take a few days to arm ourselves with the knowledge needed to crush this cleanse. Below are the different phases of the cleanse. We explain each phase, what it means, what to eat, what not to eat, and give you a few activities to help to make sure you understand.  This First Steps section is here to help make sure we have all of the information that we need before we start on day 1.  This way, when the time starts, we will already be floating! </p>
 
@@ -60,7 +55,7 @@
       </div>
 
     <!-- Cards -->
-    
+    <div>
       <div class="card-group ">
       <div class="blackheader"> The Phases</div>
         <div class="card shadow p-3 mb-5 bg-white rounded">
@@ -121,7 +116,7 @@
  </div>
   </div>
 
-
+</div>
 
     <!-- Footer-->
     <?php include_once("footer.html"); ?> 

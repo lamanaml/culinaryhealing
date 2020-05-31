@@ -160,10 +160,10 @@ padding: 30px
 }
 
 .banner {
-background-image: "assets/images/beansalad.jpg";
+background-image: url('assets/images/bean-salad.jpg');
 padding: 30px;
 width: 100%;
-height: 50px;
+height: 90px;
 }
 /* ///////////////////////// */
 /*           Footer          */
