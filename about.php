@@ -41,14 +41,14 @@
 </div>
 
     <!-- main content -->
-  <div class="container">
+  <div class="container" style="padding:25px">
        <!-- <div class="jumbotron">
         <h1 class="display-4">About</h1>
         <p class="lead">Meet Chef LaMana</p>
         <hr class="my-4"> -->
  <div></div> <div></div>
  
-        <div><p> I remember back in the day, my uncle Rico used to make the best-fried bologna sandwiches known to man. You know, the kind of bologna that had the red strip around it. He would fry it up in the pan to the point that it bubbled up in the middle, and he had to cut it with a knife.... Put that on white bread with mustard and I was in heaven!!! Is anybody with me! Hehehe... those were the days. I think back now and I have to ask... what the hell is bologna anyway?!?!</p><img class="img-right" src="assets/images/profile-lamana1.jpg"  alt="..."></div>
+        <div style="padding:25px"><p> I remember back in the day, my uncle Rico used to make the best-fried bologna sandwiches known to man. You know, the kind of bologna that had the red strip around it. He would fry it up in the pan to the point that it bubbled up in the middle, and he had to cut it with a knife.... Put that on white bread with mustard and I was in heaven!!! Is anybody with me! Hehehe... those were the days. I think back now and I have to ask... what the hell is bologna anyway?!?!</p><img class="img-right" src="assets/images/profile-lamana1.jpg"  alt="..."></div>
 
         <div><p>I tell this story just to let you know where I come from. I grew up in the south, Durham, NC... where food was food, there was no separation of healthy food and unhealthy food, good and bad. If you could eat it and it stopped you from being hungry, it was all good. On any given day we had up to 15 people in our house to feed, and money was not abundant, so off to the local Piggly Wiggly grocery store (I am not making this name up), we went to get food to feed the family. I don't have to tell you what types of foods we ended up with. But not to worry, my grandma would "put her foot" in whatever came through the door, and each meal was prepared with love and tasted delicious!! Pig feet, pork chops, fried chicken, white rice, liver and onions, chitterlings w/ hot sauce, fried fish on Fridays! Boy were we happy. Little did we know, we were setting our bodies up to fail us. How could we know? No one ever told my grandma that pork was bad, and fried foods would eventually kill us.</p><img class="img-left" src="assets/images/profile-lamana.jpg"  alt="..."></div>
 
