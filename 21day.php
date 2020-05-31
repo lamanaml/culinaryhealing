@@ -46,8 +46,8 @@
               
               <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p>
    <!-- ------------------------------  The phases --------------------------------------------- -->
-         <div class="process" width="100%"></div>
-          
+         <div width="100%"> <img src="assets/images/chprocessweb.png" width="100%"></div>
+         
         
           <!-- <div class="card-group">
           <div class="card">
