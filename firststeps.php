@@ -113,7 +113,7 @@
     
         <div class="alert alert-success" role="alert">
           <h4 class="alert-heading">Still have Questions?</h4>
-            <p>To the left, we address some of the most common topics from the cleanse.  If you have additional questions, reach out to us!</p>
+            <p>To the left, we address some of the most common topics about the cleanse.  If you have additional questions, reach out to us!</p>
             <hr>
             <p class="mb-0">Send an email to info@culinaryhealing . com</p>
         </div> 
