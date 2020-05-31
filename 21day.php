@@ -128,9 +128,9 @@
    <!-- ------------------------------  Register --------------------------------------------- -->      
 <div class="alert alert-success" role="alert" >
 
-<div class="row">
-    <div class="col">
-     <h2>REGISTER NOW!!</h2>
+<div class="row" >
+    <div class="col center">
+     <h3>REGISTER NOW!!</h3>
             <h3>Price: $45 </h3> 
       <div>
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
