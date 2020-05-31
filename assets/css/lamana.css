@@ -349,7 +349,7 @@ h3, .h3 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/yellow-plate.jpg");
 
   /* Set a specific height */
-  height: 50%;
+  height: 60%;
 
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
