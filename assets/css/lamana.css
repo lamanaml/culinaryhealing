@@ -346,7 +346,8 @@ h3, .h3 {
 .process{
   background-image: url("../images/chprocessweb.png");
   width: 100%;
-  padding: 10px;
+  height: 100%;
+  padding: 50px;
 }
 
 /* The hero image */
