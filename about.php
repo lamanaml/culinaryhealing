@@ -39,7 +39,7 @@
     <p>Vegan / Vegetarian Lifestyle Brand</p>
     
   </div>
-
+</div>
 
     <!-- main content -->
     <!-- <div class="container">
