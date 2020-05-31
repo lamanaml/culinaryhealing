@@ -35,6 +35,9 @@
 
 <div class="hero2-image">
   <div class="hero2-text">
+    <h1 class="display-4">About</h1>
+        <p class="lead">Vegan / Vegetarian Lifestyle Brand</p>
+        <hr class="my-4"> -->
     <h1>Culinary Healing</h1>
     <p>Vegan / Vegetarian Lifestyle Brand</p>
     
@@ -42,8 +45,8 @@
 </div>
 
     <!-- main content -->
-    <!-- <div class="container">
-      <div class="jumbotron">
+   <div class="container">
+       <!-- <div class="jumbotron">
         <h1 class="display-4">About</h1>
         <p class="lead">Meet Chef LaMana</p>
         <hr class="my-4"> -->
