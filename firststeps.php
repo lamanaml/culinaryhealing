@@ -110,7 +110,13 @@
     </div>
 <div class="card" style="width: 18rem;">
       <img class="card-img-top" src="assets/images/foodquestions.jpg" alt="Card image cap">
-      <div class="card-body">Check out this section to demystify some of the elements of a healthier lifestyle.   
+      <div class="card-body">
+        <div class="alert alert-success" role="alert">
+          <h4 class="alert-heading">Well done!</h4>
+            <p>To the left, we address some of the most common topics from the cleanse.  If you have additional questions, reach out to us!</p>
+            <hr>
+            <p class="mb-0">Send an email to info @ culinaryhealing . com</p>
+        </div> 
         
       </div>
     </div>
