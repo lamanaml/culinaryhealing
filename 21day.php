@@ -45,7 +45,7 @@
           <div class="col-8"><p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis. From the air that we breath, to products that we use, to the foods that we eat.  Although our bodies ae designed to rid itself of these toxins naturally, it can become overburdened. Detox programs, like this cleanse, gives our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and wellbeing.​</p>
               
               <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p></div>
-          <div class="col-4"><img src="assets/images/whole.jpg" width="100%"></div>
+          <div class="col-4"><img src="assets/images/cleanseWPimage.png" width="100%"></div>
         </div>
               
    <!-- ------------------------------  The phases --------------------------------------------- -->
@@ -132,6 +132,8 @@
     <div class="col center">
      <h3>REGISTER NOW!!</h3>
             <h3>Price: $45 </h3> 
+            <h2>July 10 - 30</h2> 
+
       <div>
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
