@@ -6,7 +6,7 @@
   <head>
     <link rel="icon" 
       type="image/jpg" 
-      href="assets/images/favicon.jpg">
+      href="../assets/images/favicon.jpg">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26808506-1"></script>
     <script>
@@ -28,7 +28,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
 
 
-    <link rel="stylesheet" href="assets/css/lamana.css">
+    <link rel="stylesheet" href="../assets/css/lamana.css">
   </head>
   <body id="firststeps">
     <div class="nav-div">
@@ -60,7 +60,7 @@
       <div class="card-group ">
       
         <div class="card shadow p-3 mb-5 bg-white rounded">
-          <img src="assets/images/whole.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+          <img src="../assets/images/whole.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
             <h5 class="card-title">Whole Food</h5>
             <p class="card-text">  
@@ -70,7 +70,7 @@
         </div>
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
-          <img src="assets/images/raw3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+          <img src="../assets/images/raw3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
             <h5 class="card-title">Live Food</h5>
             <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.  </p><p><a href="#" class="btn btn-primary">Learn More</a></p>
@@ -78,7 +78,7 @@
         </div>
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
-          <img src="assets/images/juice4.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
+          <img src="../assets/images/juice4.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
           <div class="card-body">
             <h5 class="card-title">Liquids</h5>
             <p class="card-text">Liquids - Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!</p><p><a href="#" class="btn btn-primary">Learn More</a></p>
@@ -110,7 +110,7 @@
         </ul>
       </div>
   <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="assets/images/foodquestions.jpg" alt="Card image cap">
+        <img class="card-img-top" src="../assets/images/foodquestions.jpg" alt="Card image cap">
       
           <div class="alert alert-success" role="alert">
             <h4 class="alert-heading">Still have Questions?</h4>
@@ -136,6 +136,6 @@
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="assets/javascript/lamana.js"></script>
+    <script type="text/javascript" src="../assets/javascript/lamana.js"></script>
   </body>
 </html>

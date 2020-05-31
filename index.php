@@ -43,7 +43,7 @@
           <h1>21-DAY CLEANSE</h1>
           <h3 class="cursive"> Eat Better... Feel Better. </h3>
           <p>July 11 - 31, 2020</p>
-          <a class="btn btn-info" href="21day.php" role="button">Learn More</a>
+        <p> <a href="21day.php" class="btn btn-primary">Learn More</a></p>
         </div>
       </div>
 
@@ -58,14 +58,15 @@
             <img src="assets/images/profile-lamana1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
               <h5 class="card-title">About LaMana</h5>
-              <p class="card-text">Hello world!  I am LaMana, a health supportive plant-based chef, living and thriving in the south!  <a href="about.php">Read More...</a>   </p>
+              <p class="card-text">Hello world!  I am LaMana, a health supportive plant-based chef, living and thriving in the south!   </p>
+               <p> <a href="about.php" class="btn btn-primary">Read More</a></p>
             </div>
           </div>
           <div class="card shadow p-3 mb-5 bg-white rounded">
             <img src="assets/images/cleanseWPimage.png" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
               <h5 class="card-title">21-Day Cleanse</h5>
-              <p class="card-text">Take a 21 day vacation from the toxins of the world. Let your body fight the battle against toxins, leaving you lighter, clearer and healthier! <a href="21day.php">Learn more...</a> 
+              <p class="card-text">Take a 21 day vacation from the toxins of the world. Let your body fight the battle against toxins, leaving you lighter, clearer and healthier! </p> <p><a href="21day.php">Learn more...</a> </p>
             </div>
           </div>
           <!-- <div class="card shadow p-3 mb-5 bg-white rounded">
