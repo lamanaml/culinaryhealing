@@ -33,8 +33,8 @@
 
 <!-- Hero -->
 
-<div class="hero-image">
-  <div class="hero-text">
+<div class="hero2-image">
+  <div class="hero2-text">
     <h1>Culinary Healing</h1>
     <p>Vegan / Vegetarian Lifestyle Brand</p>
     
