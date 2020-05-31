@@ -130,7 +130,7 @@
 
 <div class="row" >
     <div class="col text-center">
-     <h3>REGISTER NOW!!</h3>
+     <h3 class="text-center" >REGISTER NOW!!</h3>
             <h3>Price: $45 </h3> 
             <h2>July 10 - 30</h2> 
 
