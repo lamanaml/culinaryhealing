@@ -161,10 +161,10 @@ margin:20px;
 }
 
 .banner {
-background-image: url('assets/images/bean-salad.jpg');
+background-image: url('../images/foodquestions.jpg');
 padding: 30px;
 width: 100%;
-height: 90px;
+height: 150px;
 }
 /* ///////////////////////// */
 /*           Footer          */
