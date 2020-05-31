@@ -59,12 +59,12 @@
             <img src="assets/images/cleanseWPimage.png" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
               <h5 class="card-title">21-Day Cleanse</h5>
-              <p class="card-text">Take a 21 day vacation from the toxins of the world. Let your body fight the battle against toxins, leaving you lighter, clearer and healthier! </p> <a href="21day.php">Learn more</a> 
+              <p class="card-text">Take a 21 day vacation from the toxins of the world. Let your body fight the battle against toxins, leaving you lighter, clearer and healthier! </p>  <p> <a href="about.php" class="btn btn-primary">Learn more</a> </p>
             </div>
           </div>
 
           <div class="card shadow p-3 mb-5 bg-white rounded">
-            <img src="assets/images/whole1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+            <img src="assets/images/whole3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
             <div class="card-body">
               <h5 class="card-title">About Culinary Healing</h5>
               <p class="card-text">Culinary Healing is a vegan / vegetarian lifestyle brand that demonstrates that we can have an extremely deliciously healthy life on a plant-based diet.     </p>
