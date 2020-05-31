@@ -343,6 +343,12 @@ h3, .h3 {
 
  }
 
+.process{
+  background-image: url("../images/chprocessweb.png");
+  width: 100%;
+  padding: 10px;
+}
+
 /* The hero image */
 .hero2-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
