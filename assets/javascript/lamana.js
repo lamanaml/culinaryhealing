@@ -26,31 +26,3 @@ function myNav() {
   }
 }
 
-// Paypal
-
-<script src="https://www.paypal.com/sdk/js?client-id=AdSBBt2wxstg1Kqw-6DcjuD0wd4fCBKUX-pdsBYvzC_taETS9D3aHFc8t8ri3aYpRYL90RzkKuu7b6Tb&currency=USD" data-sdk-integration-source="button-factory"></script>
-<script>
-  paypal.Buttons({
-      style: {
-          shape: 'rect',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'paypal',
-          
-      },
-      createOrder: function(data, actions) {
-          return actions.order.create({
-              purchase_units: [{
-                  amount: {
-                      value: '49'
-                  }
-              }]
-          });
-      },
-      onApprove: function(data, actions) {
-          return actions.order.capture().then(function(details) {
-              alert('Transaction completed by ' + details.payer.name.given_name + '!');
-          });
-      }
-  }).render('#paypal-button-container');
-</script>

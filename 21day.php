@@ -121,7 +121,33 @@
 
            <h2>REGISTER NOW!!</h2>
             <h3>Price: $45 </h3> 
-              <div id="paypal-button-container"></div>
+           <div id="paypal-button-container"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=AdSBBt2wxstg1Kqw-6DcjuD0wd4fCBKUX-pdsBYvzC_taETS9D3aHFc8t8ri3aYpRYL90RzkKuu7b6Tb&currency=USD" data-sdk-integration-source="button-factory"></script>
+<script>
+  paypal.Buttons({
+      style: {
+          shape: 'pill',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'buynow',
+          
+      },
+      createOrder: function(data, actions) {
+          return actions.order.create({
+              purchase_units: [{
+                  amount: {
+                      value: '$49'
+                  }
+              }]
+          });
+      },
+      onApprove: function(data, actions) {
+          return actions.order.capture().then(function(details) {
+              alert('Transaction completed by ' + details.payer.name.given_name + '!');
+          });
+      }
+  }).render('#paypal-button-container');
+</script>
 
           </div>
           <h6>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  We are not medical doctors. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmless Culinary Healing and any of its employees for any issues while participating in this cleanse. 
