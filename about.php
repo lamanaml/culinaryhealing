@@ -32,7 +32,7 @@
 
 
 <!-- Hero -->
- <div class="container">
+ 
 <div class="hero2-image">
   <div class="hero2-text">
     <h1 class="display-4">About</h1>
@@ -41,7 +41,7 @@
 </div>
 
     <!-- main content -->
-  
+  <div class="container">
        <!-- <div class="jumbotron">
         <h1 class="display-4">About</h1>
         <p class="lead">Meet Chef LaMana</p>
