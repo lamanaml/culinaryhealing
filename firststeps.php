@@ -41,9 +41,10 @@
     <div class="container">
       <div class="jumbotron">
         
-        <div class="wrapper">
-          <div class="box c"><h1 class="display-4">21-Day Cleanse - First steps</h1></div>
-          <div class="box d">B</div>
+       
+          <h1 class="display-4">21-Day Cleanse - FIRST STEPS</h1>
+          <div class="banner">
+          </div>
         </div>
         
 
