@@ -122,7 +122,7 @@
           </div>
         
    <!-- ------------------------------  Register --------------------------------------------- -->      
-
+<div class="alert alert-success" role="alert">
            <h2>REGISTER NOW!!</h2>
             <h3>Price: $45 </h3> 
       <div>
@@ -134,7 +134,7 @@
           </form>
       </div>
 
-          </div>
+   </div>
           <h6>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  We are not medical doctors. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmless Culinary Healing and any of its employees for any issues while participating in this cleanse. 
           </h6>
         </div>
