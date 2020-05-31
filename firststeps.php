@@ -43,7 +43,7 @@
         
         
         <h1 class="display-4">21-Day Cleanse - FIRST STEPS</h1>
-
+        <div class="banner"></div>
        
         <p class="lead"> "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.   </p>
 
@@ -57,7 +57,7 @@
 <div class="container">
     <!-- Cards -->
     <div class="container">
-      <div class="blackheader"> The Phases</div>
+      <div > <h1 class="display-4">The Phases</h1></div>
       <div class="card-group ">
       
         <div class="card shadow p-3 mb-5 bg-white rounded">
