@@ -41,7 +41,7 @@
 </div>
 
     <!-- main content -->
-  <div class="container" style="padding:50px">
+  <div class="container" style="padding:75px">
        <!-- <div class="jumbotron">
         <h1 class="display-4">About</h1>
         <p class="lead">Meet Chef LaMana</p>
