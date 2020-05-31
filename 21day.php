@@ -130,9 +130,9 @@
 
 <div class="row" >
     <div class="col center">
-     <h3>REGISTER NOW!!</h3>
-            <h3>Price: $45 </h3> 
-            <h2>July 10 - 30</h2> 
+     <h3 class="center">REGISTER NOW!!</h3>
+            <h3 class="center">Price: $45 </h3> 
+            <h2 class="center">July 10 - 30</h2> 
 
       <div>
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
