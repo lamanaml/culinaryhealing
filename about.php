@@ -50,10 +50,10 @@
  
    
         <div >
-          <h1 class="display-4">About LaMana</h1>
-          <p> I remember back in the day, my uncle Rico used to make the best-fried bologna sandwiches known to man. You know, the kind of bologna that had the red strip around it. He would fry it up in the pan to the point that it bubbled up in the middle, and he had to cut it with a knife.... Put that on white bread with mustard and I was in heaven!!! Is anybody with me! Hehehe... those were the days. I think back now and I have to ask... what the hell is bologna anyway?!?!</p><img class="img-right" src="assets/images/profile-lamana1.jpg"  alt="..."></div>
+          <h1 class="display-4">About LaMana</h1><img class="img-right" src="assets/images/profile-lamana1.jpg"  alt="...">
+          <p> I remember back in the day, my uncle Rico used to make the best-fried bologna sandwiches known to man. You know, the kind of bologna that had the red strip around it. He would fry it up in the pan to the point that it bubbled up in the middle, and he had to cut it with a knife.... Put that on white bread with mustard and I was in heaven!!! Is anybody with me! Hehehe... those were the days. I think back now and I have to ask... what the hell is bologna anyway?!?!</p></div>
 
-        <div><p>I tell this story just to let you know where I come from. I grew up in the south, Durham, NC... where food was food, there was no separation of healthy food and unhealthy food, good and bad. If you could eat it and it stopped you from being hungry, it was all good. On any given day we had up to 15 people in our house to feed, and money was not abundant, so off to the local Piggly Wiggly grocery store (I am not making this name up), we went to get food to feed the family. I don't have to tell you what types of foods we ended up with. But not to worry, my grandma would "put her foot" in whatever came through the door, and each meal was prepared with love and tasted delicious!! Pig feet, pork chops, fried chicken, white rice, liver and onions, chitterlings w/ hot sauce, fried fish on Fridays! Boy were we happy. Little did we know, we were setting our bodies up to fail us. How could we know? No one ever told my grandma that pork was bad, and fried foods would eventually kill us.</p><</div>
+        <div><p>I tell this story just to let you know where I come from. I grew up in the south, Durham, NC... where food was food, there was no separation of healthy food and unhealthy food, good and bad. If you could eat it and it stopped you from being hungry, it was all good. On any given day we had up to 15 people in our house to feed, and money was not abundant, so off to the local Piggly Wiggly grocery store (I am not making this name up), we went to get food to feed the family. I don't have to tell you what types of foods we ended up with. But not to worry, my grandma would "put her foot" in whatever came through the door, and each meal was prepared with love and tasted delicious!! Pig feet, pork chops, fried chicken, white rice, liver and onions, chitterlings w/ hot sauce, fried fish on Fridays! Boy were we happy. Little did we know, we were setting our bodies up to fail us. How could we know? No one ever told my grandma that pork was bad, and fried foods would eventually kill us.</p></div>
 
        <div><p> Fast forward many years later... I met my husband in 2001. He was raised Muslim, so he did not eat pork. One day while we were dating, he sat down and explained the deal about pork... that it was a combination of a cat, rat, and pig (or something like that), and that eating it caused trichinosis, which are worms that invade our systems and cause all kinds of disease. I thought "how could anything that could make bacon be bad?", and "if that was true, why would they sell pork to us?", but anyway, I listened and I never ate pork again. That was the beginning of my food consciousness. A couple of years later, we went through a Sacred Woman and Sacred King Man initiation where we were required to become vegan for 12 weeks. During that time, I learned a tremendous amount about foods and its effects on my body and I started looking at the world through very different eyes. I had gained a profound clarity about life and food's role in it.</p>
 </div>
@@ -61,9 +61,9 @@
 
        <div><p> ​Well... this is my journey, join me if you can...</p>
       </div>
-    </div>
+
  <div >
-   <h1 class="display-4">About Sandi</h1>
+   <h1 class="display-4">About Sandi</h1><img class="img-right" src="assets/images/profile-sandi.png"  alt="...">
 <p>
     It began for me in the early ‘90s after seeing a news report on U.S. slaughterhouses. Once I realized how stressing animals toxifies the meat we eat, I decided to remove red meats from my diet. Five years later, I realized turkey sandwiches and chicken wings were the culprits of my constant digestive issues, I cut them out too. For 10 years I considered myself vegetarian but I staked the claim while filling up on processed vegan/vegetarian meats, processed carbohydrates, and other sugary/salty foods and beverages.</p>
 <p>
@@ -72,9 +72,9 @@ My journey then led me into the investigation of the natural cures for certain d
 Impressed by her transition to a healthier lifestyle, I joined LaMana’s first 21-Day Cleanse in 2005. I was on my way.</p>
 <p>
 Today, I’m considered pescatarian. I generally keep a clean diet of minimally processed foods and limited beverages. I read all ingredient labels, mostly “shopping the perimeter” and  buying brown. I stay vegan/vegetarian-friendly and use a variety of sustainable personal products and accessories. </p>
-<img class="img-right" src="assets/images/profile-sandi.jpg"  alt="...">
-</div>
 
+</div>
+    </div>
 </div>
     <!-- Footer -->
     <?php include_once("footer.html"); ?>
