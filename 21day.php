@@ -41,12 +41,27 @@
     <div class="container whitebg">     
       <div class="jumbotron whitebg">
         <h1 class="display-4">21-Day Cleanse</h1>
+        
+        
+        <!-- <div class="flex-container">
+          <div class="space" > -->
+            <!-- <img src="assets/images/cleanseWPimage.png" width="500px" ></div> -->
+            <img src="assets/images/cleansewebcover.png" width="100%" >
+          <div ><p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis. From the air that we breath, to products that we use, to the foods that we eat.  Although our bodies ae designed to rid itself of these toxins naturally, it can become overburdened. Detox programs, like this cleanse, gives our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and wellbeing.​</p>
+          
+           <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p>
+           </div>
+          
+          
+        </div>
+        
+<!--         
         <div class="row">
           <div class="col-8"><p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis. From the air that we breath, to products that we use, to the foods that we eat.  Although our bodies ae designed to rid itself of these toxins naturally, it can become overburdened. Detox programs, like this cleanse, gives our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and wellbeing.​</p>
               
               <p>During these 21 days, we will eat and drink REAL, unprocessed, natural food and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us..</p></div>
           <div class="col-4"><img src="assets/images/cleanseWPimage.png" width="100%"></div>
-        </div>
+        </div> -->
               
    <!-- ------------------------------  The phases --------------------------------------------- -->
          <div width="100%"> <img src="assets/images/chprocessweb.png" width="100%"></div>
@@ -135,12 +150,13 @@
             <h2>July 10 - 30</h2> 
 
       <div>
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="WMNXR8LR85MQ8">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
           </form>
+
       </div>
 
 

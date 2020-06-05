@@ -89,6 +89,13 @@ font-family: 'Dancing Script', cursive;
   justify-content: flex-end;
 }
 
+.flex-containerHome {
+  display: flex;
+  width: 100%;
+  padding: 10px 100px 10px 10px;
+  align-items: center;
+  
+} 
 .subscribe {
   background-color: #ed553b;
   color: white;
@@ -161,10 +168,10 @@ margin:20px;
 }
 
 .banner {
-background-image: url('../images/foodquestions.jpg');
+background-image: url('http://culinaryhealing.com/assets/images/test.png');
 padding: 30px;
 width: 100%;
-height: 150px;
+
 }
 
 .cardhead {
@@ -302,7 +309,7 @@ input[type=submit] {
   display: flex;
   flex-direction: column;
   width: 100%;
-  padding: 10px 10px 10px 10px;
+  padding: 10px 50px 10px 10px;
   align-items: center;
   justify-content: center;
 }
