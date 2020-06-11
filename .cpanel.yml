@@ -3,6 +3,5 @@ deployment:
  tasks:
  - export DEPLOYPATH=/home4/jlodywmy/public_html/culinaryhealing/
  - export DEPLOYPATH=/home4/jlodywmy/public_html/culinaryhealing/21days
- - export DEPLOYPATH=http://21days.culinaryhealing.com
  - /bin/cp -R assets $DEPLOYPATH
  - /bin/cp -R 21days $DEPLOYPATH

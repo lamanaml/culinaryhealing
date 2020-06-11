@@ -149,7 +149,7 @@
             <h3>Price: $45 </h3> 
             <h2>July 10 - 30</h2> 
 
-      <div>
+      <!-- <div>
          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="WMNXR8LR85MQ8">
@@ -157,8 +157,34 @@
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
           </form>
 
-      </div>
-
+      </div> -->
+<div id="paypal-button-container"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=AdSBBt2wxstg1Kqw-6DcjuD0wd4fCBKUX-pdsBYvzC_taETS9D3aHFc8t8ri3aYpRYL90RzkKuu7b6Tb&currency=USD" data-sdk-integration-source="button-factory"></script>
+<script>
+  paypal.Buttons({
+      style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+      },
+      createOrder: function(data, actions) {
+          return actions.order.create({
+              purchase_units: [{
+                  amount: {
+                      value: '45'
+                  }
+              }]
+          });
+      },
+      onApprove: function(data, actions) {
+          return actions.order.capture().then(function(details) {
+              alert('Transaction completed by ' + details.payer.name.given_name + '!');
+          });
+      }
+  }).render('#paypal-button-container');
+</script>
 
     </div>
     <div class="col">
