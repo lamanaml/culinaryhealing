@@ -3,3 +3,4 @@ deployment:
  tasks:
  - export DEPLOYPATH=/home4/jlodywmy/culinaryhealing/
  - /bin/cp -R assets $DEPLOYPATH
+ - /bin/cp -R 21day $DEPLOYPATH
