@@ -121,7 +121,7 @@
             <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
                 <div class="card-header">Group Discussion</div>
                 <div class="card-body">
-                  <p class="card-text">There is a PRIVATE discussion group where current members of the cleanse can support each other.  We ask and answer questions, share our experiences, and motivate each other to keep pushing forward. </p>
+                  <p class="card-text">There is a PRIVATE Facebook group where current members of the cleanse can support each other.  We ask and answer questions, share our experiences, and motivate each other to keep pushing forward. </p>
                 </div>
             </div>
 
