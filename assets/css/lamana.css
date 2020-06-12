@@ -39,10 +39,6 @@ footer
   background-color: lightgray;
 }
 
-.container
-{
-  background-color: beige;
-}
 
 .copyright,  .impressum
 {
@@ -51,22 +47,10 @@ footer
 
 .logo
 {
-  height: 8vh;
+  height: 4vh;
 }
 
-@media (max-width: 768px) 
-{
-  li
-  {
-    margin-left: 0;
-    margin-bottom: 1vh;
-  }
-  
-  .sozial
-  {
-    margin-bottom: 1vh;
-  }
-}
+
 
 /* ///////////////////////// */
 /*          navigation       */
@@ -416,6 +400,20 @@ input[type=submit] {
     border-radius: 5px; 
 }
 
+
+@media (max-width: 768px) 
+{
+  li
+  {
+    margin-left: 0;
+    margin-bottom: 1vh;
+  }
+  
+  .sozial
+  {
+    margin-bottom: 1vh;
+  }
+}
 
 @media (max-width:600px) {
 
