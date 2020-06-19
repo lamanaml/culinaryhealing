@@ -293,6 +293,11 @@ margin:10px;
   font-family: 'Roboto', sans-serif;
 
 }
+.content {
+  /* position: fixed; */
+ 
+  background-color: white;
+}
 
 .footerheader {
  margin-bottom: 0.5rem;
