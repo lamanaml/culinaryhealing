@@ -301,6 +301,11 @@ margin:10px;
   line-height: 1;
    }
 
+.content {
+
+ background-color: #ed553b;
+
+}
 
 .footer-copyright {
   /* position: fixed; */
