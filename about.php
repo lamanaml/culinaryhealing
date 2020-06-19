@@ -75,6 +75,7 @@ Today, I’m considered pescatarian. I generally keep a clean diet of minimally 
 
 </div>
     </div>
+        </div>
 </div>
     <!-- Footer -->
     <?php include_once("footer.html"); ?>
