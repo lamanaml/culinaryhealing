@@ -51,7 +51,7 @@
 
         <p class="lead"> Let's fun with the learning and activities, as the more time we spend here, the more prepared we will be for our 3-week journey! </p>
       </div>
-    </div>
+    
          
     
 <!-- Cards -->
