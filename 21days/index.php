@@ -87,6 +87,7 @@
           </div>
         </div>
       </div>
+       </div>
 
 <!-- Whats the deal with section -->
       <div class="card-group ">
