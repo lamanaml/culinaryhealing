@@ -94,7 +94,7 @@
         <div class="card" style="width: 18rem;">
           <div class="card-header">
             <span class="blackheader"> What's the deal with:</span>
-         
+          </div>
 
           <div id="accordion">
             <div class="card">
@@ -299,7 +299,7 @@
                 </div>
               </div>
             </div> 
-          </div>
+        
               
           <div class="card" style="width: 18rem;">
             <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodquestions.jpg" alt="Card image cap">
