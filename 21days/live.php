@@ -3,79 +3,66 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-       <head>
-         <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-26808506-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <head>
+    <link rel="icon"  type="image/jpg" href="assets/images/favicon.jpg">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>21-Day Cleanse - Live - Culinary Healing</title>
+    <meta name="Culinary Healing, Plant Based Lifestyle Brand" content="plant-based, vegan, vegetarian, 21-day, cleanse, detox, recipes, lamana, lamanaml, brooklyn, durham, atlanta, burlington">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  gtag('config', 'UA-26808506-1');
-</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26808506-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-26808506-1');
+    </script>
 
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>Culinary Healing : 21-day cleanse : Whole Food</title>
-      <meta name="description" content="">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-      <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="http://www.culinaryhealing.com/assets/css/lamana.css">
+  </head>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-      <link rel="stylesheet" href="http://www.culinaryhealing.com/assets/css/lamana.css">
-    </head>
-    <body>
-<!-- Navigation -->
-      <div class="container">
-        <nav class="navbar fixed-top navbar-light bg-light"   >
-          <span class="navbar-brand mb-0 h1"><img href="http://www.culinaryhealing.com/index.html" src="http://www.culinaryhealing.com/assets/images/chlogo-tran.png" width="300px"></span>
-          <ul class="nav justify-content-end">
-<li class="nav-item dropdown">
-  <li class="nav-item">
-              <a class="nav-link" href="http://www.culinaryhealing.com/21day/dailynote.html">Daily Note </a>
-            </li>
-    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="index.html" role="button" aria-haspopup="true" aria-expanded="false">First Steps</a>
-    <div class="dropdown-menu">
-       <a class="dropdown-item" href="index.html">First Steps Intro</a>
-      <a class="dropdown-item" href="whole.html">Whole Food</a>
-      <a class="dropdown-item" href="live.html">Live Food</a>
-      <a class="dropdown-item" href="liquids.html">Liquids</a>
-      </div>
-  </li>
-           
-           
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.modernmeal.com/user/culinaryhealing">Recipes</a>
-              </li>
-              <li class="nav-item">
-              <a class="nav-link" href="resources.html">Resources</a>
-              </li>
-               <li class="nav-item">
-              <a class="nav-link active" href="https://www.facebook.com/groups/341803323478066/">Group Discussion</a>
-            </li>
-            </ul>
-          </nav>
-      </div>
+
+  <body id="Live">
+    <div class="nav-div">
+    
+<!-- navigation -->
+      <?php include_once("nav2.html"); ?>
+    </div>
+     
   <!-- content Body -->
       
 
 <div class="container">
         <div class="jumbotron" >
-          <h1 class="display-4">Whole Food</h1>
-          <p class="lead">Fruits, Veggies, Whole Grains, and Beans - Cooked</p>
+          <h1 class="display-4">Live/Raw Foods</h1>
+          <p class="lead">Uncooked Fruits and  Veggies</p>
      </div>
 <!-- Main content -->
 
 <div class="card mb-3 ">
   <div class="card-body">
     <h3 class="card-title">What does it mean?</h3>
-    <p class="card-text">Whole foods are unprocessed, or minimally processed, foods that are as close to nature as can be. Food that is “processed” means it has been altered in some way. For example, an apple is whole, while applesauce is an apple that has been processed to a fibrous liquid consistency.</p>
+    <p class="card-text">Live / raw foods are whole foods that still have the vitamins, minerals, phytochemicals, and enzymes intact. What are Enzymes?
+</p>
+<ul>
+  <li>Enzymes are the life force that conducts and directs every activity in your body.</li>
+<li>Enzymes "digest" or break down food in our digestive systems.</li>
+<li>Eating an enzyme-rich diet is thought to increase vitality, slow the aging process, help repair our DNA and RNA, break down proteins, increase weight loss and eliminate toxins.</li>
+</ul>
     
-     <p class="card-text">Learning Point: Much of the fiber and nutritional value is removed during food processing. Our bodies get confused with these processed foods, not really knowing how they should be handled. Eventually, the body will equate these unsustainable processed foods to toxins, either storing for later (in the form of fat) or building up a mucus for protection.</p>
+     <p class="card-text">Enzymes are heat sensitive and destroyed at temperatures above 118 degrees. This is important because the purpose of eating is to provide our bodies with these nutrients and enzymes, and if they are destroyed through cooking, we are not giving our bodies what it needs... which defeats the point... right? 
+</p>
+
+<p class="card-text">So, during this phase, we will turn off the stoves and flood ourselves with nutrients and enzymes.</p>
+
   </div>
 </div>
 
@@ -84,7 +71,8 @@
   <div class="card mb-3">
   <div class="card-body">
     <h3 class="card-title">What can we eat?</h3>
-    <p class="card-text">Whole foods consist of fruits, vegetables and tubers from the produce aisle, legumes in the beans aisle, and whole grains in the bulk foods section. Whole foods can be cooked, and we will share with you delicious recipes made of fruits, vegetables, legumes and grains to enjoy during this phase.</p>
+    <p class="card-text">In general, our diets should consist of at least 50% live foods. Eating live can mean something as simple as eating an apple or a salad, or can be so sophisticated that you will forget that it is raw! Most of the recipes that are listed in our forum are very simple, requiring basic equipment (knives, blenders or food processors) but if you have other equipment like dehydrators, mandolins or masticating juicers, I hope you will find the courage to find recipes that use them. For those of you who are not that familiar with live foods, you may be surprised with how much you enjoy them. 
+</p>
 
 
 <ul class="list-group ">
@@ -93,10 +81,10 @@
 
   <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms, Sea Vegetables (Nori, Dulse, Sea Moss, and Arame)</li>
 
-  <li class="list-group-item list-group-item-success"  ><h5>Beans</h5></li>
+  <li class="list-group-item list-group-item-success"  ><h5>Fermented Food</h5>Sauerkraut, Kimchee, Miso</li>
   
 
-  <li class="list-group-item list-group-item-success"> <h5>Whole grains</h5> Brown rice, Quinoa, Millet, Farro, Wild Rice, Amaranth
+  <li class="list-group-item list-group-item-success"> <h5>Sprouts</h5> Alfalfa Sprouts, Bean Sprouts, Sprouted grains
   </li>
 
   <li class="list-group-item list-group-item-success"><h5>Oils</h5>Grapeseed, Avocado, Extra Virgin Olive, Coconut 
@@ -106,7 +94,7 @@
   <li class="list-group-item list-group-item-success"><h5>Dried fruits</h5>Sun-dried Tomatoes, Figs, Dates, Raisins, Cranberries, Currants - Try to find varieties with no sugar added
 </li>
 
-  <li class="list-group-item list-group-item-success"><h5>Seeds</h5>Sesame, Pumpkin, Sunflower, Hemp
+  <li class="list-group-item list-group-item-success"><h5>Raw Seeds</h5>Sesame, Pumpkin, Sunflower, Hemp
 </li>
 
   <li class="list-group-item list-group-item-success" ><h5>Salts And Salty Stuff</h5> Sea Salt, Crystal Salt, Liquid Aminos, Tamari, Shoyu
@@ -132,11 +120,17 @@
        <div class="card mb-3">
   <div class="card-body">
     <h3 class="card-title">What should we avoid?</h3>
-    <p class="card-text">Generally, the category of whole foods excludes meat, chicken and fish; all dairy products, eggs, oils and refined flours and sugars (particularly, bleached).
+    <p class="card-text">Any fruit or veggie that is warmed/dehydrated at a temperature greater than 116 degrees.
+
 </p>
 
     <p>Specifically, during the whole foods phase, should avoid</p>
     <ul class="list-group ">
+      <li class="list-group-item list-group-item-danger"><h5>ALL COOKED FOOD</h5></li>
+      <li class="list-group-item list-group-item-danger"><h5>Nuts </h5></li>
+<li class="list-group-item list-group-item-danger"><h5>Packaged, boxed or processed juices</h5></li>
+      
+
         <li class="list-group-item list-group-item-danger"><h5>Animal Protein</h5>Meat, Fish, Poultry, Eggs</li>
         <li class="list-group-item list-group-item-danger"><h5>Processed Vegetarian Protein</h5>Tofu, Tempeh, And Other Mock Meats</li>
         <li class="list-group-item list-group-item-danger"><h5>Nuts </h5></li>
@@ -159,38 +153,38 @@
 
 <div class="card-group">
   <div class="card">
-    <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap">
+    <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfastlive.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Breakfast Recipes</h5>
       <p class="card-text"></p>
       <ul class="list-group list-group-flush">
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/baked-bananas">Baked Bananas</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/rolled-oat-waffles-or-pancakes">Rolled Oat Waffles</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/apple-oat-bars">Apple Oat Bars</a></li>
+    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/breakfast/breakfast-porridge">Breakfast Porridge</a></li>
+    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/breakfast/smoothie-bowls">Smoothie Bowl</a></li>
+    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/breakfast/fresh-apple-cinnamon-granola">Apple Cinnamon Granola</a></li>
   </ul>
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunch.png" alt="Card image cap">
+    <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunchlive.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Lunch Recipes</h5>
       <p class="card-text"></p>
       <ul class="list-group list-group-flush">
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/lentil-tomato-and-spinach-soup">Lentil, Tomato and Spinach Soup</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/very-easy-fried-rice">Very Easy Fried Rice</a></li>
+    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/entrees/raw-ramen-noodles">Raw Ramen Noodles</a></li>
+    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/entrees/raw-sunflower-seed-pate-nori-rolls-with-spicy-mustard-dip">Nori Rolls with Spicy Mustard Sauce</a></li>
     <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/crunchy-thai-quinoa-salad">Crunchy Thai & Quinoa Salad</a></li>
   </ul>
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinner.png" alt="Card image cap">
+    <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinnerlive.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Dinner Recipes</h5>
       <p class="card-text"></p>
      <ul class="list-group list-group-flush">
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/green-banana-run-down">Green Banana Run Down</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/grilled-eggplant-teriyaki">Grilled Eggplant Teriyaki</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/jerk-spiced-portabello-mushrooms">Jerk Spiced Portabello Mushrooms</a></li>
+    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/entrees/asian-lettuce-wraps">Asian Lettuce Wraps</a></li>
+    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/entrees/zucchini-pasta-with-tomato-sauce">Zucchini Pasta with Tomato Sauce</a></li>
+    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/entrees/herb-encrusted-mushroom-steaks">Herb Encrusted Mushroom Steaks</a></li>
   </ul>
     </div>
   </div>
@@ -223,10 +217,8 @@
             © 2006 Copyright  
             <a class="grey-text text-lighten-4 center" href="http://lamanadonadelle.com"> Site created by LaMana</a>
         </div>
-
       <!-- Scripts -->
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-      
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
       <script type="text/javascript" src="http://www.culinaryhealing.com/assets/javascript/lamana.js"></script>

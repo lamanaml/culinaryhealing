@@ -4,10 +4,14 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
   <head>
-    <link rel="icon" 
-      type="image/jpg" 
-      href="http://www.culinaryhealing.com/assets/images/favicon.jpg">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <link rel="icon"  type="image/jpg" href="assets/images/favicon.jpg">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>21-Day Cleanse - Welcome - Culinary Healing</title>
+    <meta name="Culinary Healing, Plant Based Lifestyle Brand" content="plant-based, vegan, vegetarian, 21-day, cleanse, detox, recipes, lamana, lamanaml, brooklyn, durham, atlanta, burlington">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26808506-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -16,53 +20,23 @@
       gtag('config', 'UA-26808506-1');
     </script>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Culinary Healing - First Steps</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
-
     <link rel="stylesheet" href="http://www.culinaryhealing.com/assets/css/lamana.css">
   </head>
-  <body id="firststeps">
-    <!-- Navigation -->
-      <div class="container">
-        <nav class="navbar fixed-top navbar-light bg-light"   >
-          <span class="navbar-brand mb-0 h1"><img href="http://www.culinaryhealing.com/index.html" src="http://www.culinaryhealing.com/assets/images/chlogo-tran.png" width="300px"></span>
-          <ul class="nav justify-content-end">
-<li class="nav-item dropdown">
-  <li class="nav-item">
-              <a class="nav-link" href="http://www.culinaryhealing.com/21day/dailynote.html">Daily Note </a>
-            </li>
-    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="index.html" role="button" aria-haspopup="true" aria-expanded="false">First Steps</a>
-    <div class="dropdown-menu">
-       <a class="dropdown-item" href="index.html">First Steps Intro</a>
-      <a class="dropdown-item" href="whole.html">Whole Food</a>
-      <a class="dropdown-item" href="live.html">Live Food</a>
-      <a class="dropdown-item" href="liquids.html">Liquids</a>
-      </div>
-  </li>
-           
-           
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.modernmeal.com/user/culinaryhealing">Recipes</a>
-              </li>
-              <li class="nav-item">
-              <a class="nav-link" href="resources.html">Resources</a>
-              </li>
-               <li class="nav-item">
-              <a class="nav-link active" href="https://www.facebook.com/groups/341803323478066/">Group Discussion</a>
-            </li>
-            </ul>
-          </nav>
-      </div>
+
+
+  <body id="welcome">
+    <div class="nav-div">
+    
+<!-- navigation -->
+      <?php include_once("nav2.html"); ?>
+    </div>
+     
     <!-- prework -->
 
     <!-- Hero -->
@@ -72,11 +46,12 @@
         
         <!-- <h1 class="display-4">21-Day Cleanse - FIRST STEPS</h1> -->
         
-       <img src="http://www.culinaryhealing.com/assets/images/test.png" width="100%" >
-     <section class="ArticleCopy"> <blockquote> "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.   </blockquote></section>
+       <img src="http://www.culinaryhealing.com/21days/assets/images/21daywelcomecover.png" width="100%" >
+
+     <blockquote><p class="quotation">  "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.   </blockquote> 
 
 
-        <p class="lead"> That said, let's take a few days to arm ourselves with the knowledge needed to crush this cleanse. Below are the different phases of the cleanse. We explain each phase, what it means, what to eat, what not to eat, and give you a few activities to help to make sure you understand.  This First Steps section is here to help make sure we have all of the information that we need before we start on day 1.  This way, when the time starts, we will already be floating! </p>
+        <p class="lead"> Let's take a few days to arm ourselves with the knowledge needed to crush this cleanse. Below are the different phases of the cleanse. We explain each phase, what it means, what to eat, what not to eat, and give you a few activities to help to make sure you understand.  This First Steps section is here to help make sure we have all of the information that we need before we start on day 1.  This way, when the time starts, we will already be floating! </p>
 
         <p class="lead"> Let's fun with the learning and activities, as the more time we spend here, the more prepared we will be for our 3-week journey! </p>
 
