@@ -87,7 +87,7 @@
           </div>
         </div>
       </div>
-    </div>
+   
 
 <!-- Whats the deal with section -->
       <div class="row">
@@ -317,7 +317,7 @@
         </div>
       </div>
 
-
+ </div>
 
       
     </div>
