@@ -190,26 +190,14 @@ The tips that follow will save you time in the kitchen by showing you how to sto
               <p class="mb-0">Send an email to info@culinaryhealing . com</p>
           </div> 
   
-<!-- Pagination -->
-<nav aria-label="Page navigation">
-  <ul class="pagination justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="index.html" tabindex="-1">First Steps</a>
-    </li>
-    <li class="page-item"><a class="page-link" href="whole.html">Whole Food</a></li>
-    <li class="page-item"><a class="page-link" href="live.html">Live Food</a></li>
-    <li class="page-item"><a class="page-link" href="liquids.html">Liquids</a></li>
-     </ul>
-</nav>
-      
+
      
  </div>
       
    <!-- Footer-->
-      <div class="footer-copyright">
-            © 2006 Copyright  
-            <a class="grey-text text-lighten-4 center" href="http://lamanadonadelle.com"> Site created by LaMana</a>
-        </div>
+          <div>
+      <?php include_once("footer2.html"); ?> 
+     </div>
 
 
     

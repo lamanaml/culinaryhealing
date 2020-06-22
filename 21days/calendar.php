@@ -47,9 +47,11 @@
         <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23E4C441&amp;ctz=America%2FNew_York&amp;title=Culinary%20Healing%2021-Day%20Cleanse&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=1&amp;showTabs=1&amp;showCalendars=1&amp;showTz=0&amp;src=Y3VsaW5hcnloZWFsaW5nQGdtYWlsLmNvbQ&amp;color=%233366CC" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
       </div>
       <!-- Footer -->
-      <div class="footer">  
-          © CULINARY HEALING  2006 ALL RIGHTS RESERVED | THIS WEBSITE WAS DESIGNED AND DEVELOPED BY <a href="http://www.lamanadonadelle.com">LAMANA DONADELLE</a> (YEAH THATS ME TOO)
-      </div>
+    
+    <!-- Footer-->
+     <div>
+      <?php include_once("footer2.html"); ?> 
+     </div>
 
 
       <!-- Scripts -->

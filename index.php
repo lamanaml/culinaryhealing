@@ -93,11 +93,11 @@
 
 
   </div>
-
+<div>
     <!-- Footer-->
     <?php include_once("footer.html"); ?> 
 
-
+</div>
 
 
 </script>
