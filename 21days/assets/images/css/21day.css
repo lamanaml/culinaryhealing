@@ -26,6 +26,9 @@
          url('http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.ttf') format('truetype'),
          url('http://tangledindesign.com/codepen/fonts/Calluna-Regular-webfont.svg#CallunaRegular') format('svg');
 }
+.container {
+		position: relative;
+	}
 
 body {
 	background: #333;
