@@ -78,7 +78,7 @@
            <p class="card-text"> This cleanse is organized to be gradual so that we experience a minimal amount of detox symptoms. The first week is designed to slowly release toxins that have been stored in our bodies for many years. During the second week, liquids, we will flood our systems with nutrients that will heal and rebuild our bodies on a cellular level. During the third week, we will slowly reintroduce foods, taking note of how they make us feel. Using this feedback from our bodies, we will be able to optimize our diets. </p>
 
            <p class="card-text"> Each one of us will experience something different. Some detox symptoms are more obvious than others. These symptoms are temporary and are an indication that toxins are being released. Celebrate, then lay down somewhere and let our bodies do its thing. </p>
-            <p><a href="live.html" class="btn btn-primary">Get started with First Steps</a></p>
+            <p><a href="firststeps.php" class="btn btn-primary">Now let's get this party started!</a></p>
           </div>
         </div>
 
