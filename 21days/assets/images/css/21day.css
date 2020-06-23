@@ -34,7 +34,7 @@ body {
 
 	.container {
 		width: 590px;
-		margin: 140px auto;
+		/* margin: 140px auto; */
 		position: relative;
 	}
 
