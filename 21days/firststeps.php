@@ -44,16 +44,15 @@
     <div class="container">
       <div class="jumbotron">
         <article class="container">
-
           <blockquote>
             <strong>First</strong> <em>Steps</em> 
-
+            </blockquote>
         </article>
               
         <p class="lead"> Let's take a few days to arm ourselves with the knowledge needed to crush this cleanse. Below are the different phases of the cleanse. We explain each phase, what it means, what to eat, what not to eat, and give you a few activities to help to make sure you understand.  This First Steps section is here to help make sure we have all of the information that we need before we start on day 1.  This way, when the time starts, we will already be floating! </p>
 
         <p class="lead"> Let's fun with the learning and activities, as the more time we spend here, the more prepared we will be for our 3-week journey! </p>
-      </div>
+     
     
          
     
@@ -322,7 +321,7 @@
 
     </div>
     </div>
-    
+     </div>
         
 
 <!-- Footer-->
