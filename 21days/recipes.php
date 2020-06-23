@@ -41,13 +41,9 @@
       <div class="container">
         <div class="jumbotron">
           <h1 class="display-4">Recipes</h1>
-          <p class="lead">Distilled Water</p>
+          <!-- <p class="lead">Distilled Water</p> -->
           <hr class="my-4">
-          
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://jlo.dyw.mybluehost.me/chdailynotes/">The daily notes for the CH 21-Day cleanse</a></h4><p>Instructions Measurements could vary depending on size of pan. In an 8″ x 8″ baking dish, sprinkle 1/2 cup (part) of sunflower seeds, 1/3 cup of coconut and 1/3 of the oats on the bottom of dish. Next, layer 1/2 of the raisins, 1/3 of the coconut, another 1/3 of the oats, 1/2 of the [...]</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-        ​
+     <advanced_iframe use_shortcode_attributes_only="true" src="//www.tinywebgallery.com/blog/advanced-iframe" width="100%" height="600">
 
         </div>
         </div>
