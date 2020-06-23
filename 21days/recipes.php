@@ -43,7 +43,9 @@
           <h1 class="display-4">Recipes</h1>
           <!-- <p class="lead">Distilled Water</p> -->
           <hr class="my-4">
-     <advanced_iframe use_shortcode_attributes_only="true" src="//www.tinywebgallery.com/blog/advanced-iframe" width="100%" height="600">
+     <!-- <advanced_iframe use_shortcode_attributes_only="true" src="//www.tinywebgallery.com/blog/advanced-iframe" width="100%" height="600"> -->
+
+     <iframe src="http://culinaryhealing.com/21days/recipes.php" style="height:600px;width:100%;" style="border:none;"></iframe>
 
         </div>
         </div>
