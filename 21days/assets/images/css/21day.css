@@ -35,7 +35,7 @@ body {
 	.container {
 		width: 590px;
 		/* margin: 140px auto; */
-		position: relative;
+		/* position: relative; */
 	}
 
 	blockquote {
