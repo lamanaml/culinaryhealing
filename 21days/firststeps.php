@@ -27,11 +27,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="http://www.culinaryhealing.com/assets/css/lamana.css">
+    <link rel="stylesheet" href="assets/css/21days.css">
  
   </head>
 
 
-  <body id="welcome">
+  <body id="firststeps">
     
 <!-- navigation -->
     <div class="nav-div">
@@ -42,11 +43,13 @@
 <!-- Hero -->
     <div class="container">
       <div class="jumbotron">
-        <img src="http://www.culinaryhealing.com/21days/assets/images/21daywelcomecover.png" width="100%" > 
-        <blockquote>
-          <p class="quotation">  "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.   
-        </blockquote> 
+        <article class="container">
 
+          <blockquote>
+            <strong>First</strong> <em>Steps</em> 
+
+        </article>
+              
         <p class="lead"> Let's take a few days to arm ourselves with the knowledge needed to crush this cleanse. Below are the different phases of the cleanse. We explain each phase, what it means, what to eat, what not to eat, and give you a few activities to help to make sure you understand.  This First Steps section is here to help make sure we have all of the information that we need before we start on day 1.  This way, when the time starts, we will already be floating! </p>
 
         <p class="lead"> Let's fun with the learning and activities, as the more time we spend here, the more prepared we will be for our 3-week journey! </p>
