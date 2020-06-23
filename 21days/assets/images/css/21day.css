@@ -32,10 +32,10 @@ body {
 	color: #fff;
 }
 
-	.container {
+	.container2 {
 		width: 590px;
-		/* margin: 140px auto; */
-		/* position: relative; */
+		margin: 140px auto;
+		position: relative;
 	}
 
 	blockquote {
@@ -51,7 +51,7 @@ body {
 		-moz-transform: rotate(-3deg);
 	}
 
-	.container:before {
+	.container2:before {
 		content: "“";
 		font-size: 13em;
 		position: absolute;
@@ -59,7 +59,7 @@ body {
 		color: #666;
 	}
 
-	.container:after {
+	.container2:after {
 		content: "”";
 		font-size: 13em;
 		position: absolute;

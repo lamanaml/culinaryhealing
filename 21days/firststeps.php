@@ -43,7 +43,7 @@
 <!-- Hero -->
     <div class="container">
       <div class="jumbotron">
-        <article class="container">
+        <article class="container2">
           <blockquote>
             <strong>First</strong> <em>Steps</em> 
             </blockquote>
