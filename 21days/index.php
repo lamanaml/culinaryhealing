@@ -61,15 +61,12 @@
         <div class="card shadow p-3 mb-5 bg-white rounded">
           <img src="../../assets/images/profile-lamana1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
-            <!-- <h5 class="card-title">LaMana</h5>
-            <p class="card-text"> <img  src="../../assets/images/profile-lamana1.jpg"  alt="..."> </p> -->
-            
+                       
           </div>
         </div>
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
-          <!-- <img src="http://www.culinaryhealing.com/assets/images/raw3.jpg" class="card-img-top" class="rounded-bottom" alt="..."> -->
-          <div class="card-body">
+                   <div class="card-body">
             <h5 class="card-title"> Woo hoo!!  Welcome to the cleanse!</h5>
             <p class="card-text">  During these 3 weeks, we will make some changes to our diets to reduce the number of toxins that we consume. Doing this will allow our bodies to detox more efficiently, something that happens naturally. While we are detoxing, we will learn a lot about food, our relationship to it, and the effects that different foods have on our bodies.</p>
 
