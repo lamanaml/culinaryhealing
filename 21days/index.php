@@ -64,11 +64,11 @@
       <div class="card-group ">
       
         <div class="card shadow p-3 mb-5 bg-white rounded">
-          <img src="http://www.culinaryhealing.com/assets/images/whole.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+          <!-- <img src="http://www.culinaryhealing.com/assets/images/whole.jpg" class="card-img-top" class="rounded-bottom" alt="..."> -->
           <div class="card-body">
             <h5 class="card-title">LaMana</h5>
-            <p class="card-text"> <img  src="assets/images/profile-lamana1.jpg"  alt="..."> </p>
-            <p><a href="whole.html" class="btn btn-primary">Learn More</a></p>
+            <p class="card-text"> <img  src="../../assets/images/profile-lamana1.jpg"  alt="..."> </p>
+            
           </div>
         </div>
 
@@ -85,7 +85,7 @@
           </div>
         </div>
 
-       
+      </div>   
     
         
 
