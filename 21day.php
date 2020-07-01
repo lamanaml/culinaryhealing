@@ -88,7 +88,7 @@
           <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
             <div class="card-header">Hotline</div>
             <div class="card-body">
-              <p class="card-text">Our facilitators will be available 24-7 to support us all through the cleanse.  Through phone call, email, chat or through the group discussion, you are never alone!</p>
+              <p class="card-text">Our facilitators will be available 24/7 to support us all through the cleanse.  Through phone call, email, chat or through the group discussion, you are never alone!</p>
             </div>
           </div>
 
