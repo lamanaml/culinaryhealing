@@ -68,19 +68,19 @@
        <div><p> Whew!  That was a mouthful... this is my journey, join me if you can...</p>
       </div>
 
- <div >
-   <h1 class="display-4">About Sandi</h1><img class="img-right" src="assets/images/profile-sandi.png"  alt="...">
-<p>
-    It began for me in the early ‘90s after seeing a news report on U.S. slaughterhouses. Once I realized how stressing animals toxifies the meat we eat, I decided to remove red meats from my diet. Five years later, I realized turkey sandwiches and chicken wings were the culprits of my constant digestive issues, I cut them out too. For 10 years I considered myself vegetarian but I staked the claim while filling up on processed vegan/vegetarian meats, processed carbohydrates, and other sugary/salty foods and beverages.</p>
-<p>
-My journey then led me into the investigation of the natural cures for certain dis-eases, and strategies for how to “eat to live.”</p>
-<p>
-Impressed by her transition to a healthier lifestyle, I joined LaMana’s first 21-Day Cleanse in 2005. I was on my way.</p>
-<p>
-Today, I’m considered pescatarian. I generally keep a clean diet of minimally processed foods and limited beverages. I read all ingredient labels, mostly “shopping the perimeter” and  buying brown. I stay vegan/vegetarian-friendly and use a variety of sustainable personal products and accessories. </p>
+        <!-- <div >
+          <h1 class="display-4">About Sandi</h1><img class="img-right" src="assets/images/profile-sandi.png"  alt="...">
+            <p>
+                It began for me in the early ‘90s after seeing a news report on U.S. slaughterhouses. Once I realized how stressing animals toxifies the meat we eat, I decided to remove red meats from my diet. Five years later, I realized turkey sandwiches and chicken wings were the culprits of my constant digestive issues, I cut them out too. For 10 years I considered myself vegetarian but I staked the claim while filling up on processed vegan/vegetarian meats, processed carbohydrates, and other sugary/salty foods and beverages.</p>
+            <p>
+            My journey then led me into the investigation of the natural cures for certain dis-eases, and strategies for how to “eat to live.”</p>
+            <p>
+            Impressed by her transition to a healthier lifestyle, I joined LaMana’s first 21-Day Cleanse in 2005. I was on my way.</p>
+            <p>
+            Today, I’m considered pescatarian. I generally keep a clean diet of minimally processed foods and limited beverages. I read all ingredient labels, mostly “shopping the perimeter” and  buying brown. I stay vegan/vegetarian-friendly and use a variety of sustainable personal products and accessories. </p>
 
-</div>
-    </div>
+            </div>
+          </div> -->
        
         </div>
 </div>
