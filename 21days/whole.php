@@ -59,82 +59,56 @@
   </div>
 </div>
 
-<div class="row">
+  <div class="row">
+<!-- col 1 -->
     <div class="col">
-  <div class="card mb-3">
-  <div class="card-body">
-    <h3 class="card-title">What can we eat?</h3>
-    <p class="card-text">Whole foods consist of fruits and vegetables from the produce aisle, legumes in the beans aisle, and whole grains in the bulk foods section. Whole foods can be cooked, and we will share with you delicious recipes made of fruits, vegetables, legumes and grains to enjoy during this phase.</p>
-
-
-<ul class="list-group ">
-
-  <!-- <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits):</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li> -->
-  <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits)</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
-  <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms</li>
-  <li class="list-group-item list-group-item-success"><h5>Sea veggies</h5> Nori, Dulse, Sea Moss, and Arame <p><a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">>> Learn more about sea vegetables</a></p></li>
-
-  <li class="list-group-item list-group-item-success"  ><h5>Beans</h5></li>
-  
-
-  <li class="list-group-item list-group-item-success"> <h5>Whole grains</h5> Brown rice, Quinoa, Millet, Farro, Wild Rice, Amaranth<p> <a href="https://wholegrainscouncil.org/whole-grains-101/whole-grains-z"> >> Learn more about Whole Grains </a></p>
-  </li>
-
-  <li class="list-group-item list-group-item-success"><h5>Oils</h5>Grapeseed, Avocado, Extra Virgin Olive, Coconut 
-      </li>
-
-
-  <li class="list-group-item list-group-item-success"><h5>Dried fruits</h5>Sun-dried Tomatoes, Figs, Dates, Raisins, Cranberries, Currants - Try to find varieties with no sugar added
-</li>
-
-  <li class="list-group-item list-group-item-success"><h5>Seeds</h5>Sesame, Pumpkin, Sunflower, Hemp
-</li>
-
-  <li class="list-group-item list-group-item-success" ><h5>Salts And Salty Stuff</h5> Sea Salt, Crystal Salt, Liquid Aminos, Tamari, Shoyu
-</li>
-  
-
-  <li class="list-group-item list-group-item-success"> <h5>Sweeteners</h5> Honey, Maple Syrup, Agave Nectar, And Stevia
-  </li>
-
-   <li class="list-group-item list-group-item-success"><h5>Herbs and Spices</h5>
-</li>
-
-</ul>
-
-</div>
-</div>
+      <div class="card mb-3">
+        <div class="card-body">
+          <h3 class="card-title">What can we eat?</h3>
+          <p class="card-text">Whole foods consist of fruits and vegetables from the produce aisle, legumes in the beans aisle, and whole grains in the bulk foods section. Whole foods can be cooked, and we will share with you delicious recipes made of fruits, vegetables, legumes and grains to enjoy during this phase.</p>
+          <ul class="list-group ">
+            <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits)</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
+            <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms</li>
+            <li class="list-group-item list-group-item-success"><h5>Sea veggies</h5> Nori, Dulse, Sea Moss, and Arame <p><a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">>> Learn more about sea vegetables</a></p></li>
+            <li class="list-group-item list-group-item-success"  ><h5>Beans</h5></li>
+            <li class="list-group-item list-group-item-success"> <h5>Whole grains</h5> Brown rice, Quinoa, Millet, Farro, Wild Rice, Amaranth<p> <a href="https://wholegrainscouncil.org/whole-grains-101/whole-grains-z"> >> Learn more about Whole Grains </a></p>
+            </li>
+            <li class="list-group-item list-group-item-success"><h5>Oils</h5>Grapeseed, Avocado, Extra Virgin Olive, Coconut     </li>
+            <li class="list-group-item list-group-item-success"><h5>Dried fruits</h5>Sun-dried Tomatoes, Figs, Dates, Raisins, Cranberries, Currants - Try to find varieties with no sugar added</li>
+            <li class="list-group-item list-group-item-success"><h5>Seeds</h5>Sesame, Pumpkin, Sunflower, Hemp</li>
+            <li class="list-group-item list-group-item-success" ><h5>Salts And Salty Stuff</h5> Sea Salt, Crystal Salt, Liquid Aminos, Tamari, Shoyu</li>
+            <li class="list-group-item list-group-item-success"> <h5>Sweeteners</h5> Honey, Maple Syrup, Agave Nectar, And Stevia  </li>
+            <li class="list-group-item list-group-item-success"><h5>Herbs and Spices</h5></li>
+          </ul>
+        </div>
+      </div>
     </div>
-
-
-
-
+<!-- col 2 -->
     <div class="col col2">
-       <div class="card mb-3">
-  <div class="card-body">
-    <h3 class="card-title">What should we avoid?</h3>
-    <p class="card-text">Generally, the category of whole foods excludes meat, chicken and fish; all dairy products, eggs, oils and refined flours and sugars (particularly, bleached).
-</p>
-
-    <p>Specifically, during the whole foods phase, should avoid</p>
-    <ul class="list-group ">
-        <li class="list-group-item list-group-item-danger"><h5>Animal Protein</h5>Meat, Fish, Poultry, Eggs</li>
-        <li class="list-group-item list-group-item-danger"><h5>Processed Vegetarian Protein</h5>Tofu, Tempeh, And Other Mock Meats</li>
-        <li class="list-group-item list-group-item-danger"><h5>Nuts </h5></li>
-        <li class="list-group-item list-group-item-danger"><h5>Dairy </h5>Milk, Cheese, Butter, Yogurt, Kefir</li>
-        <li class="list-group-item list-group-item-danger"><h5>Fast Food </h5></li>
-        <li class="list-group-item list-group-item-danger"><h5>All Processed Foods</h5>Bread, Pasta, White Rice, White Sugar, Table Salt, Canned Foods
-      </li>
-        <li class="list-group-item list-group-item-danger"><h5>Artificial Ingredients</h5></li>
-        <li class="list-group-item list-group-item-danger"><h5>Artificial Colors</h5></li>
-        <li class="list-group-item list-group-item-danger"><h5>Hydrogenated Oils </h5>Margarine, Crisco, partially hydrogenated oil</li>
-        <li class="list-group-item list-group-item-danger"><h5> MSG also know as Monosodium Glutamate </h5></li>
-        <li class="list-group-item list-group-item-danger"><h5>Caffeine </h5>Coffee, teas with caffeine, Soda</li>
-        <li class="list-group-item list-group-item-danger"><h5>Drugs and Alcohol </h5></li>
-    </ul>
- </div>
-  </div>
-  </div>
+      <div class="card mb-3">
+        <div class="card-body">
+          <h3 class="card-title">What should we avoid?</h3>
+          <p class="card-text">Generally, the category of whole foods excludes meat, chicken and fish; all dairy products, eggs, oils and refined flours and sugars (particularly, bleached).
+          </p>
+          <p>Specifically, during the whole foods phase, should avoid</p>
+          <ul class="list-group ">
+            <li class="list-group-item list-group-item-danger"><h5>Animal Protein</h5>Meat, Fish, Poultry, Eggs</li>
+            <li class="list-group-item list-group-item-danger"><h5>Processed Vegetarian Protein</h5>Tofu, Tempeh, And Other Mock Meats</li>
+            <li class="list-group-item list-group-item-danger"><h5>Nuts </h5></li>
+            <li class="list-group-item list-group-item-danger"><h5>Dairy </h5>Milk, Cheese, Butter, Yogurt, Kefir</li>
+            <li class="list-group-item list-group-item-danger"><h5>Fast Food </h5></li>
+            <li class="list-group-item list-group-item-danger"><h5>All Processed Foods</h5>Bread, Pasta, White Rice, White Sugar, Table Salt, Canned Foods            </li>
+            <li class="list-group-item list-group-item-danger"><h5>Artificial Ingredients</h5></li>
+            <li class="list-group-item list-group-item-danger"><h5>Artificial Colors</h5></li>
+            <li class="list-group-item list-group-item-danger"><h5>Hydrogenated Oils </h5>Margarine, Crisco, partially hydrogenated oil</li>
+            <li class="list-group-item list-group-item-danger"><h5> MSG also know as Monosodium Glutamate </h5></li>
+            <li class="list-group-item list-group-item-danger"><h5>Caffeine </h5>Coffee, teas with caffeine, Soda</li>
+            <li class="list-group-item list-group-item-danger"><h5>Drugs and Alcohol </h5></li>
+          </ul>
+        </div>
+       </div>
+      </div>
+    </div>
   </div>
 
 
