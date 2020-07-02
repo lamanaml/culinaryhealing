@@ -156,12 +156,7 @@
       </div>
     </div>
 
-    <div class="alert alert-success" role="alert">
-                <h4 class="alert-heading">Still have Questions?</h4>
-                  
-                  <hr>
-                  <p class="mb-0">Send an email to info@culinaryhealing . com</p>
-              </div> 
+   
       
 
           
