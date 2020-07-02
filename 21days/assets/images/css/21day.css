@@ -1,8 +1,8 @@
 body {
   font-family: "roboto", serif;
 }
- .imgpad {
-   margin:0px;
+ .jumbotron {
+   margin:20px;
    padding-top:20px;
  }
   .container {
