@@ -68,7 +68,8 @@
 
   <!-- <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits):</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li> -->
   <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits)</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
-  <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms, Sea Vegetables (Nori, Dulse, Sea Moss, and Arame)  - <p><a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">>> Learn more about sea vegetables</a></p></li>
+  <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms</li>
+  <li class="list-group-item list-group-item-success"><h5>Sea veggies</h5> Nori, Dulse, Sea Moss, and Arame <p><a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">>> Learn more about sea vegetables</a></p></li>
 
   <li class="list-group-item list-group-item-success"  ><h5>Beans</h5></li>
   
