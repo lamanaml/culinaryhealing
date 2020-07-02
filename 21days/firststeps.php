@@ -106,12 +106,12 @@
                 <div class="card-body">
                 Learning how to read labels is one of our most powerful weapons for a healthy diet.  First, ignore the front of the package (they are lying to us), go straight to the back.  The main ingredients that we should avoid are: 
                 <ul>
-                  <li>Hydrogenated oils</ul>
-                  <li>Partially hydrogenated oils</ul>
-                  <li>Monosodium Glutamate (aka MSG).</ul>
-                  <li>High fructose corn syrup</ul>
-                  <li>Artifical Sweeteners (including aspertame and sucrulose - aka spenda)</ul>
-                  <li>Artificial Colors</ul>
+                  <li>Hydrogenated oils</li>
+                  <li>Partially hydrogenated oils</li>
+                  <li>Monosodium Glutamate (aka MSG).</li>
+                  <li>High fructose corn syrup</li>
+                  <li>Artifical Sweeteners (including aspertame and sucrulose - aka spenda)</li>
+                  <li>Artificial Colors</li>
                 </ul>
                  Make sure the ingredients listed are real food that we understand it's origin.  Avoid items with 10 sylable ingredients. Check the serving size.  Sometimes, the serving size is small so that at first glance, the nutirtional value does not look so bad. 
                 </div>
