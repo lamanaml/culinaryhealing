@@ -89,7 +89,7 @@
 
 <!-- Whats the deal with section -->
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-8">
           <div class="card">
             <div class="card-body">
               <h5 class="display-4">What's the deal with:</h5>
@@ -352,7 +352,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-4">
           <div class="card">
             <div class="card-body">
              <h5 class="display-4">Still have Questions?</h5>
