@@ -41,10 +41,7 @@
      
    
 <!-- Hero -->
-    <div class="container">
-      <div class="jumbotron">
-      
-          <div class="container">
+      <div class="container">
       <div class="jumbotron">
         <img src="http://www.culinaryhealing.com/assets/images/6.png" width="100%" > 
         
@@ -284,7 +281,7 @@
                   <p>All of these things are a normal part of detox. These are your signs that your body is fighting a valiant fight for you!</p>
                   <p>Generally speaking, fruits are cleansing foods which help the body detox more quickly.   Their high water content flushes your digestive tract, your kidneys and purifies the bloodstream.  If you start to have severe detox symptoms, you should cut down on the amount of fruit juice you are drinking, you need to incorporate more vegetable juices.</p>
                   <p>During this phase, you may experience more intense detox symptoms, especially for the first 3 days (headaches, stomach aches, lack of energy, irritability, highly emotional (sadness, happiness, anger, frustration...), flu-like symptoms, acne, discharge, body odor...). Fortunately, these 3 days are over the weekend, so, if needed,  you can treat this detox like a snow day... stay in bed, get plenty of rest, drink plenty of fluids.  </p>
-                  <p>in a few days, you should be over the majority of the symptoms, and you will start to experience a resurgence of energy.</p>
+                  <p>In a few days, you should be over the majority of the symptoms, and you will start to experience a resurgence of energy.</p>
                 </div>
               </div>
             </div>
