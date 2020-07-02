@@ -66,7 +66,7 @@
           <div class="card-body">
             <h5 class="card-title">Whole Food</h5>
             <p class="card-text">  Whole foods - Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible. </p>
-            <p><a href="whole.html" class="btn btn-primary">Learn More</a></p>
+            <p><a href="whole.php" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
 
@@ -74,7 +74,7 @@
           <img src="http://www.culinaryhealing.com/assets/images/raw3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
             <h5 class="card-title">Live Food</h5>
-            <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.  </p><p><a href="live.html" class="btn btn-primary">Learn More</a></p>
+            <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.  </p><p><a href="live.php" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
 
@@ -82,7 +82,7 @@
           <img src="http://www.culinaryhealing.com/assets/images/juice4.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
           <div class="card-body">
             <h5 class="card-title">Liquids</h5>
-            <p class="card-text">Liquids - Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!</p><p><a href="liquids.html" class="btn btn-primary">Learn More</a></p>
+            <p class="card-text">Liquids - Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!</p><p><a href="liquids.php" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
       </div>
