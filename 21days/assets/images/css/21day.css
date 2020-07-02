@@ -3,12 +3,10 @@ body {
 }
 
 .container {
-  margin:20px;
+  margin:50px;
 }
 
-.card {
-  margin:20px;
-}
+
 /* 
 /* Generic styling */
 * {
