@@ -41,7 +41,7 @@
   <!-- content Body -->
       
       <div class="container" style="margin-top:150px; background-color: white;">
-        <div class="jumbotron" style="margin-top:150px; background-color: white;">
+        <div class="jumbotron" style="margin-top:0px; background-color: white;">
           <img src="http://www.culinaryhealing.com/assets/images/3.png" width="100%"  > 
         </div>
 

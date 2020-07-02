@@ -41,7 +41,7 @@
    <!-- Hero -->
    
      <div class="container" style="margin-top:150px; background-color: white;">
-        <div class="jumbotron" style="margin-top:150px; background-color: white;">
+        <div class="jumbotron" style="margin-top:0px; background-color: white;">
           <img src="http://www.culinaryhealing.com/21days/assets/images/21daywelcomecover.png" width="100%" > 
            
             <blockquote>
