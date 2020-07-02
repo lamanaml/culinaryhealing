@@ -1,16 +1,7 @@
 body {
   font-family: "roboto", serif;
 }
- .jumbotron2 {
-   margin:100px;
-   padding-top:0px;
- }
-  .container {
-padding:0;
- }
-.navbar {
-    margin-bottom:0;
-}
+
 /* 
 /* Generic styling */
 * {
