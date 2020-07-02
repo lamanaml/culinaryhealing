@@ -66,14 +66,14 @@
 
 <ul class="list-group ">
 
-  <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits):</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
+  <!-- <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits):</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li> -->
   <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits)</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
-  <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms, Sea Vegetables (Nori, Dulse, Sea Moss, and Arame)  - <a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">Learn more about sea vegetables</a></li>
+  <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms, Sea Vegetables (Nori, Dulse, Sea Moss, and Arame)  - <a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">>> Learn more about sea vegetables</a></li>
 
   <li class="list-group-item list-group-item-success"  ><h5>Beans</h5></li>
   
 
-  <li class="list-group-item list-group-item-success"> <h5>Whole grains</h5> Brown rice, Quinoa, Millet, Farro, Wild Rice, Amaranth <a href="https://wholegrainscouncil.org/whole-grains-101/whole-grains-z"> Learn more about Whole Grains </a>
+  <li class="list-group-item list-group-item-success"> <h5>Whole grains</h5> Brown rice, Quinoa, Millet, Farro, Wild Rice, Amaranth <a href="https://wholegrainscouncil.org/whole-grains-101/whole-grains-z"> >> Learn more about Whole Grains </a>
   </li>
 
   <li class="list-group-item list-group-item-success"><h5>Oils</h5>Grapeseed, Avocado, Extra Virgin Olive, Coconut 
