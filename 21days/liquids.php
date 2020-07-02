@@ -39,11 +39,9 @@
     </div>
      
 <!-- content Body -->
-  <div class="container">
+  
       <div class="jumbotron">
         <img src="http://www.culinaryhealing.com/assets/images/4.png" width="100%" > 
-        
-         
       </div>
 
 <div class="container">
