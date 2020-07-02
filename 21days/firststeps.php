@@ -303,8 +303,9 @@
         <div class="col-sm-6">
           <div class="card">
             <div class="card-body">
+             <h5 class="display-4">Still have Questions?</h5>
             <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodquestions.jpg" alt="Card image cap">
-              <h5 class="card-title">Still have Questions?</h5>
+             
               <p class="card-text"> <p>To the left, we address some of the most common topics about the cleanse.  If you have additional questions, reach out to us!</p>
                 <hr>
                 <p class="mb-0">Send an email to culinaryhealing@gmail . com</p></p>
