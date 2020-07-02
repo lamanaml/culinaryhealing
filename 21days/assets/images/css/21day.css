@@ -1,9 +1,12 @@
 body {
   font-family: "roboto", serif;
 }
-
-
-
+ .jumbotron {
+   margin-top:0;
+ }
+  .container {
+   margin-top:0;
+ }
 .navbar {
     margin-bottom:0;
 }
