@@ -51,7 +51,7 @@
 
 <div class="card mb-3 ">
   <div class="card-body">
-    <h3 class="card-title">What does it mean?</h3>
+    <h3 class="card-title">What are Whole Foods?</h3>
     
     <p class="card-text">Whole foods are unprocessed, or minimally processed, fruits, veggies, whole grains and beans that are as close to nature as can be. Food that is “processed” means it has been altered in some way. For example, an apple is whole, while applesauce is an apple that has been processed to a fibrous liquid consistency.</p>
     

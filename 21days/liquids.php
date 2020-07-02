@@ -38,15 +38,17 @@
     </div>
      
 <!-- content Body -->
- <div class="container">
-        <div class="jumbotron" >
-          <h1 class="display-4">Liquids</h1>
+  <div class="container">
+      <div class="jumbotron">
+        <img src="http://www.culinaryhealing.com/assets/images/4.png" width="100%" > 
         
-     </div>
+         
+      </div>
+
 
 <div class="card mb-3 ">
   <div class="card-body">
-    <h3 class="card-title">What does it mean?</h3>
+    <h3 class="card-title">What are Liquids?</h3>
     <p class="card-text">During this cleanse, “liquids” consists of all the fresh fruit and vegetable juices, herbal teas and water you want! Water alone may leave you feeling drained, while vegetable juice will give you an energy surge.
 </p>
     

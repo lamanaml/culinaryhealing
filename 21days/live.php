@@ -38,18 +38,20 @@
     </div>
      
   <!-- content Body -->
-      
+       <div class="container">
+      <div class="jumbotron">
+        <img src="http://www.culinaryhealing.com/assets/images/3.png" width="100%" > 
+        
+         
+      </div>
 
-<div class="container">
-        <div class="jumbotron" >
-          <h1 class="display-4">Live/Raw Foods</h1>
-          <p class="lead">Uncooked Fruits and  Veggies</p>
-     </div>
+
+
 <!-- Main content -->
 
 <div class="card mb-3 ">
   <div class="card-body">
-    <h3 class="card-title">What does it mean?</h3>
+    <h3 class="card-title">What are Live (also know as Raw) foods?</h3>
     <p class="card-text">Live / raw foods are whole foods that still have the vitamins, minerals, phytochemicals, and enzymes intact. What are Enzymes?
 </p>
 <ul>
