@@ -52,9 +52,9 @@
     <p class="card-text">During this cleanse, “liquids” consists of all the fresh fruit and vegetable juices, herbal teas and water you want! Water alone may leave you feeling drained, while vegetable juice will give you an energy surge.
 </p>
     
-     <p class="card-text">Learning Point:During the liquids phase, your digestive system slows down enough to start to reintroduce the stored toxins back into your bloodstream so they can be eliminated. As your system slows down, your hunger will begin to decrease. When you introduce fiber (from foods and yes, even smoothies) it will keep your digestive system running and you will continue to experience hunger. </p>
+     <p class="card-text">Learning Point: During the liquids phase, your digestive system slows down enough to start to reintroduce the stored toxins back into your bloodstream so they can be eliminated. As your system slows down, your hunger will begin to decrease. When you introduce fiber (from foods and yes, even smoothies) it will keep your digestive system running and you will continue to experience hunger. </p>
 
-<p class="card-text">The key to the liquids phase is to drink only liquid, and not to take in any fiber. Particularly, if you keep to strictly juice with no cheating, your hunger pains should subside along with your detox symptoms. Within 3 days, you should experience little to no hunger because you have slowed down your digestive system (although you may still want to eat out of habit). This is an important point, because you may think that by drinking a small smoothie or eating one or two grapes will satisfy your hunger - but is actually prolonging your hunger. </p>
+<p class="card-text">The key to the liquids phase is to drink only liquid, and not to take in any fiber. Particularly, if you keep to strictly juice with no cheating, your hunger pains should subside along with your detox symptoms. Within 3 days, you should experience little to no hunger because you have slowed down your digestive system (although you may still want to eat out of habit). This is an important point, because you may think that drinking a small smoothie or eating one or two grapes will satisfy your hunger - but it is actually prolonging your hunger. </p>
 <p class="card-text">
 More about juices: 
 <ul>

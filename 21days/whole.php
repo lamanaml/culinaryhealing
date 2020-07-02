@@ -111,58 +111,63 @@
     </div>
   </div>
 
+  <div class="container">
+    <div class="card-group">
+    <!-- card 1 -->
+      <div class="card">
+        <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Breakfast Recipes</h5>
+          <p class="card-text"></p>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/baked-bananas">Baked Bananas</a></li>
+            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/rolled-oat-waffles-or-pancakes">Rolled Oat Waffles</a></li>
+            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/apple-oat-bars">Apple Oat Bars</a></li>
+          </ul>
+        </div>
+      </div>
 
-<div class="card-group">
-  <div class="card">
-    <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Breakfast Recipes</h5>
-      <p class="card-text"></p>
-      <ul class="list-group list-group-flush">
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/baked-bananas">Baked Bananas</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/rolled-oat-waffles-or-pancakes">Rolled Oat Waffles</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/apple-oat-bars">Apple Oat Bars</a></li>
-  </ul>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunch.png" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Lunch Recipes</h5>
-      <p class="card-text"></p>
-      <ul class="list-group list-group-flush">
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/lentil-tomato-and-spinach-soup">Lentil, Tomato and Spinach Soup</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/very-easy-fried-rice">Very Easy Fried Rice</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/crunchy-thai-quinoa-salad">Crunchy Thai & Quinoa Salad</a></li>
-  </ul>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinner.png" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Dinner Recipes</h5>
-      <p class="card-text"></p>
-     <ul class="list-group list-group-flush">
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/green-banana-run-down">Green Banana Run Down</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/grilled-eggplant-teriyaki">Grilled Eggplant Teriyaki</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/jerk-spiced-portabello-mushrooms">Jerk Spiced Portabello Mushrooms</a></li>
-  </ul>
-    </div>
-  </div>
-</div>
+<!-- card 2 -->
+      <div class="card">
+        <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunch.png" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Lunch Recipes</h5>
+          <p class="card-text"></p>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/lentil-tomato-and-spinach-soup">Lentil, Tomato and Spinach Soup</a></li>
+            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/very-easy-fried-rice">Very Easy Fried Rice</a></li>
+            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/crunchy-thai-quinoa-salad">Crunchy Thai & Quinoa Salad</a></li>
+          </ul>
+        </div>
+      </div>
 
-<div class="alert alert-success" role="alert">
-            <h4 class="alert-heading">Still have Questions?</h4>
-              
-              <hr>
-              <p class="mb-0">Send an email to info@culinaryhealing . com</p>
-          </div> 
-  
+<!-- card 3 -->
+      <div class="card">
+        <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinner.png" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Dinner Recipes</h5>
+          <p class="card-text"></p>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/green-banana-run-down">Green Banana Run Down</a></li>
+            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/grilled-eggplant-teriyaki">Grilled Eggplant Teriyaki</a></li>
+            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/jerk-spiced-portabello-mushrooms">Jerk Spiced Portabello Mushrooms</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
+    <div class="alert alert-success" role="alert">
+                <h4 class="alert-heading">Still have Questions?</h4>
+                  
+                  <hr>
+                  <p class="mb-0">Send an email to info@culinaryhealing . com</p>
+              </div> 
       
-     
- </div>
-      
+
+          
+        
+    </div>
+          
    <!-- Footer-->
          <div>
       <?php include_once("footer2.html"); ?> 

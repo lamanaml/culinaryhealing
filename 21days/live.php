@@ -71,21 +71,14 @@
 
 
         <ul class="list-group ">
-
            <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits)</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
           <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms</li>
           <li class="list-group-item list-group-item-success"><h5>Sea veggies</h5> Nori, Dulse, Sea Moss, and Arame <p><a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">>> Learn more about sea vegetables</a></p></li>
           <li class="list-group-item list-group-item-success"  ><h5>Fermented Food</h5>Sauerkraut, Kimchee, Miso</li>
           <li class="list-group-item list-group-item-success"> <h5>Sprouts</h5> Alfalfa Sprouts, Bean Sprouts, Sprouted grains
           </li>
-
-          <li class="list-group-item list-group-item-success"><h5>Oils</h5>Grapeseed, Avocado, Extra Virgin Olive, Coconut 
-              </li>
-
-
-          <li class="list-group-item list-group-item-success"><h5>Dried fruits</h5>Sun-dried Tomatoes, Figs, Dates, Raisins, Cranberries, Currants - Try to find varieties with no sugar added
-        </li>
-
+          <li class="list-group-item list-group-item-success"><h5>Oils</h5>Grapeseed, Avocado, Extra Virgin Olive, Coconut               </li>
+          <li class="list-group-item list-group-item-success"><h5>Dried fruits</h5>Sun-dried Tomatoes, Figs, Dates, Raisins, Cranberries, Currants - Try to find varieties with no sugar added </li>
           <li class="list-group-item list-group-item-success"><h5>Raw Seeds</h5>Sesame, Pumpkin, Sunflower, Hemp
         </li>
 
