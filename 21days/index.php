@@ -40,7 +40,7 @@
      
    
 <!-- Hero -->
-    
+    <div class="container">
       <div class="jumbotron">
         <img src="http://www.culinaryhealing.com/21days/assets/images/21daywelcomecover.png" width="100%" > 
         <blockquote>
