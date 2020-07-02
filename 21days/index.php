@@ -58,12 +58,10 @@
          
       <div class="card-group ">
 
-      <div class="row">
-  <
-      
+         
         <div class="card shadow col-sm-6 p-3 mb-5 bg-white rounded">
           <img src="../../assets/images/profile-lamana1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
-          <div class="card-body">
+          <div class="card-body">          </div>
           </div>
      
           <div class="card shadow col-sm-6 p-3 mb-5 bg-white rounded">
@@ -77,7 +75,7 @@
                   <p><a href="firststeps.php" class="btn btn-primary">Now let's get this party started!</a></p>
               </div>
           </div>
-</div>
+
       </div>   
     </div>  
         
