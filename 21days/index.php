@@ -34,9 +34,9 @@
   <body id="welcome">
     
 <!-- navigation -->
-    <div class="nav-div">
+    <!-- <div class="nav-div">
       <?php include_once("nav2.html"); ?>
-    </div>
+    </div> -->
      
    
 <!-- Hero -->
