@@ -41,7 +41,7 @@
    
 <!-- Hero -->
     <div class="container">
-      <!-- <div class="jumbotron">
+      <div >
         <img src="http://www.culinaryhealing.com/21days/assets/images/21daywelcomecover.png" width="100%" > 
         <blockquote>
           <p class="quotation">  "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". 
@@ -49,7 +49,7 @@
         <p>I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.  
         </p> 
       </div>
-        -->
+       
 
                     
             
