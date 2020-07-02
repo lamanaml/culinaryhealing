@@ -1,7 +1,5 @@
- .container .jumbotron {
-
-   margin: 200px;
-
+ .container {
+   margin-top: 250px;
 }  
 /* 
 /* Generic styling */
