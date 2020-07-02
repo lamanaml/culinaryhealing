@@ -47,7 +47,7 @@
         </blockquote> </p> 
         <p>I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.  
         </p> 
-      </div>
+     
        
 
                     
