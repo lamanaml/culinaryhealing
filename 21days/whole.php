@@ -61,12 +61,12 @@
   <div class="card mb-3">
   <div class="card-body">
     <h3 class="card-title">What can we eat?</h3>
-    <p class="card-text">Whole foods consist of fruits, vegetables and tubers from the produce aisle, legumes in the beans aisle, and whole grains in the bulk foods section. Whole foods can be cooked, and we will share with you delicious recipes made of fruits, vegetables, legumes and grains to enjoy during this phase.</p>
+    <p class="card-text">Whole foods consist of fruits and vegetables from the produce aisle, legumes in the beans aisle, and whole grains in the bulk foods section. Whole foods can be cooked, and we will share with you delicious recipes made of fruits, vegetables, legumes and grains to enjoy during this phase.</p>
 
 
 <ul class="list-group ">
 
-  <li class="list-group-item list-group-item-success"><h5>Fresh fruits (no seedless fruits):</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
+  <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits):</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
 
   <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms, Sea Vegetables (Nori, Dulse, Sea Moss, and Arame)</li>
 
