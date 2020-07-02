@@ -3,6 +3,10 @@
  .jumbotron {
    margin-top: 250px;
 }
+
+.navbar {
+    margin-bottom:0
+}
 /* 
 /* Generic styling */
 * {
