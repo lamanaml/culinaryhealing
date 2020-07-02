@@ -54,29 +54,30 @@
                     
             
 <!-- Cards -->
-    <div class="container">
+    
          
       <div class="card-group ">
+
+      <div class="row">
+  <
       
-        <div class="card shadow p-3 mb-5 bg-white rounded">
+        <div class="card shadow col-sm-6 p-3 mb-5 bg-white rounded">
           <img src="../../assets/images/profile-lamana1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
-                       
           </div>
      
+          <div class="card shadow col-sm-6 p-3 mb-5 bg-white rounded">
+              <div class="card-body">
+                <h5 class="card-title"> Woo hoo!!  Welcome to the cleanse!</h5>
+                <p class="card-text">  During these 3 weeks, we will make some changes to our diets to reduce the number of toxins that we consume. Doing this will allow our bodies to detox more efficiently, something that happens naturally. While we are detoxing, we will learn a lot about food, our relationship to it, and the effects that different foods have on our bodies.</p>
 
-        <div class="card shadow p-3 mb-5 bg-white rounded">
-                   <div class="card-body">
-            <h5 class="card-title"> Woo hoo!!  Welcome to the cleanse!</h5>
-            <p class="card-text">  During these 3 weeks, we will make some changes to our diets to reduce the number of toxins that we consume. Doing this will allow our bodies to detox more efficiently, something that happens naturally. While we are detoxing, we will learn a lot about food, our relationship to it, and the effects that different foods have on our bodies.</p>
+                <p class="card-text"> This cleanse is organized to be gradual so that we experience a minimal amount of detox symptoms. The first week is designed to slowly release toxins that have been stored in our bodies for many years. During the second week, liquids, we will flood our systems with nutrients that will heal and rebuild our bodies on a cellular level. During the third week, we will slowly reintroduce foods, taking note of how they make us feel. Using this feedback from our bodies, we will be able to optimize our diets. </p>
 
-           <p class="card-text"> This cleanse is organized to be gradual so that we experience a minimal amount of detox symptoms. The first week is designed to slowly release toxins that have been stored in our bodies for many years. During the second week, liquids, we will flood our systems with nutrients that will heal and rebuild our bodies on a cellular level. During the third week, we will slowly reintroduce foods, taking note of how they make us feel. Using this feedback from our bodies, we will be able to optimize our diets. </p>
-
-           <p class="card-text"> Each one of us will experience something different. Some detox symptoms are more obvious than others. These symptoms are temporary and are an indication that toxins are being released. Celebrate, then lay down somewhere and let our bodies do its thing. </p>
-            <p><a href="firststeps.php" class="btn btn-primary">Now let's get this party started!</a></p>
+                <p class="card-text"> Each one of us will experience something different. Some detox symptoms are more obvious than others. These symptoms are temporary and are an indication that toxins are being released. Celebrate, then lay down somewhere and let our bodies do its thing. </p>
+                  <p><a href="firststeps.php" class="btn btn-primary">Now let's get this party started!</a></p>
+              </div>
           </div>
-        </div>
-
+</div>
       </div>   
     </div>  
         
