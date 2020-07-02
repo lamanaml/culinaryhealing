@@ -54,8 +54,8 @@
         <h3 class="card-title">What are Whole Foods?</h3>
         
         <p class="card-text">Whole foods are unprocessed, or minimally processed, fruits, veggies, whole grains and beans that are as close to nature as can be. Food that is “processed” means it has been altered in some way. For example, an apple is whole, while applesauce is an apple that has been processed to a fibrous liquid consistency.</p>
-        
-        <p class="card-text">Learning Point: Much of the fiber and nutritional value is removed during food processing. Our bodies get confused with these processed foods, not really knowing how they should be handled. Eventually, the body will equate these unsustainable processed foods to toxins, either storing for later (in the form of fat) or building up a mucus for protection.</p>
+                <p class="card-text">Learning Point: Much of the fiber and nutritional value is removed during food processing. Our bodies get confused with these processed foods, not really knowing how they should be handled. Eventually, the body will equate these unsustainable processed foods to toxins, either storing for later (in the form of fat) or building up a mucus for protection.</p>
+        <p class="card-text">We will enjoy cooked and raw whole foods on days 1, 2, 20 and 21!</p>
       </div>
     </div>
 
