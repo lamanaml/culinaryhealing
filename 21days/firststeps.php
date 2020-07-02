@@ -84,6 +84,7 @@
 
    <div class="container">
    <h1 class="display-4">The Roadmap</h1>
+   <img src="http://www.culinaryhealing.com/assets/images/planall.png">
    </div>
 
 <!-- Whats the deal with section -->
@@ -308,7 +309,7 @@
              
               <p class="card-text"> <p>To the left, we address some of the most common topics about the cleanse.  If you have additional questions, reach out to us!</p>
                 <hr>
-                <p class="mb-0">Send an email to culinaryhealing@gmail . com</p></p>
+                <p class="mb-0">Send an email to lamana@culinaryhealing .com</p></p>
               
             </div>
           </div>
