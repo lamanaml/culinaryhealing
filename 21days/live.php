@@ -40,8 +40,8 @@
      
   <!-- content Body -->
       
-        <div class="jumbotron" style="margin-top:150px">
-          <img src="http://www.culinaryhealing.com/assets/images/3.png" width="100%" style="margin-top:150px; background-color: white;" > 
+        <div class="jumbotron" style="margin-top:150px; background-color: white;">
+          <img src="http://www.culinaryhealing.com/assets/images/3.png" width="100%"  > 
         </div>
 
 <!-- Main content -->
