@@ -41,7 +41,7 @@
       
  <div class="container">
       <div class="jumbotron">
-        <img src="http://www.culinaryhealing.com/21days/assets/images/2.png" width="100%" > 
+        <img src="http://www.culinaryhealing.com/assets/images/2.png" width="100%" > 
         
          
       </div>
@@ -52,7 +52,7 @@
 <div class="card mb-3 ">
   <div class="card-body">
     <h3 class="card-title">What does it mean?</h3>
-    F
+    
     <p class="card-text">Whole foods are unprocessed, or minimally processed, fruits, veggies, whole grains and beans that are as close to nature as can be. Food that is “processed” means it has been altered in some way. For example, an apple is whole, while applesauce is an apple that has been processed to a fibrous liquid consistency.</p>
     
      <p class="card-text">Learning Point: Much of the fiber and nutritional value is removed during food processing. Our bodies get confused with these processed foods, not really knowing how they should be handled. Eventually, the body will equate these unsustainable processed foods to toxins, either storing for later (in the form of fat) or building up a mucus for protection.</p>
