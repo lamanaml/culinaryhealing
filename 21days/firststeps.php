@@ -91,7 +91,7 @@
         <div class="col-sm-6">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">What's the deal with:</h5>
+              <h5 class="display-4">What's the deal with:</h5>
               <p class="card-text"> <div id="accordion">
             <div class="card">
               <div class="card-header" id="headingOne">
