@@ -41,7 +41,7 @@
      
    
 <!-- Hero -->
-      <div class="jumbotron>
+      <div class="jumbotron">
         <img src="http://www.culinaryhealing.com/assets/images/6.png" width="100%" style="margin-top:150px;" >   
         </div> 
         <div class="container">
