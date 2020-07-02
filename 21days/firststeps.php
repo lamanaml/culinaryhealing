@@ -67,7 +67,7 @@
         <div class="card shadow p-3 mb-5 bg-white rounded">
           <img src="http://www.culinaryhealing.com/assets/images/raw3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Live Food</h5>
+            <h5 class="card-title">Live/Raw Food</h5>
             <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still in tact.  </p><p><a href="live.php" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
@@ -84,7 +84,7 @@
 
    <div class="container">
    <h1 class="display-4">The Roadmap</h1>
-   <img src="http://www.culinaryhealing.com/assets/images/planall.png" width="90%">
+   <img src="http://www.culinaryhealing.com/assets/images/planall.png" width="100%">
    </div>
 
 <!-- Whats the deal with section -->
@@ -104,7 +104,16 @@
               </div>
               <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                 <div class="card-body">
-                Learning how to read labels is one of our most powerful weapons for a healthy diet.  First lesson... ignore the front of the package (they are lying to us), go straight to the back. Make sure the ingredients listed are real food that we understand it's origin.  Avoid items with 10 sylable ingredients.  
+                Learning how to read labels is one of our most powerful weapons for a healthy diet.  First, ignore the front of the package (they are lying to us), go straight to the back.  The main ingredients that we should avoid are: 
+                <ul>
+                  <li>Hydrogenated oils</ul>
+                  <li>Partially hydrogenated oils</ul>
+                  <li>Monosodium Glutamate (aka MSG).</ul>
+                  <li>High fructose corn syrup</ul>
+                  <li>Artifical Sweeteners (including aspertame and sucrulose - aka spenda)</ul>
+                  <li>Artificial Colors</ul>
+                </ul>
+                 Make sure the ingredients listed are real food that we understand it's origin.  Avoid items with 10 sylable ingredients. Check the serving size.  Sometimes, the serving size is small so that at first glance, the nutirtional value does not look so bad. 
                 </div>
               </div>
             </div>
@@ -119,7 +128,7 @@
               </div>
               <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                 <div class="card-body">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                  Toxins love to stay inside of us, controlling us.  As we start do to things to purge them, they will try to sabatoge our progress.  We need to establish some tools to help us stay the course.  Journaling, prayer and meditation will allow us to combat not only the physical toxins, but the emotional ones that have been stored for years as well.  We can write our thoughts, feelings, frustrations, joys.  We can pray for strength and guidance, we can meditate on the things that we would like to manifest.  During this journey, we will have to find the peace inside of the storm.  We will have to find comfort when we are uncomfortable.  Let's identify our weapons so that we can fight fire with fire!! 
                 </div>
               </div>
             </div>
@@ -134,7 +143,7 @@
               </div>
               <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                 <div class="card-body">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                  The truth is, what we put into our bodies is half the battle.  The other half is.. what comes out.  We are reitroducing toxins back into our system at an insane rate, and if our bodies can not purge them in time, they will get reabsorbed.  Colonics and enemas are an excellent way to purge pounds of toxins quickly. If we are feeling sluggish, feeling sick, or irritable... It's time to flush the colon.  Here are a few <a href="http://www.ljaidetoxme.com/faqs.html">FAQ's about colonics</a> from my favorite therapisst.  Let's talk about this on the group discussion!
                 </div>
               </div>
             </div>
@@ -203,7 +212,7 @@
               <div class="card-header" id="heading8">
                 <h5 class="mb-0">
                   <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
-                    Salt / Sugar / Oils / Carbs
+                    Carbs
                   </button>
                 </h5>
               </div>
@@ -216,7 +225,49 @@
                 </div>
               </div>
             </div>
-        
+        <div class="card">
+              <div class="card-header" id="heading8">
+                <h5 class="mb-0">
+                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                   Oils 
+                  </button>
+                </h5>
+              </div>
+              <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordion">
+                <div class="card-body">
+                <p> Oils </p>
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header" id="heading8">
+                <h5 class="mb-0">
+                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                    Sugar 
+                  </button>
+                </h5>
+              </div>
+              <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordion">
+                <div class="card-body">
+                <p> Sugars</p>
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header" id="heading8">
+                <h5 class="mb-0">
+                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                    Salt 
+                  </button>
+                </h5>
+              </div>
+              <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordion">
+                <div class="card-body">
+                <p> Salt </p>
+                </div>
+              </div>
+            </div>
+
             <div class="card">
               <div class="card-header" id="heading9">
                 <h5 class="mb-0">
@@ -266,7 +317,7 @@
               <div id="collapse11" class="collapse" aria-labelledby="heading11" data-parent="#accordion">
                 <div class="card-body">
                   <ul>
-                    <li>  Your body is detoxing, so you may get headaches, flu-like symptoms, nausea, irritable.. It is OK.</li>
+                    <li> Your body is detoxing, so you may get headaches, flu-like symptoms, nausea, irritable.. It is OK.</li>
                     <li>Your digestive system may be acting up. You may experience gas, bloating, constipation, or many bowel movements. It is OK.</li>
                     <li>You may get frustrated because your grocery bill may be a little (or a lot) higher than normal... It is OK (better to spend $$ up front on quality foods than at the end on dr. bills)</li>
                     <li>You may have skin breakouts, discharge, coated tongues, funny smells... It is OK</li>
