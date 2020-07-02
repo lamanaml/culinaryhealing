@@ -2,6 +2,9 @@ body {
   font-family: "roboto", serif;
 }
 
+.container {
+  margin:20px;
+}
 /* 
 /* Generic styling */
 * {
