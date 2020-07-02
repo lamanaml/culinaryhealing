@@ -1,6 +1,6 @@
  .container .jumbotron {
 
-   margin: 0px
+   margin: 0px;
 
 }  
 /* 
@@ -39,9 +39,9 @@ body {
   min-height: 100vh;
   flex-direction: column;
 }
-/* .container {
+.container {
   flex: 1;
-} */
+}
 /* Footer main */
 .ft-main {
   padding: 1.25rem 1.875rem;
