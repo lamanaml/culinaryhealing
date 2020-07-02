@@ -114,7 +114,7 @@
   <div class="container">
     <div class="card-group">
     <!-- card 1 -->
-      <div class="card">
+      <!-- <div class="card">
         <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">Breakfast Recipes</h5>
@@ -125,10 +125,10 @@
             <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/apple-oat-bars">Apple Oat Bars</a></li>
           </ul>
         </div>
-      </div>
+      </div> -->
 
 <!-- card 2 -->
-      <div class="card">
+      <!-- <div class="card">
         <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunch.png" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">Lunch Recipes</h5>
@@ -139,10 +139,10 @@
             <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/crunchy-thai-quinoa-salad">Crunchy Thai & Quinoa Salad</a></li>
           </ul>
         </div>
-      </div>
+      </div> -->
 
 <!-- card 3 -->
-      <div class="card">
+      <!-- <div class="card">
         <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinner.png" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">Dinner Recipes</h5>
@@ -154,9 +154,41 @@
           </ul>
         </div>
       </div>
+    </div> -->
+
+   <div class="container">
+    <div class="card-group">
+    <!-- card 1 -->
+      <div class="card">
+        <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Find Recipes</h5>
+          <p class="card-text"></p>
+          Let's have a recipe scavenger hunt!  Everyone go out and find a good breakfast and lunch/dinner recipe that you would like to try for the whole food phase and post it to the discussion group!  So 2 recipes each!  Ready, set, gooo! 
+        </div>
+      </div>
+
+<!-- card 2 -->
+      <div class="card">
+        <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunch.png" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Building a Menu</h5>
+          <p class="card-text"></p>
+          Now that we have some ideas and recipes under our belt, let's build a menu.  I would keep this part conservative.  Plan for only a couple of meals at a time.  This will make the task of prepping food less daunting, and will reduce the amount of food waste that we have.  Literally, write out Breakfast, Lunch, Dinner, Monday, Tuesday, Wednesday.. in a table.  Then, think realistically about what you can/will make for each meal.  Keep the prep simple for the most part. I would plan to show off once or twice during the 3 weeks, but let's not complicate our lives.  
+        </div>
+      </div>
+
+<!-- card 3 -->
+      <div class="card">
+        <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinner.png" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Grocery Shopping</h5>
+          <p class="card-text"></p>
+          Put your knowledge into action.  Build a grocery list, shop mostly the outside peremeter of the grocery store (where the produce is - avoiding the processed food. ) and read labels.    Look for ways to use the same ingredient in multiple recipes, feel free to swap out ingredients for what you have or what you like!  The recipe is only a guide, not a law!
+        </div>
+      </div>
     </div>
 
-   
       
 
           
