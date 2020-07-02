@@ -46,7 +46,7 @@
          
       </div>
 
-
+<div class="container">
 <div class="card mb-3 ">
   <div class="card-body">
     <h3 class="card-title">What are Liquids?</h3>
