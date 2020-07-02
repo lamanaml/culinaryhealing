@@ -40,10 +40,9 @@
      
    
 <!-- Hero -->
-   <img src="http://www.culinaryhealing.com/21days/assets/images/21daywelcomecover.png" width="100%" >
     <div class="container">
       <div >
-      
+        <img src="http://www.culinaryhealing.com/21days/assets/images/21daywelcomecover.png" width="100%" > 
         <blockquote>
           <p class="quotation">  "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". 
         </blockquote> </p> 
