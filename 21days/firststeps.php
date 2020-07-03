@@ -88,7 +88,7 @@
 
    <div class="container">
    <h1 class="display-4">The Roadmap</h1>
-   <img src="http://www.culinaryhealing.com/assets/images/planall.png" width="100%" style="padding:20px;">
+   <img src="http://www.culinaryhealing.com/assets/images/planall.png" width="100%" style="padding:50px;">
    </div>
 
 <!-- Whats the deal with section -->
@@ -110,14 +110,14 @@
                 <div class="card-body">
                 Learning how to read labels is one of our most powerful weapons for a healthy diet.  First, ignore the front of the package (they are lying to us), go straight to the back.  The main ingredients that we should avoid are: 
                 <ul class="default">
-                  <li>Hydrogenated oils</li>
-                  <li>Partially hydrogenated oils</li>
-                  <li>Monosodium Glutamate (aka MSG).</li>
-                  <li>High fructose corn syrup</li>
-                  <li>Artifical Sweeteners (including aspertame and sucrulose - aka spenda)</li>
-                  <li>Artificial Colors</li>
+                  <li>- Hydrogenated oils</li>
+                  <li>- Partially hydrogenated oils</li>
+                  <li>- Monosodium Glutamate (aka MSG).</li>
+                  <li>- High fructose corn syrup</li>
+                  <li>- Artifical Sweeteners (including aspertame and sucrulose - aka spenda)</li>
+                  <li>- Artificial Colors</li>
                 </ul>
-                 Make sure the ingredients listed are real food that we understand it's origin.  Avoid items with 10 sylable ingredients. Check the serving size.  Sometimes, the serving size is small so that at first glance, the nutirtional value does not look so bad. 
+                 Make sure the ingredients listed are real food, meaning that you can identify where it comes from.  Avoid items with 10 sylable ingredients. Check the serving size, as sometimes it is manipulated so that the nutrition looks acceptable at first glance. 
                 </div>
               </div>
             </div>
