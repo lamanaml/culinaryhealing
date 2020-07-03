@@ -92,7 +92,7 @@
    </div>
 
 <!-- Whats the deal with section -->
-      <div class="row">
+      <div class="row "style="padding:50px;">
         <div class="col-sm-8">
           <div class="card">
             <div class="card-body">
