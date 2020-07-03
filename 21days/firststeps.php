@@ -45,13 +45,14 @@
     <div class="jumbotron" style="margin:0px; background-color: white;">
       <img src="http://www.culinaryhealing.com/assets/images/6.png" width="100%"  >   
     
-      <p class="lead"> Let's take a few days to arm ourselves with the knowledge needed to crush this cleanse. Below are the different phases of the cleanse. We explain each phase, what it means, what to eat, what not to eat, and give you a few activities to help to make sure you understand.  This First Steps section is here to help make sure we have all of the information that we need before we start on day 1.  This way, when the time starts, we will already be floating! </p>
-      <p class="lead"> Let's have fun with the learning and activities, as the more time we spend here, the more prepared we will be for our 3-week journey! </p>
+      
     </div>
     
     
 <!-- Cards -->
    <div class="container" style="margin-top:20px; background-color: white;">
+   <p class="lead"> Let's take a few days to arm ourselves with the knowledge needed to crush this cleanse. Below are the different phases of the cleanse. We explain each phase, what it means, what to eat, what not to eat, and give you a few activities to help to make sure you understand.  This First Steps section is here to help make sure we have all of the information that we need before we start on day 1.  This way, when the time starts, we will already be floating! </p>
+      <p class="lead"> Let's have fun with the learning and activities, as the more time we spend here, the more prepared we will be for our 3-week journey! </p>
       <div>
         <h1 class="display-4">The Phases</h1>
       </div>
