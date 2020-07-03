@@ -40,13 +40,12 @@
      
   <!-- content Body -->
       
-      <div class="container" style="margin-top:150px; background-color: white;">
-        <div class="jumbotron" style="margin-top:0px; background-color: white;">
+        <div class="jumbotron" style="margin:0px; background-color: white;">
           <img src="http://www.culinaryhealing.com/assets/images/3.png" width="100%"  > 
         </div>
 
 <!-- Main content -->
-
+<div class="container" style="margin-top:150px; background-color: white;">
         <div class="card mb-3 ">
           <div class="card-body">
             <h3 class="card-title">What are Live (also know as Raw) foods?</h3>
