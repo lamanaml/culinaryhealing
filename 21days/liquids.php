@@ -45,25 +45,23 @@
         <img src="http://www.culinaryhealing.com/assets/images/4.png" width="100%" > 
       </div>
 
-<div class="container" style="margin-top:20px; background-color: white;">
-<div class="card mb-3 ">
-  <div class="card-body">
-    <h3 class="card-title">What are Liquids?</h3>
-    <p class="card-text">During this cleanse, “liquids” consists of all the fresh fruit and vegetable juices, herbal teas and water you want! Water alone may leave you feeling drained, while vegetable juice will give you an energy surge.
-</p>
+    <div class="container" style="margin-top:20px; background-color: white;">
+    <div class="card mb-3 ">
+      <div class="card-body">
+        <h3 class="card-title">What are Liquids?</h3>
+        <p class="card-text">During this cleanse, “liquids” consists of all the fresh fruit and vegetable juices, herbal teas and water we want! Water alone may leave us feeling drained, while vegetable juice will give us an energy surge.
+        </p>
     
-     <p class="card-text">Learning Point: During the liquids phase, your digestive system slows down enough to start to reintroduce the stored toxins back into your bloodstream so they can be eliminated. As your system slows down, your hunger will begin to decrease. When you introduce fiber (from foods and yes, even smoothies) it will keep your digestive system running and you will continue to experience hunger. </p>
-
-<p class="card-text">The key to the liquids phase is to drink only liquid, and not to take in any fiber. Particularly, if you keep to strictly juice with no cheating, your hunger pains should subside along with your detox symptoms. Within 3 days, you should experience little to no hunger because you have slowed down your digestive system (although you may still want to eat out of habit). This is an important point, because you may think that drinking a small smoothie or eating one or two grapes will satisfy your hunger - but it is actually prolonging your hunger. </p>
-<p class="card-text">
-More about juices: 
-<ul>
-  <li>The nutrients in the juice you drink are absorbed immediately by all the cells in your body. Your juicer magically transfers the produce into pre-digested food. This means that your body is able to make maximum use of all the enzymes, vitamins and minerals.</li>
-<li>Juices help you to maintain the proper PH in your body, which is important in preventing diseases like cancer.</li>
-<li>The phytochemicals in the juice also help to remove carcinogens from your body.</li>
-</p>
-  </div>
-</div>
+        <p class="card-text">During the liquids phase, our digestive systems slow down enough to start to reintroduce the stored toxins back into our bloodstream so they can be eliminated. </p>
+          <p class="card-text">The key to the liquids phase is to drink only liquid, and not to take in any fiber. Particularly, if we keep to strictly juice with no cheating, our hunger should subside along with the detox symptoms. Within 3 days, we should experience little to no hunger because we have slowed down our digestive system (although we may still want to eat out of habit). This is an important point, because we may think that drinking a small smoothie or eating one or two grapes will satisfy our hunger - but it is actually prolonging our hunger. </p>
+          <p class="card-text" style="font-weight:bold">
+          More about juices: </p>
+          <p class="card-text" >
+          <ul>
+            <li>The nutrients in the juice you drink are absorbed immediately by all the cells in our bodies. Our juicer separates the fiber from the liquids. This means that our body is able to more easily access of all the enzymes, vitamins and minerals.</li>
+          </p>
+            </div>
+          </div>
 
 <div class="row">
     <div class="col">
@@ -136,12 +134,24 @@ More about juices:
  
        <div class="card mb-3">
   <div class="card-body">
-    <h3 class="card-title">Cleaning your fruits and veggies
-</h3>
-    <p class="card-text">Fill your sink with cold water, add 4 tablespoons of salt and the juice of a lemon. Soak the fruits and veggies for 10 minutes then rinse under cold water. 1/4 cup of vinegar can be substituted for lemon.
-
-</p>
-
+    <h3 class="card-title">Tips</h3>
+<h5 class="card-title">Cleaning  fruits and veggies</h5>
+    <p class="card-text"> Fill your sink with cold water, add 4 tablespoons of salt and the juice of a lemon. Soak the fruits and veggies for 10 minutes then rinse under cold water. 1/4 cup of vinegar can be substituted for lemon.</p>
+    
+          <h5 class="card-title">Storing your Juice</h5>
+          <p class="card-text">We drink fresh fruit and veggie juice because it still has all its nutrients and enzymes. This means that the juice still has it's "life force". This life force is what will give you energy throughout the cleanse. Fresh juice begins to lose its nutrients immediately, therefore it's best to drink fresh juice right away. </p>
+    <p class="card-text">
+    The tips that follow will save you time in the kitchen by showing you how to store juices and keep as much of the life force intact as possible.
+    </p>
+        <ul class="list-group list-group-flush">
+        <li class="list-group-item">Try to avoid contact with light, heat, and air as they will cause juice to oxidize (losing its life force)
+    </li>
+        <li class="list-group-item">Keep the juice as cold as possible. If you have to store the juice for a while, make sure that the container is airtight and refrigerated.
+    </li>
+          <li class="list-group-item">Fill the juice all the way to the top to help reduce the amount of air that gets in.
+    </li>
+      </ul>
+        </div>
     
  </div>
   </div>
@@ -167,21 +177,7 @@ More about juices:
   </div>
   <div class="card">
     <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/juice.jpg" alt="Card image cap"> -->
-    <div class="card-body">
-      <h5 class="card-title">Storing your Juice</h5>
-      <p class="card-text">We drink fresh fruit and veggie juice because it still has all its nutrients and enzymes. This means that the juice still has it's "life force". This life force is what will give you energy throughout the cleanse. Fresh juice begins to lose its nutrients immediately, therefore it's best to drink fresh juice right away. </p>
-<p class="card-text">
-The tips that follow will save you time in the kitchen by showing you how to store juices and keep as much of the life force intact as possible.
-</p>
-     <ul class="list-group list-group-flush">
-    <li class="list-group-item">Try to avoid contact with light, heat, and air as they will cause juice to oxidize (losing its life force)
-</li>
-     <li class="list-group-item">Keep the juice as cold as possible. If you have to store the juice for a while, make sure that the container is airtight and refrigerated.
-</li>
-      <li class="list-group-item">Fill the juice all the way to the top to help reduce the amount of air that gets in.
-</li>
-  </ul>
-    </div>
+    
   </div>
 </div>
 
