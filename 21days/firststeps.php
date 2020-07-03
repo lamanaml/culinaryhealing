@@ -96,7 +96,7 @@
         <div class="col-sm-8">
           <div class="card">
             <div class="card-body">
-              <h5 >What's the deal with:</h5>
+              <h3 >What's the deal with:</h3>
               <p class="card-text"> <div id="accordion">
             <div class="card">
               <div class="card-header" id="headingOne">
@@ -337,7 +337,7 @@
               </div>
             </div>
   
-            <div class="card">
+            <!-- <div class="card">
               <div class="card-header" id="heading13">
                 <h5 class="mb-0">
                   <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
@@ -350,7 +350,7 @@
                   coming real soon
                 </div>
               </div>
-            </div> 
+            </div>  -->
           </div></p>
              
             </div>
@@ -359,7 +359,7 @@
         <div class="col-sm-4">
           <div class="card">
             <div class="card-body">
-             <h5 >Still have Questions?</h5>
+             <h3 >Still have Questions?</h3>
             <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodquestions.jpg" alt="Card image cap">
              
               <p class="card-text"> <p>To the left, we address some of the most common topics about the cleanse.  If you have additional questions, reach out to us!</p>
