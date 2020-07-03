@@ -88,7 +88,7 @@
       <div class="card mb-3">
         <div class="card-body">
           <h3 class="card-title">What should we avoid?</h3>
-          <p class="card-text">Generally, the category of whole foods excludes meat, chicken and fish; all dairy products, eggs, oils and refined flours and sugars (particularly, bleached).
+          <p class="card-text">Since this cleanse is vegan, whole food will exclude meat, chicken and fish; all dairy products, eggs, urs and sugars (particularly, bleached).
           </p>
           <p>Specifically, during the whole foods phase, should avoid</p>
           <ul class="list-group ">
@@ -97,12 +97,13 @@
             <li class="list-group-item list-group-item-danger"><h5>Nuts </h5></li>
             <li class="list-group-item list-group-item-danger"><h5>Dairy </h5>Milk, Cheese, Butter, Yogurt, Kefir</li>
             <li class="list-group-item list-group-item-danger"><h5>Fast Food </h5></li>
-            <li class="list-group-item list-group-item-danger"><h5>All Processed Foods</h5>Bread, Pasta, White Rice, White Sugar, Table Salt, Canned Foods            </li>
+            <li class="list-group-item list-group-item-danger"><h5>All Processed Foods</h5>Bread, Pasta, White Rice, White Sugar, Table Salt, Canned Foods  </li>
+            <li class="list-group-item list-group-item-danger"><h5>Processed Sweeteners</h5>White sugar, Turbanado sugar, Raw sugar, Pancake syrup</li>
             <li class="list-group-item list-group-item-danger"><h5>Artificial Ingredients</h5></li>
             <li class="list-group-item list-group-item-danger"><h5>Artificial Colors</h5></li>
             <li class="list-group-item list-group-item-danger"><h5>Hydrogenated Oils </h5>Margarine, Crisco, partially hydrogenated oil</li>
-            <li class="list-group-item list-group-item-danger"><h5> MSG also know as Monosodium Glutamate </h5></li>
-            <li class="list-group-item list-group-item-danger"><h5>Caffeine </h5>Coffee, teas with caffeine, Soda</li>
+            <li class="list-group-item list-group-item-danger"><h5>MSG also know as Monosodium Glutamate </h5></li>
+            <li class="list-group-item list-group-item-danger"><h5>Caffeine </h5>Coffee, Caffeinated teas, Soda</li>
             <li class="list-group-item list-group-item-danger"><h5>Drugs and Alcohol </h5></li>
           </ul>
         </div>
@@ -162,9 +163,10 @@
       <div class="card">
         <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap"> -->
         <div class="card-body">
-          <h5 class="card-title">Recipe Scavenger Hung</h5>
-          <p class="card-text"></p>
-         After we fully understand the whole food criteria, let's all go out and find some good breakfast and lunch/dinner recipes <a href="https://www.facebook.com/groups/341803323478066/">post it to the discussion group</a> (or send them to me via email)!  Try to find at least 2 good recipes!  Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity. Ready, set, gooo! 
+          <h3 class="card-title">Recipe Scavenger Hunt</h3>
+          <p class="card-text">
+         After we fully understand the whole food criteria, let's take to the internet (or cookbooks) and find some good breakfast and lunch/dinner recipes! Try to find at least 2 good recipes!  Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
+         <p class="card-text">Once we find them,  <a href="https://www.facebook.com/groups/341803323478066/">post it to the discussion group</a> (or send them to me via email)!  Ready, set, gooo! </p>
         </div>
       </div>
 
@@ -172,9 +174,11 @@
       <div class="card">
         <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunch.png" alt="Card image cap"> -->
         <div class="card-body">
-          <h5 class="card-title">Building a Menu</h5>
-          <p class="card-text"></p>
-          Now that we have some recipes under our belt, let's build a menu.  Let's keep this part manageable.  Think realistically about what you can/will make for each meal.  Then use this <a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit?usp=sharing">menu planner</a> to help keep track of your thoughts.  We can get as simple or as fancy as we like!  Try to find meals with repeating ingredients, this will help reduce grocery cost and waste.  Also, don't be afraid to substitute ingredients!
+          <h3 class="card-title">Building a Menu</h3>
+          <p class="card-text">
+          Now that we have some recipes under our belt, let's build a menu.  We can get as simple or as fancy as we like, but Let's keep this part manageable.  Think realistically about what you can/will make for each meal.   Try to find meals with repeating ingredients, this will help reduce grocery cost and waste.  Also, don't be afraid to substitute ingredients!</p>
+          <p class="card-text">
+          Then use this <a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit?usp=sharing">menu planner</a> to help keep track of your thoughts. </p>
         </div>
       </div>
 
@@ -182,10 +186,13 @@
       <div class="card">
         <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinner.png" alt="Card image cap"> -->
         <div class="card-body">
-          <h5 class="card-title">Grocery Shopping</h5>
-          <p class="card-text"></p>
+          <h3 class="card-title">Grocery Shopping</h3>
+          <p class="card-text">
           Let's put our knowledge into action.  Next, we will build a grocery list then go shopping!.  
-          At the store, shop mostly the outside perimeter of the grocery store (where the produce is - avoiding the processed food. ) and read labels, and have fun! 
+          At the store, shop mostly the outside perimeter of the grocery store (where the produce is - avoiding the processed food. ) and read labels, and have fun! </p>
+           <p class="card-text">
+           <a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit?usp=sharing">">Check out photos from a typical grocery store run!menu planner</a>  </p>
+        </div>
 
 
         
