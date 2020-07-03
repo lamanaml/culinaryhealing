@@ -49,16 +49,19 @@
     <div class="card mb-3 ">
       <div class="card-body">
         <h3 class="card-title">What are Liquids?</h3>
-        <p class="card-text">During this cleanse, “liquids” consists of all the fresh fruit and vegetable juices, herbal teas and water we want! Water alone may leave us feeling drained, while vegetable juice will give us an energy surge.
+        <p class="card-text">Liquids mean that no fiber is present.  During this cleanse, “liquids” consists of fresh fruit and vegetable juices, herbal teas and water we want! Water alone may leave us feeling drained, while freshy pressed juices will give us an energy surge.
         </p>
     
         <p class="card-text">During the liquids phase, our digestive systems slow down enough to start to reintroduce the stored toxins back into our bloodstream so they can be eliminated. </p>
           <p class="card-text">The key to the liquids phase is to drink only liquid, and not to take in any fiber. Particularly, if we keep to strictly juice with no cheating, our hunger should subside along with the detox symptoms. Within 3 days, we should experience little to no hunger because we have slowed down our digestive system (although we may still want to eat out of habit). This is an important point, because we may think that drinking a small smoothie or eating one or two grapes will satisfy our hunger - but it is actually prolonging our hunger. </p>
+
+          That said, to get the juice from fruits and veggies, we must use a JUICER, not a BLENDER.  A blender will mix the liquid with the fiber, while a juicer will extract the liquid, sepaarating it from the fiber.  
           <p class="card-text" style="font-weight:bold">
           More about juices: </p>
           <p class="card-text" >
           <ul>
-            <li>The nutrients in the juice you drink are absorbed immediately by all the cells in our bodies. Our juicer separates the fiber from the liquids. This means that our body is able to more easily access of all the enzymes, vitamins and minerals.</li>
+            <li>The nutrients in the juice that we drink are absorbed immediately by all the cells in our bodies. Our juicer separates the fiber from the liquids. This means that our body is able to more easily access of all the enzymes, vitamins and minerals.</li>
+
           </p>
             </div>
           </div>
