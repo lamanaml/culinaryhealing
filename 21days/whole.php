@@ -54,7 +54,7 @@
         <h3 class="card-title">What are Whole Foods?</h3>
         
         <p class="card-text">Whole foods are unprocessed, or minimally processed, fruits, veggies, whole grains and beans that are as close to nature as can be. We are typically able to trace whole food back to a single source.  A good rule of thumb is to try to imagine the origin of the item.  For example, corn is whole, while corn flakes are processed.  </p>
-                <p class="card-text"> Our bodies are designed to process food from its whole natural state.  Since processed foods have already been "processed", meaning that much of the fiber and nutritional value has been removed, our bodies are confused about what to do with it.  Our bodies tend to store these items as toxins covered with a layer of a mucus for protection until it can figure out what to do with it .</p>
+                <p class="card-text"> Our bodies are designed to process food from its whole natural state.  Since processed foods have already been "processed", meaning that much of the fiber and nutritional value has been removed, our bodies are confused about what to do with it.  Our bodies tend to store these items as toxins covered with a layer of a mucus for protection until it can figure out how to handle it.</p>
         <p class="card-text">During the whole food phase (days 1, 2, 20 and 21), we will enjoy cooked and raw whole foods! Becaue these foods are unprocessed, our digestive systems will be able to process them more efficiently, and extract the nutrients that we need. </p>
       </div>
     </div>
@@ -65,20 +65,20 @@
       <div class="card mb-3">
         <div class="card-body">
           <h3 class="card-title">What can we eat?</h3>
-          <p class="card-text">Whole foods consist of fruits and vegetables from the produce aisle, legumes in the beans aisle, and whole grains in the bulk foods section. Whole foods can be cooked, and we will share with you delicious recipes made of fruits, vegetables, legumes and grains to enjoy during this phase.</p>
+          <p class="card-text">Whole foods consist of fresh and frozen fruits and vegetables, dried beans and legumes, and whole grains. Whole foods can be cooked.</p>
           <ul class="list-group ">
-            <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits)</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
+            <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits)</h5>Including but not limited toApples, Pears, Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
             <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms</li>
             <li class="list-group-item list-group-item-success"><h5>Sea veggies</h5> Nori, Dulse, Sea Moss, and Arame <p><a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">>> Learn more about sea vegetables</a></p></li>
-            <li class="list-group-item list-group-item-success"  ><h5>Beans</h5></li>
+            <li class="list-group-item list-group-item-success"  ><h5>Beans</h5>Lentils, Black Beans, Chickpeas... any dried bean</li>
             <li class="list-group-item list-group-item-success"> <h5>Whole grains</h5> Brown rice, Quinoa, Millet, Farro, Wild Rice, Amaranth<p> <a href="https://wholegrainscouncil.org/whole-grains-101/whole-grains-z"> >> Learn more about Whole Grains </a></p>
             </li>
             <li class="list-group-item list-group-item-success"><h5>Oils</h5>Grapeseed, Avocado, Extra Virgin Olive, Coconut     </li>
             <li class="list-group-item list-group-item-success"><h5>Dried fruits</h5>Sun-dried Tomatoes, Figs, Dates, Raisins, Cranberries, Currants - Try to find varieties with no sugar added</li>
-            <li class="list-group-item list-group-item-success"><h5>Seeds</h5>Sesame, Pumpkin, Sunflower, Hemp</li>
+            <li class="list-group-item list-group-item-success"><h5>Seeds</h5>Sesame, Flax, Chia, Pumpkin, Sunflower, Hemp</li>
             <li class="list-group-item list-group-item-success" ><h5>Salts And Salty Stuff</h5> Sea Salt, Crystal Salt, Liquid Aminos, Tamari, Shoyu</li>
             <li class="list-group-item list-group-item-success"> <h5>Sweeteners</h5> Honey, Maple Syrup, Agave Nectar, And Stevia  </li>
-            <li class="list-group-item list-group-item-success"><h5>Herbs and Spices</h5></li>
+            <li class="list-group-item list-group-item-success"><h5>Herbs and Spices</h5>Thyme, Rosemary, Tumeric, Dried Spices, Fresh Herbs.  If you are using a spice blend, read the ingredients to make sure there are no forbidden ingredients. </li>
           </ul>
         </div>
       </div>
