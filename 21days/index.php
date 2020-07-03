@@ -52,7 +52,7 @@
             
             
 <!-- Cards -->
-        <div class="container" style="margin-top:150px; background-color: white;">
+        <div class="container" style="margin-top:20px; background-color: white;">
       <div class="card-group ">
         <div class="card shadow col-sm-6 p-3 mb-5 bg-white rounded">
           <img src="../../assets/images/profile-lamana1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
