@@ -109,7 +109,7 @@
               <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                 <div class="card-body">
                 Learning how to read labels is one of our most powerful weapons for a healthy diet.  First, ignore the front of the package (they are lying to us), go straight to the back.  The main ingredients that we should avoid are: 
-                <ul>
+                <ul class="default">
                   <li>Hydrogenated oils</li>
                   <li>Partially hydrogenated oils</li>
                   <li>Monosodium Glutamate (aka MSG).</li>
