@@ -160,31 +160,35 @@
     <div class="card-group">
     <!-- card 1 -->
       <div class="card">
-        <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap">
+        <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap"> -->
         <div class="card-body">
-          <h5 class="card-title">Find Recipes</h5>
+          <h5 class="card-title">Recipe Scavenger Hung</h5>
           <p class="card-text"></p>
-          Let's have a recipe scavenger hunt!  Everyone go out and find a good breakfast and lunch/dinner recipe that you would like to try for the whole food phase and post it to the discussion group!  So 2 recipes each!  Ready, set, gooo! 
+         After we fully understand the whole food criteria, let's all go out and find some good breakfast and lunch/dinner recipes <a href="https://www.facebook.com/groups/341803323478066/">post it to the discussion group</a> (or send them to me via email)!  Try to find at least 2 good recipes!  Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity. Ready, set, gooo! 
         </div>
       </div>
 
 <!-- card 2 -->
       <div class="card">
-        <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunch.png" alt="Card image cap">
+        <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunch.png" alt="Card image cap"> -->
         <div class="card-body">
           <h5 class="card-title">Building a Menu</h5>
           <p class="card-text"></p>
-          Now that we have some ideas and recipes under our belt, let's build a menu.  I would keep this part conservative.  Plan for only a couple of meals at a time.  This will make the task of prepping food less daunting, and will reduce the amount of food waste that we have.  Literally, write out Breakfast, Lunch, Dinner, Monday, Tuesday, Wednesday.. in a table.  Then, think realistically about what you can/will make for each meal.  Keep the prep simple for the most part. I would plan to show off once or twice during the 3 weeks, but let's not complicate our lives.  
+          Now that we have some recipes under our belt, let's build a menu.  Let's keep this part manageable.  Think realistically about what you can/will make for each meal.  Then use this <a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit?usp=sharing">menu planner</a> to help keep track of your thoughts.  We can get as simple or as fancy as we like!  Try to find meals with repeating ingredients, this will help reduce grocery cost and waste.  Also, don't be afraid to substitute ingredients!
         </div>
       </div>
 
 <!-- card 3 -->
       <div class="card">
-        <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinner.png" alt="Card image cap">
+        <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinner.png" alt="Card image cap"> -->
         <div class="card-body">
           <h5 class="card-title">Grocery Shopping</h5>
           <p class="card-text"></p>
-          Put your knowledge into action.  Build a grocery list, shop mostly the outside peremeter of the grocery store (where the produce is - avoiding the processed food. ) and read labels.    Look for ways to use the same ingredient in multiple recipes, feel free to swap out ingredients for what you have or what you like!  The recipe is only a guide, not a law!
+          Let's put our knowledge into action.  Next, we will build a grocery list then go shopping!.  
+          At the store, shop mostly the outside perimeter of the grocery store (where the produce is - avoiding the processed food. ) and read labels, and have fun! 
+
+
+        
         </div>
       </div>
     </div>
