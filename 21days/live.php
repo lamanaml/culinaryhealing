@@ -45,11 +45,11 @@
         </div>
 
 <!-- Main content -->
-<div class="container" style="margin-top:150px; background-color: white;">
+<div class="container" style="margin-top:20px; background-color: white;">
         <div class="card mb-3 ">
           <div class="card-body">
             <h3 class="card-title">What are Live (also know as Raw) foods?</h3>
-            <p class="card-text">Live / raw foods are whole foods that still have the vitamins, minerals, phytochemicals, and enzymes intact. What are Enzymes?
+            <p class="card-text">Live / raw foods are whole foods that still have the vitamins, minerals, phytochemicals, and specifically the enzymes intact. What are Enzymes?
             </p>
             <ul>
               <li>Enzymes are the life force that conducts and directs every activity in your body.</li>
