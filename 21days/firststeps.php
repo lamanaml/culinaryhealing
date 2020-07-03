@@ -229,7 +229,7 @@
                 </div>
               </div>
             </div>
-        <div class="card">
+        <!-- <div class="card">
               <div class="card-header" id="heading8">
                 <h5 class="mb-0">
                   <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
@@ -270,9 +270,9 @@
                 <p> Salt </p>
                 </div>
               </div>
-            </div>
+            </div> -->
 
-            <div class="card">
+            <!-- <div class="card">
               <div class="card-header" id="heading9">
                 <h5 class="mb-0">
                   <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
@@ -285,7 +285,7 @@
                   coming soon
                 </div>
               </div>
-            </div>
+            </div> -->
 
             <div class="card">
               <div class="card-header" id="heading10">
