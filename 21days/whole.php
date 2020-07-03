@@ -54,8 +54,8 @@
         <h3 class="card-title">What are Whole Foods?</h3>
         
         <p class="card-text">Whole foods are unprocessed, or minimally processed, fruits, veggies, whole grains and beans that are as close to nature as can be. We are typically able to trace whole food back to a single source.  A good rule of thumb is to try to imagine the origin of the item.  For example, corn is whole, while corn flakes are processed.  </p>
-                <p class="card-text"> Our bodies are designed to break down (or process) food from its whole natural state.  Since processed foods have already been "processed", meaning that much of the fiber and nutritional value is removed, our bodies are confused about what to do with it.  Since our digestive systems are usually overburdened, our bodies will store these processed foods away as toxins, until it has the capacity to figure out what to do with it.  Well, our bodies tend to store these items in the form of fat or covered with a layer of a mucus for protection.</p>
-        <p class="card-text">We will enjoy cooked and raw whole foods on days 1, 2, 20 and 21!</p>
+                <p class="card-text"> Our bodies are designed to process food from its whole natural state.  Since processed foods have already been "processed", meaning that much of the fiber and nutritional value has been removed, our bodies are confused about what to do with it.  Our bodies tend to store these items as toxins covered with a layer of a mucus for protection until it can figure out what to do with it .</p>
+        <p class="card-text">During the whole food phase (days 1, 2, 20 and 21), we will enjoy cooked and raw whole foods! Becaue these foods are unprocessed, our digestive systems will be able to process them more efficiently, and extract the nutrients that we need. </p>
       </div>
     </div>
 
