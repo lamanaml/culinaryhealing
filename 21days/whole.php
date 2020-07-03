@@ -165,7 +165,7 @@
         <div class="card-body">
           <h3 class="card-title">Recipe Scavenger Hunt</h3>
           <p class="card-text">
-         After we fully understand the whole food criteria, let's take to the internet (or cookbooks) and find some good breakfast and lunch/dinner recipes! Try to find at least 2 good recipes!  Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
+         After we fully understand the whole food criteria, let's take to the internet (or cookbooks) and find our own breakfast and lunch/dinner recipes! Try to find at least 2 good recipes!  Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
          <p class="card-text">Once we find them,  <a href="https://www.facebook.com/groups/341803323478066/">post it to the discussion group</a> (or send them to me via email)!  Ready, set, gooo! </p>
         </div>
       </div>

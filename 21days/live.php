@@ -49,17 +49,19 @@
         <div class="card mb-3 ">
           <div class="card-body">
             <h3 class="card-title">What are Live (also know as Raw) foods?</h3>
-            <p class="card-text">Live / raw foods are whole foods that have not been heated over a certain temperature, so they still have the vitamins, minerals, phytochemicals, and specifically the enzymes intact. What are Enzymes?
+            <p class="card-text">Live / raw foods are whole foods that have not been heated over a certain temperature, so they still have the vitamins, minerals, phytochemicals, and specifically the enzymes intact. 
             </p>
+            <p class="card-text">
+            What are Enzymes?
             <ul>
-              <li>Enzymes are the life force that conducts and directs every activity in your body.</li>
+              <li>Enzymes are the life force that conducts and directs every activity in our body.</li>
               <li>Enzymes "digest" or break down food in our digestive systems.</li>
               <li>Eating an enzyme-rich diet is thought to increase vitality, slows the aging process, help repair our DNA and RNA, breaks down proteins, increase weight loss and eliminate toxins.</li>
             </ul>
-            
+            </p>
             <p class="card-text">Enzymes are heat sensitive and destroyed at temperatures above 118 degrees. This is important because the purpose of eating is to provide our bodies with these nutrients and enzymes, and if they are destroyed through cooking, we are not giving our bodies what it needs... which defeats the point... right? 
             </p>
-             <p class="card-text">The terms Raw and Live are sometimes used interchangeably, however there is a slight difference.  Technically speaking, raw food are in a dormit state where the enzymes have not yet been activated.  So, for example, sunflower seeds are raw.  You can keep it indefinately and it will continue to be a seed.  However, if you soak the seed overnight (removing the enzyme inhibiors), it will start to grow a sprout.  Soaking it changes the state from raw to live, meaning the exzymes have become active and it can now produce life. Therefore, Live food is always Raw, but not all Raw food is Live.   
+             <p class="card-text">The terms Raw and Live are sometimes used interchangeably, however there is a slight difference.  Technically speaking, raw food is in a dormit state where the enzymes have not yet been activated.  So, for example, sunflower seeds are raw.  You can keep it indefinately and it will continue to be a seed.  However, if you soak the seed overnight (removing the enzyme inhibitors), it will start to grow a sprout.  Soaking it changes the state from raw to live, meaning the exzymes have become active and it can now produce life. Therefore, Live food is always Raw, but not all Raw food is Live.   
             </p>
             <p class="card-text">So, during this phase, we will turn off the stoves and flood ourselves with nutrients and life giving enzymes!</p>
           </div>
@@ -70,31 +72,29 @@
           <div class="card mb-3">
           <div class="card-body">
             <h3 class="card-title">What can we eat?</h3>
-            <p class="card-text">In general, our diets should consist of at least 50% live foods. Eating live can mean something as simple as eating an apple or a salad, or can be so sophisticated that you will forget that it is raw! Most of the recipes that are listed in our forum are very simple, requiring basic equipment (knives, blenders or food processors) but if you have other equipment like dehydrators, mandolins or masticating juicers, I hope you will find the courage to find recipes that use them. For those of you who are not that familiar with live foods, you may be surprised with how much you enjoy them. 
+            <p class="card-text">In general, our diets should consist of at least 50% live foods. Eating live can mean something as simple as eating an apple or a salad, or can be so sophisticated that you will forget that it is raw! 
         </p>
 
 
         <ul class="list-group ">
-           <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits)</h5>Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
-          <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms</li>
-          <li class="list-group-item list-group-item-success"><h5>Sea veggies</h5> Nori, Dulse, Sea Moss, and Arame <p><a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">>> Learn more about sea vegetables</a></p></li>
+          <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits)</h5>Including but not limited toApples, Pears, Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
+            <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms</li>
+            <li class="list-group-item list-group-item-success"><h5>Sea veggies</h5> Nori, Dulse, Sea Moss, and Arame <p><a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">>> Learn more about sea vegetables</a></p></li>
           <li class="list-group-item list-group-item-success"  ><h5>Fermented Food</h5>Sauerkraut, Kimchee, Miso</li>
           <li class="list-group-item list-group-item-success"> <h5>Sprouts</h5> Alfalfa Sprouts, Bean Sprouts, Sprouted grains
           </li>
           <li class="list-group-item list-group-item-success"><h5>Oils</h5>Grapeseed, Avocado, Extra Virgin Olive, Coconut               </li>
-          <li class="list-group-item list-group-item-success"><h5>Dried fruits</h5>Sun-dried Tomatoes, Figs, Dates, Raisins, Cranberries, Currants - Try to find varieties with no sugar added </li>
-          <li class="list-group-item list-group-item-success"><h5>Raw Seeds</h5>Sesame, Pumpkin, Sunflower, Hemp
-        </li>
+          <li class="list-group-item list-group-item-success"><h5>Dried fruits</h5>Sun-dried Tomatoes, Figs, Dates, Raisins, Cranberries, Currants.  Try to find varieties with no sugar added </li>
+          <li class="list-group-item list-group-item-success"><h5>Seeds</h5>Sesame, Flax, Chia, Pumpkin, Sunflower, Hemp</li>
 
           <li class="list-group-item list-group-item-success" ><h5>Salts And Salty Stuff</h5> Sea Salt, Crystal Salt, Liquid Aminos, Tamari, Shoyu
         </li>
           
-
           <li class="list-group-item list-group-item-success"> <h5>Sweeteners</h5> Honey, Maple Syrup, Agave Nectar, And Stevia
           </li>
 
-          <li class="list-group-item list-group-item-success"><h5>Herbs and Spices</h5>
-        </li>
+          <li class="list-group-item list-group-item-success"><h5>Herbs and Spices</h5>Thyme, Rosemary, Tumeric, Dried Spices, Fresh Herbs.  If you are using a spice blend, read the ingredients to make sure there are no forbidden ingredients. </li>
+   
 
         </ul>
 
@@ -113,8 +113,7 @@
 
         </p>
 
-            <p>Specifically, during the whole foods phase, should avoid</p>
-            <ul class="list-group ">
+             <ul class="list-group ">
               <li class="list-group-item list-group-item-danger"><h5>ALL COOKED FOOD</h5></li>
               <li class="list-group-item list-group-item-danger"><h5>Nuts </h5></li>
         <li class="list-group-item list-group-item-danger"><h5>Packaged, boxed or processed juices</h5></li>
@@ -140,7 +139,7 @@
           </div>
 
 
-        <div class="card-group">
+        <!-- <div class="card-group">
           <div class="card">
             <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfastlive.png" alt="Card image cap">
             <div class="card-body">
@@ -177,17 +176,58 @@
           </ul>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="alert alert-success" role="alert">
+        <!-- <div class="alert alert-success" role="alert">
                     <h4 class="alert-heading">Still have Questions?</h4>
                       
                       <hr>
                       <p class="mb-0">Send an email to info@culinaryhealing . com</p>
                   </div> 
-          
+           -->
 
-              
+             <div class="container">
+    <div class="card-group">
+    <!-- card 1 -->
+      <div class="card">
+        <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap"> -->
+        <div class="card-body">
+          <h3 class="card-title">Recipe Scavenger Hunt</h3>
+          <p class="card-text">
+         After we fully understand the Live food criteria, let's take to the internet (or cookbooks) and find our own breakfast and lunch/dinner recipes! Try to find at least 2 good recipes!  Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
+         <p class="card-text">Once we find them,  <a href="https://www.facebook.com/groups/341803323478066/">post it to the discussion group</a> (or send them to me via email)!  Ready, set, gooo! </p>
+        </div>
+      </div>
+
+<!-- card 2 -->
+      <div class="card">
+        <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunch.png" alt="Card image cap"> -->
+        <div class="card-body">
+          <h3 class="card-title">Building a Menu</h3>
+          <p class="card-text">
+          Now that we have some recipes under our belt, let's build a menu.  We can get as simple or as fancy as we like, but Let's keep this part manageable.  Think realistically about what you can/will make for each meal.   Try to find meals with repeating ingredients, this will help reduce grocery cost and waste.  Also, don't be afraid to substitute ingredients!</p>
+          <p class="card-text">
+          Then use this <a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit?usp=sharing">menu planner</a> to help keep track of your thoughts. </p>
+        </div>
+      </div>
+
+<!-- card 3 -->
+      <div class="card">
+        <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinner.png" alt="Card image cap"> -->
+        <div class="card-body">
+          <h3 class="card-title">Grocery Shopping</h3>
+          <p class="card-text">
+          Let's put our knowledge into action.  Next, we will build a grocery list then go shopping!.  
+          At the store, shop mostly the outside perimeter of the grocery store (where the produce is - avoiding the processed food. ) and read labels, and have fun! </p>
+           <p class="card-text">Check out 
+           <a href="https://goo.gl/photos/pM5K7iXArpyrzHqc9">photos from a typical grocery store run!</a>  </p>
+        </div>
+
+
+        
+        </div>
+      </div>
+    </div> 
             
         </div>
               
