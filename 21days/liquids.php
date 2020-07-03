@@ -49,20 +49,20 @@
     <div class="card mb-3 ">
       <div class="card-body">
         <h3 class="card-title">What are Liquids?</h3>
-        <p class="card-text">Liquids mean that no fiber is present.  During this cleanse, “liquids” consists of fresh fruit and vegetable juices, herbal teas and water we want! Water alone may leave us feeling drained, while freshy pressed juices will give us an energy surge.
+        <p class="card-text">Liquids mean that no fiber is present.  Removing fiber allows our digestive systems slow down enough to start to reintroduce the stored toxins back into our bloodstream so they can be eliminated.  This, my friends, is called detoxing.  This is where the magic happens. </p> 
+
+        <p class="card-text">The key to the liquids phase is to avoid all fiber.  If we keep to strictly juice with no cheating, within 3 days our hunger should subside along with the detox symptoms.  </p>
+        <p class="card-text"> 
+          That said, for this phase, you will need a juicer.  To get the juice from fruits and veggies, we must use a JUICER, not a BLENDER.  A blender will mix the liquid with the fiber, while a juicer will extract the liquid, sepaarating it from the fiber.  </p>
+        should subside along with the detox symptoms.  </p>
+        <p class="card-text">
+        
+        During this phase we will consume fresh nutrient-dense fruit and vegetable juices, herbal teas and water! While water alone may leave us feeling drained, freshy pressed juices will give us an energy surge. The nutrients in the juice will be absorbed by all the cells in our bodies, allowing them to immediately repair and restore our bodies at the cellular level. 
         </p>
     
-        <p class="card-text">During the liquids phase, our digestive systems slow down enough to start to reintroduce the stored toxins back into our bloodstream so they can be eliminated. </p>
-          <p class="card-text">The key to the liquids phase is to drink only liquid, and not to take in any fiber. Particularly, if we keep to strictly juice with no cheating, our hunger should subside along with the detox symptoms. Within 3 days, we should experience little to no hunger because we have slowed down our digestive system (although we may still want to eat out of habit). This is an important point, because we may think that drinking a small smoothie or eating one or two grapes will satisfy our hunger - but it is actually prolonging our hunger. </p>
+                
 
-          That said, to get the juice from fruits and veggies, we must use a JUICER, not a BLENDER.  A blender will mix the liquid with the fiber, while a juicer will extract the liquid, sepaarating it from the fiber.  
-          <p class="card-text" style="font-weight:bold">
-          More about juices: </p>
-          <p class="card-text" >
-          <ul>
-            <li>The nutrients in the juice that we drink are absorbed immediately by all the cells in our bodies. Our juicer separates the fiber from the liquids. This means that our body is able to more easily access of all the enzymes, vitamins and minerals.</li>
-
-          </p>
+         
             </div>
           </div>
 
