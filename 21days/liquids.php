@@ -90,17 +90,15 @@
   <li class="list-group-item list-group-item-success"><h5>Chlorophyll</h5>
 
   <li class="list-group-item list-group-item-success" ><h5>Spirulina 
-</h5>  It is loaded with protein and all the vitamins and minerals the body needs.
+</h5>  It is loaded with protein and all the vitamins and minerals the body needs.  Mix it with your liquids. 
 </li>
   
 
-  <li class="list-group-item list-group-item-success"> <h5>Wheatgrass or other grasses like barley grass
-</h5> 
-  </li>
+  <li class="list-group-item list-group-item-success"> <h5>Wheatgrass </h5> or other grasses like barley grass  </li>
 
-   <li class="list-group-item list-group-item-success"><h5>Kombucha</h5>a fermented probiotic drink
+   <li class="list-group-item list-group-item-success"><h5>Kombucha</h5>a fermented probiotic drink.  Watch out for the sugar content.  Some contain as much sugar as a soda.   
 </li>
- <li class="list-group-item list-group-item-success"><h5>Coconut Water</h5>
+ <li class="list-group-item list-group-item-success"><h5>Coconut Water</h5> I prefer the white Young Thai coconuts, or the green Carribean Coconuts, however, bottled coconut is allowed.  Harmless or other raw brands are preferred. 
 </li>
 </ul>
 
