@@ -86,9 +86,9 @@
       </div>
       
 
-   <div class="container">
+   <div class="container" style="padding:50px;">
    <h1 class="display-4">The Roadmap</h1>
-   <img src="http://www.culinaryhealing.com/assets/images/planall.png" width="100%" style="padding:50px;">
+   <img src="http://www.culinaryhealing.com/assets/images/planall.png" width="100%" >
    </div>
 
 <!-- Whats the deal with section -->
