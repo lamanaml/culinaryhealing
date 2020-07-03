@@ -115,8 +115,8 @@
     </div>
   </div>
 
-  <div class="container">
-    <div class="card-group">
+  <!-- <div class="container">
+    <div class="card-group"> -->
     <!-- card 1 -->
       <!-- <div class="card">
         <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap">
@@ -207,7 +207,7 @@
 
           
           </div>
-    </div>
+    <!-- </div> -->
           </div>
    <!-- Footer-->
          <div>
