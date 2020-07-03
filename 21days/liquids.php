@@ -53,11 +53,11 @@
 
         <p class="card-text">The key to the liquids phase is to avoid all fiber.  If we keep to strictly juice with no cheating, within 3 days our hunger should subside along with the detox symptoms.  </p>
         <p class="card-text"> 
-          That said, for this phase, you will need a juicer.  To get the juice from fruits and veggies, we must use a JUICER, not a BLENDER.  A blender will mix the liquid with the fiber, while a juicer will extract the liquid, sepaarating it from the fiber.  </p>
-        should subside along with the detox symptoms.  </p>
+          That said, for this phase, you will need a juicer.  To get the juice from fruits and veggies, we must use a JUICER, not a BLENDER.  A blender will mix the liquid with the fiber, while a juicer will extract the liquid, separating it from the fiber.  </p>
+        
         <p class="card-text">
         
-        During this phase we will consume fresh nutrient-dense fruit and vegetable juices, herbal teas and water! While water alone may leave us feeling drained, freshy pressed juices will give us an energy surge. The nutrients in the juice will be absorbed by all the cells in our bodies, allowing them to immediately repair and restore our bodies at the cellular level. 
+        During this phase (days 7-14) we will consume fresh nutrient-dense fruit and vegetable juices, herbal teas and water! While water alone may leave us feeling drained, freshy pressed juices will give us an energy surge. The nutrients in the juice will be absorbed by all the cells in our bodies, allowing them to immediately repair and restore our bodies at the cellular level. 
         </p>
     
                 
