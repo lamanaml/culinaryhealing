@@ -59,12 +59,15 @@
               <li>Eating an enzyme-rich diet is thought to increase vitality, slows the aging process, help repair our DNA and RNA, breaks down proteins, increase weight loss and eliminate toxins.</li>
             </ul>
             </p>
-            <p class="card-text">Enzymes are heat sensitive and destroyed at temperatures above 118 degrees. This is important because the purpose of eating is to provide our bodies with these nutrients and enzymes, and if they are destroyed through cooking, we are not giving our bodies what it needs... which defeats the point... right? 
+            <p class="card-text">Enzymes are heat sensitive and destroyed at temperatures above 115 degrees. This is important because the purpose of eating is to provide our bodies with these nutrients and enzymes, and if they are destroyed through cooking, we are not giving our bodies what it needs... which defeats the point... right? 
             </p>
              <p class="card-text">The terms Raw and Live are sometimes used interchangeably, however there is a slight difference.  Technically speaking, raw food is in a dormit state where the enzymes have not yet been activated.  So, for example, sunflower seeds are raw.  You can keep it indefinately and it will continue to be a seed.  However, if you soak the seed overnight (removing the enzyme inhibitors), it will start to grow a sprout.  Soaking it changes the state from raw to live, meaning the exzymes have become active and it can now produce life. Therefore, Live food is always Raw, but not all Raw food is Live.   
             </p>
             <p class="card-text">So, during this phase, we will turn off the stoves and flood ourselves with nutrients and life giving enzymes!</p>
+             <!-- <p class="card-text">Need a litte inspiration?  Check out some of our <a href="https://culinaryhealing.com/21days/recipes/?cat=4">Whole Food Recipes</a>! -->
           </div>
+
+          
         </div>
 
         <div class="row">
@@ -108,13 +111,13 @@
             <div class="col col2">
               <div class="card mb-3">
           <div class="card-body">
-            <h3 class="card-title">What should we avoid?</h3>
-            <p class="card-text">Any fruit or veggie that is warmed/dehydrated at a temperature greater than 116 degrees.
+            <h3 class="card-title" style="font-weight:bold" >What should we avoid?</h3>
+            <p class="card-text">Any fruit or veggie that is warmed/dehydrated at a temperature greater than 115 degrees.
 
         </p>
 
              <ul class="list-group ">
-              <li class="list-group-item list-group-item-danger"><h5>ALL COOKED FOOD</h5></li>
+              <li class="list-group-item list-group-item-danger"><h5>COOKED FOOD</h5>Any food heated above 115 degrees</li>
               <li class="list-group-item list-group-item-danger"><h5>Nuts </h5></li>
         <li class="list-group-item list-group-item-danger"><h5>Packaged, boxed or processed juices</h5></li>
               
