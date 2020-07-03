@@ -190,8 +190,8 @@
           <p class="card-text">
           Let's put our knowledge into action.  Next, we will build a grocery list then go shopping!.  
           At the store, shop mostly the outside perimeter of the grocery store (where the produce is - avoiding the processed food. ) and read labels, and have fun! </p>
-           <p class="card-text">
-           <a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit?usp=sharing">">Check out photos from a typical grocery store run!menu planner</a>  </p>
+           <p class="card-text">Check out 
+           <a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit?usp=sharing">photos from a typical grocery store run!</a>  </p>
         </div>
 
 
