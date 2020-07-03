@@ -364,7 +364,7 @@
              
               <p class="card-text"> <p>To the left, we address some of the most common topics about the cleanse.  If you have additional questions, reach out to us!</p>
                 <hr>
-                <p class="mb-0">Send an email to lamana@culinaryhealing .com</p></p>
+                <p class="mb-0">Send an email to lamana@culinaryhealing.com</p></p>
               
             </div>
           </div>
