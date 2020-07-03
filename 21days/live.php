@@ -51,7 +51,7 @@
             <h3 class="card-title">What are Live (also know as Raw) foods?</h3>
             <p class="card-text">Live / raw foods are whole foods that have not been heated over a certain temperature, so they still have the vitamins, minerals, phytochemicals, and specifically the enzymes intact. 
             </p>
-            <p class="card-text">
+            <p class="card-text" style="font-weight:bold">
             What are Enzymes?
             <ul>
               <li>Enzymes are the life force that conducts and directs every activity in our body.</li>
@@ -111,7 +111,7 @@
             <div class="col col2">
               <div class="card mb-3">
           <div class="card-body">
-            <h3 class="card-title" style="font-weight:bold" >What should we avoid?</h3>
+            <h3 class="card-title"  >What should we avoid?</h3>
             <p class="card-text">Any fruit or veggie that is warmed/dehydrated at a temperature greater than 115 degrees.
 
         </p>
