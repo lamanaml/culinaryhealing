@@ -231,65 +231,10 @@
                 <p>On the other hand complex carbs (which we can and should eat) are completely unprocessed whole foods and enter your bloodstream more gradually giving you sustained energy. These are whole grains like oats, brown rice, quinoa, millet, farro and starchy vegetables like potatoes.  Do not let the advertising on foods trick you. The only foods that are whole grains are actually whole grains. Bread, whole wheat bagels, cereals, etc. are NOT whole grains. They are cracked grains, processed, and as a result, are simple sugars. </p>
                 </div>
               </div>
+                            </div>
+
  
-        <!-- <div class="card">
-              <div class="card-header" id="heading8">
-                <h5 class="mb-0">
-                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
-                   Oils 
-                  </button>
-                </h5>
-              </div>
-              <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordion">
-                <div class="card-body">
-                <p> Oils </p>
-                </div>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-header" id="heading8">
-                <h5 class="mb-0">
-                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
-                    Sugar 
-                  </button>
-                </h5>
-              </div>
-              <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordion">
-                <div class="card-body">
-                <p> Sugars</p>
-                </div>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-header" id="heading8">
-                <h5 class="mb-0">
-                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
-                    Salt 
-                  </button>
-                </h5>
-              </div>
-              <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordion">
-                <div class="card-body">
-                <p> Salt </p>
-                </div>
-              </div>
-            </div> -->
-
-            <!-- <div class="card">
-              <div class="card-header" id="heading9">
-                <h5 class="mb-0">
-                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
-                    Caffeine, Coffee, tea and Sodas
-                  </button>
-                </h5>
-              </div>
-              <div id="collapse9" class="collapse" aria-labelledby="heading9" data-parent="#accordion">
-                <div class="card-body">
-                  coming soon
-                </div>
-              </div>
-            </div> -->
-
+       
             <div class="card">
               <div class="card-header" id="heading10">
                 <h5 class="mb-0">
