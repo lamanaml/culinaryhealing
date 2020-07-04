@@ -125,7 +125,7 @@
               <div class="card-header" id="headingThree">
                 <h5 class="mb-0">
                   <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapsThree">
-                    Journaling, prayer, meditation
+                    Journaling, prayer, meditation, and finding peace
                   </button>
                 </h5>
               </div>
