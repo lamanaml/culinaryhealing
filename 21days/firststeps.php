@@ -193,7 +193,8 @@
               </div>
               <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordion">
                 <div class="card-body">
-                   Keep exercise to a minimum - Our bodies are in repair mode, which means that most of our energy should be dedicated to detoxing. At times, we may want to go run a couple of miles, try to resist the urge, and replace vigorous activity with ones that help purge... stretching, yoga, walking, even activities like the sauna and steam room and massage.  
+                   Keep vigirous exercise to a minimum - Our bodies are in repair mode, which means that most of our energy should be dedicated to detoxing.   Instead, do activities that help purge... stretching, yoga, walking, and activities like the sauna, steam room and massage.  
+                   
                 </div>
  
                 </div>
