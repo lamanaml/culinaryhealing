@@ -178,7 +178,7 @@
               </div>
               <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordion">
                 <div class="card-body">
-                  Spices and herbs are delicious and will add tons of flavor to our meals, not to mention the fact that they have lots of medicinal benefits.  Spices, herbs and superfoods are welcomed additions to the cleanse as they work with our bodies to cleanse and nourish. Make sure that when purchase spices, especially spice blends, they do not contain preservatives or msg.
+                  Spices and herbs are delicious and will add tons of flavor to our meals, not to mention the fact that they have lots of medicinal benefits.  Spices, herbs and superfoods are welcomed additions to the cleanse as they work with our bodies to cleanse and nourish. Make sure that when tou purchase spices, especially spice blends, they do not contain preservatives or msg.
                 </div>
               </div>
             </div>
