@@ -91,35 +91,35 @@
    </div>
 
 <!-- Whats the deal with section -->
-      <div class="row ">
-        <div class="col-sm-8">
-          <div class="card">
-            <div class="card-body">
-              <h3 >What's the deal with:</h3>
-              <p class="card-text"> <div id="accordion">
-            <div class="card">
-              <div class="card-header" id="headingOne">
-                <h5 class="mb-0">
-                  <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  Reading labels
-                  </button>
-                </h5>
-              </div>
-              <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                <div class="card-body">
-                Learning how to read labels is one of our most powerful weapons for a healthy diet.  First, ignore the front of the package (they are lying to us), go straight to the back.  The main ingredients that we should avoid are: 
-                <ul class="default">
-                  <li>- Hydrogenated oils</li>
-                  <li>- Partially hydrogenated oils</li>
-                  <li>- Monosodium Glutamate (aka MSG).</li>
-                  <li>- High fructose corn syrup</li>
-                  <li>- Artificial Sweeteners (including aspartame and sucralose - aka Splenda)</li>
-                  <li>- Artificial Colors</li>
-                </ul>
-                 Make sure the ingredients listed are real food, meaning that you can identify where it comes from.  Avoid ingredients with 10-syllables. Check the serving size, as sometimes it is manipulated so that the nutrition looks acceptable at first glance. 
+    <div class="row ">
+      <div class="col-sm-8">
+        <div class="card">
+          <div class="card-body">
+            <h3 >What's the deal with:</h3>
+            <p class="card-text"> 
+            <div id="accordion">
+              <div class="card">
+                <div class="card-header" id="headingOne">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    Reading labels
+                    </button>
+                  </h5>
+                </div>
+                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body"> Learning how to read labels is one of our most powerful weapons for a healthy diet.  First, ignore the front of the package (they are lying to us), go straight to the back.  The main ingredients that we should avoid are: 
+                  <ul class="default">
+                    <li>- Hydrogenated oils</li>
+                    <li>- Partially hydrogenated oils</li>
+                    <li>- Monosodium Glutamate (aka MSG).</li>
+                    <li>- High fructose corn syrup</li>
+                    <li>- Artificial Sweeteners (including aspartame and sucralose - aka Splenda)</li>
+                    <li>- Artificial Colors</li>
+                  </ul>
+                  Make sure the ingredients listed are real food, meaning that you can identify where it comes from.  Avoid ingredients with 10-syllables. Check the serving size, as sometimes it is manipulated so that the nutrition looks acceptable at first glance. 
+                  </div>
                 </div>
               </div>
-            </div>
 
             <div class="card">
               <div class="card-header" id="headingThree">
@@ -193,12 +193,11 @@
               </div>
               <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordion">
                 <div class="card-body">
-                   Keep vigirous exercise to a minimum.  Our bodies are in repair mode, which means that most of our energy should be dedicated to detoxing.   Instead, do activities that help purge... stretching, yoga, walking, and activities such as the sauna, steam room and massage.  
-                   
+                   Keep vigirous exercise to a minimum.  Our bodies are in repair mode, which means that most of our energy should be dedicated to detoxing.   Instead, do activities that help purge... stretching, yoga, walking, and activities such as the sauna, steam room and massage. 
                 </div>
                  </div>
               </div>
-      
+            </div>
     
             <div class="card">
               <div class="card-header" id="heading815">
