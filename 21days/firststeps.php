@@ -210,7 +210,7 @@
                   </div>
                   <div id="collapse15" class="collapse" aria-labelledby="heading15" data-parent="#accordion">
                     <div class="card-body">
-                      This is vegan cleanse so we will not consume any animal products during our 3 week journey.  This is not to say that you can not enjoy meat and dairy as a part of a healthy diet beyond the cleanse... many people do.  Eating meat and dairy is a personal choice, and if you feel that you would like to include it beyond the cleanse, it's perfectly OK.  You just have to watch the quality and the quantity of the animal products.  Purchase responsibliy raised animals and organic dairy from reputable sources, and enjoy them more as a condiment... not the main dish.  
+                      This is vegan cleanse so we will NOT consume any animal products during our 3 week journey.  This is not to say that you can not enjoy meat and dairy as a part of a healthy diet beyond the cleanse.  Responsibly raised meat and dairy products can certainly be incorporated into a healtly diet.    
                     </div>
                   </div>
                 </div>
