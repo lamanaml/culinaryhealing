@@ -228,7 +228,7 @@
                       <p> There are two types of carbohydrates, refined and complex.</p>
                       <p>Refined carbs started off as a whole food, but have been stripped of much of the fiber and nutritional content. This includes white rice, white pasta, white sugar, white bread, most commercially available cereals etc. Because the fiber has been removed it enters your bloodstream quickly, spikes your blood sugar and leaves you feeling depleted soon after.</p>
 
-                      <p>On the other hand complex carbs (which we can and should eat) are completely unprocessed whole foods and enter your bloodstream more gradually giving you sustained energy. These are whole grains like oats, brown rice, quinoa, millet, farro and starchy vegetables like potatoes.  Do not let the advertising on foods trick you. The only foods that are whole grains are actually whole grains. Bread, whole wheat bagels, cereals, etc. are NOT whole grains. They are cracked grains, processed, and as a result, are simple sugars. </p>
+                      <p>On the other hand complex carbs (which we can and should eat) are completely unprocessed whole foods and enter your bloodstream more gradually giving you sustained energy. These are whole grains like oats, brown rice, quinoa, millet, farro and starchy vegetables like potatoes.  Do not let the advertising on foods trick you. The only foods that are whole grains are actually whole grains. Bread, whole wheat bagels, cereals, etc. are NOT whole grains, they are processed grains, processed, and as a result, are simple sugars. </p>
                     </div>
                   </div>
                 </div>
@@ -237,7 +237,7 @@
                   <div class="card-header" id="heading10">
                     <h5 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                        Eating out, Attending Events and Traveling
+                        Eating out, attending events and traveling
                       </button>
                     </h5>
                   </div>
