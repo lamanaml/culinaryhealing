@@ -172,13 +172,13 @@
               <div class="card-header" id="heading6">
                 <h5 class="mb-0">
                   <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
-                    Herbs and Superfoods
+                    Spices, Herbs and Superfoods
                   </button>
                 </h5>
               </div>
               <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordion">
                 <div class="card-body">
-                  Herbs are delicious and have lots of medicinal benefits.  Herbs and superfoods are welcome additions to the cleanse as they work with our bodies to cleanse and nourish. 
+                  Spices and Herbs are delicious and have lots of medicinal benefits.  Spices, Herbs and superfoods are welcomed additions to the cleanse as they work with our bodies to cleanse and nourish. Make sure that when purchase spices, especially spice blends, they do not contain preservatives or msg.
                 </div>
               </div>
             </div>
