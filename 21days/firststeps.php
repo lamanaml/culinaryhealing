@@ -196,10 +196,9 @@
                    Keep vigirous exercise to a minimum - Our bodies are in repair mode, which means that most of our energy should be dedicated to detoxing.   Instead, do activities that help purge... stretching, yoga, walking, and activities like the sauna, steam room and massage.  
                    
                 </div>
- 
-                </div>
+                 </div>
               </div>
-            </div>
+      
     
             <div class="card">
               <div class="card-header" id="heading815">
