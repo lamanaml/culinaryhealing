@@ -163,7 +163,7 @@
               </div>
               <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordion">
                 <div class="card-body">
-                  Most vitamins and supplements are isolated nutrients, meaning they are processed and not whole.  The best way to get our nutrients is from real food.  That said, some vitamins and supplements are better than others.  If you prefer to take supplements, make sure they are froma whole food source.   
+                  Most vitamins and supplements are isolated nutrients, meaning they are processed and not whole.  The best way to get our nutrients is from real food.  That said, some vitamins and supplements are better than others.  If you prefer to take supplements, make sure they are from a whole food source.   
                 </div>
               </div>
             </div>
