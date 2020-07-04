@@ -267,11 +267,11 @@
                   <div id="collapse11" class="collapse" aria-labelledby="heading11" data-parent="#accordion">
                     <div class="card-body">
                       <ul>
-                        <li>Our bodies are detoxing, so we may get headaches, flu-like symptoms, nausea, irritable.. It is OK.</li>
-                        <li>Our digestive system may be acting up. We may experience gas, bloating, constipation, or many bowel movements. It is OK.</li>
-                        <li>We may get frustrated because your grocery bill may be a little (or a lot) higher than normal... It is OK (better to spend $$ up front on quality foods than at the end on dr. bills)</li>
-                        <li>We may have skin breakouts, discharge, coated tongues, funny smells... It is OK</li>
-                        <li>We may be very emotional, crying for no apparent reason, or extremely happy. The thing with this is that foods lock in all of the emotions that we are feeling while we are eating. And when the toxins in that food get locked and stored away, so do those emotions (this is why you should not eat during emotional times, you should fast through them). When we detox, those toxins are released with guess what... so are those emotions. Whatever we felt when our first love broke up with you in the 12th grade and we pigged out junk... That is going to come back out again, and we may find ourselves soaking in a salt bath just crying... We are not crazy... It is OK.
+                        <li>- Our bodies are detoxing, so we may get headaches, flu-like symptoms, nausea, irritable.. It is OK.</li>
+                        <li>- Our digestive system may be acting up. We may experience gas, bloating, constipation, or many bowel movements. It is OK.</li>
+                        <li>- We may get frustrated because your grocery bill may be a little (or a lot) higher than normal... It is OK (better to spend $$ up front on quality foods than at the end on dr. bills)</li>
+                        <li>- We may have skin breakouts, discharge, coated tongues, funny smells... It is OK</li>
+                        <li>- We may be very emotional, crying for no apparent reason, or extremely happy. The thing with this is that foods lock in all of the emotions that we are feeling while we are eating. And when the toxins in that food get locked and stored away, so do those emotions (this is why you should not eat during emotional times, you should fast through them). When we detox, those toxins are released with guess what... so are those emotions. Whatever we felt when our first love broke up with you in the 12th grade and we pigged out junk... That is going to come back out again, and we may find ourselves soaking in a salt bath just crying... We are not crazy... It is OK.
                         </li>
                       </ul>
                 
