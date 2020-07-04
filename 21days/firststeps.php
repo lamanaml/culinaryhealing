@@ -276,7 +276,7 @@
                       </ul>
                 
                       <p>All of these things are a normal part of detox. These are signs that our body is fighting a valiant fight for us!</p>
-                      <p>Generally speaking, fruits are cleansing foods which help the body detox more quickly.   Their high water content flushes your digestive tract, our kidneys and purifies the bloodstream.  If we start to have severe detox symptoms, we should cut down on the amount of fruit juice we are drinking, we need to incorporate more vegetable juices.</p>
+                      <p>Generally speaking, fruits are cleansing foods which help the body detox more quickly.   Their high water content flushes your digestive tract, our kidneys and purifies the bloodstream.  If we start to have severe detox symptoms, we should cut down on the amount of fruit juice we are drinking and incorporate more vegetable juices.</p>
                       <p>During this phase, we may experience more intense detox symptoms, especially for the first 3 days (headaches, stomach aches, lack of energy, irritability, highly emotional (sadness, happiness, anger, frustration...), flu-like symptoms, acne, discharge, body odor...). Fortunately, these 3 days are over the weekend, so, if needed,  we can treat this detox like a snow day... stay in bed, get plenty of rest, drink plenty of fluids.  </p>
                       <p>In a few days, you should be over the majority of the symptoms, and we will start to experience a resurgence of energy.</p>
                     </div>
