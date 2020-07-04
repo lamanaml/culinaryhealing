@@ -231,9 +231,6 @@
                 <p>On the other hand complex carbs (which we can and should eat) are completely unprocessed whole foods and enter your bloodstream more gradually giving you sustained energy. These are whole grains like oats, brown rice, quinoa, millet, farro and starchy vegetables like potatoes.  Do not let the advertising on foods trick you. The only foods that are whole grains are actually whole grains. Bread, whole wheat bagels, cereals, etc. are NOT whole grains. They are cracked grains, processed, and as a result, are simple sugars. </p>
                 </div>
               </div>
-                            </div>
-
- 
        
             <div class="card">
               <div class="card-header" id="heading10">
@@ -269,7 +266,7 @@
               <div id="collapse11" class="collapse" aria-labelledby="heading11" data-parent="#accordion">
                 <div class="card-body">
                   <ul>
-                    <li> Your body is detoxing, so you may get headaches, flu-like symptoms, nausea, irritable.. It is OK.</li>
+                    <li>Your body is detoxing, so you may get headaches, flu-like symptoms, nausea, irritable.. It is OK.</li>
                     <li>Your digestive system may be acting up. You may experience gas, bloating, constipation, or many bowel movements. It is OK.</li>
                     <li>You may get frustrated because your grocery bill may be a little (or a lot) higher than normal... It is OK (better to spend $$ up front on quality foods than at the end on dr. bills)</li>
                     <li>You may have skin breakouts, discharge, coated tongues, funny smells... It is OK</li>
@@ -284,21 +281,7 @@
                 </div>
               </div>
             </div>
-  
-            <!-- <div class="card">
-              <div class="card-header" id="heading13">
-                <h5 class="mb-0">
-                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                    Intermittent Fasting, Alkaline diet and Gluten
-                  </button>
-                </h5>
-              </div>
-              <div id="collapse13" class="collapse" aria-labelledby="heading13" data-parent="#accordion">
-                <div class="card-body">
-                  coming real soon
-                </div>
-              </div>
-            </div>  -->
+             
           </div></p>
              
             </div>
