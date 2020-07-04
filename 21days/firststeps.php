@@ -267,18 +267,18 @@
                   <div id="collapse11" class="collapse" aria-labelledby="heading11" data-parent="#accordion">
                     <div class="card-body">
                       <ul>
-                        <li>Your body is detoxing, so you may get headaches, flu-like symptoms, nausea, irritable.. It is OK.</li>
-                        <li>Your digestive system may be acting up. You may experience gas, bloating, constipation, or many bowel movements. It is OK.</li>
-                        <li>You may get frustrated because your grocery bill may be a little (or a lot) higher than normal... It is OK (better to spend $$ up front on quality foods than at the end on dr. bills)</li>
-                        <li>You may have skin breakouts, discharge, coated tongues, funny smells... It is OK</li>
-                        <li>You may be very emotional, crying for no apparent reason, or extremely happy. The thing with this is that foods lock in all of the emotions that we are feeling while we are eating. And when the toxins in that food get locked and stored away, so do those emotions (this is why you should not eat during emotional times, you should fast through them). When you detox, those toxins are released with guess what... so are those emotions. Whatever you felt when your first love broke up with you in the 12th grade and you pigged out junk... That is going to come back out again, and you may find yourself soaking in a salt bath just crying... You are not crazy... It is OK.
+                        <li>Our bodies are detoxing, so we may get headaches, flu-like symptoms, nausea, irritable.. It is OK.</li>
+                        <li>Our digestive system may be acting up. We may experience gas, bloating, constipation, or many bowel movements. It is OK.</li>
+                        <li>We may get frustrated because your grocery bill may be a little (or a lot) higher than normal... It is OK (better to spend $$ up front on quality foods than at the end on dr. bills)</li>
+                        <li>We may have skin breakouts, discharge, coated tongues, funny smells... It is OK</li>
+                        <li>We may be very emotional, crying for no apparent reason, or extremely happy. The thing with this is that foods lock in all of the emotions that we are feeling while we are eating. And when the toxins in that food get locked and stored away, so do those emotions (this is why you should not eat during emotional times, you should fast through them). When we detox, those toxins are released with guess what... so are those emotions. Whatever we felt when our first love broke up with you in the 12th grade and we pigged out junk... That is going to come back out again, and we may find ourselves soaking in a salt bath just crying... We are not crazy... It is OK.
                         </li>
                       </ul>
                 
-                      <p>All of these things are a normal part of detox. These are your signs that your body is fighting a valiant fight for you!</p>
-                      <p>Generally speaking, fruits are cleansing foods which help the body detox more quickly.   Their high water content flushes your digestive tract, your kidneys and purifies the bloodstream.  If you start to have severe detox symptoms, you should cut down on the amount of fruit juice you are drinking, you need to incorporate more vegetable juices.</p>
-                      <p>During this phase, you may experience more intense detox symptoms, especially for the first 3 days (headaches, stomach aches, lack of energy, irritability, highly emotional (sadness, happiness, anger, frustration...), flu-like symptoms, acne, discharge, body odor...). Fortunately, these 3 days are over the weekend, so, if needed,  you can treat this detox like a snow day... stay in bed, get plenty of rest, drink plenty of fluids.  </p>
-                      <p>In a few days, you should be over the majority of the symptoms, and you will start to experience a resurgence of energy.</p>
+                      <p>All of these things are a normal part of detox. These are signs that our body is fighting a valiant fight for us!</p>
+                      <p>Generally speaking, fruits are cleansing foods which help the body detox more quickly.   Their high water content flushes your digestive tract, our kidneys and purifies the bloodstream.  If we start to have severe detox symptoms, we should cut down on the amount of fruit juice we are drinking, we need to incorporate more vegetable juices.</p>
+                      <p>During this phase, we may experience more intense detox symptoms, especially for the first 3 days (headaches, stomach aches, lack of energy, irritability, highly emotional (sadness, happiness, anger, frustration...), flu-like symptoms, acne, discharge, body odor...). Fortunately, these 3 days are over the weekend, so, if needed,  we can treat this detox like a snow day... stay in bed, get plenty of rest, drink plenty of fluids.  </p>
+                      <p>In a few days, you should be over the majority of the symptoms, and we will start to experience a resurgence of energy.</p>
                     </div>
                   </div>
                 </div>
