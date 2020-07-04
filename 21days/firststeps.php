@@ -86,8 +86,8 @@
       
 
     <div class="container" style="padding:50px;">
-    <h1 class="display-4">The Roadmap</h1>
-    <img src="http://www.culinaryhealing.com/assets/images/planall.png" width="100%" >
+      <h1 class="display-4">The Roadmap</h1>
+      <img src="http://www.culinaryhealing.com/assets/images/planall.png" width="100%" >
     </div>
 
 <!-- Whats the deal with section -->
@@ -98,6 +98,7 @@
             <h3 >What's the deal with:</h3>
             <p class="card-text"> 
               <div id="accordion">
+
                 <div class="card">
                   <div class="card-header" id="headingOne">
                     <h5 class="mb-0">
@@ -197,7 +198,7 @@
                     </div>
                     </div>
                   </div>
-                </div>
+          
         
                 <div class="card">
                   <div class="card-header" id="heading815">
