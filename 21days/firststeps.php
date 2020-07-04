@@ -301,7 +301,7 @@
       </div>
     </div>
 
-
+ </div>
 <!-- Footer-->
       <div>
         <?php include_once("footer2.html"); ?> 
