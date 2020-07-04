@@ -55,8 +55,8 @@
         
         <p class="card-text">Whole foods are unprocessed, or minimally processed, fruits, veggies, whole grains and beans that are as close to nature as can be. We are typically able to trace whole food back to a single source.  A good rule of thumb is to try to imagine the origin of the item.  For example, corn is whole, while corn flakes are processed.  </p>
          <p class="card-text"> Our bodies are designed to process food from its whole natural state.  Since processed foods have already been "processed", meaning that much of the fiber and nutritional value has been removed, our bodies are confused about what to do with it.  Our bodies tend to store these items as toxins covered with a layer of a mucus for protection until it can figure out how to handle it.</p>
-        <p class="card-text">During the whole food phase (days 1, 2, 20 and 21), we will enjoy cooked and raw whole foods! Becaue these foods are unprocessed, our digestive systems will be able to process them more efficiently, and extract the nutrients that we need. </p>
-        <p class="card-text">Need a litte inspiration?  Check out some of our <a href="https://culinaryhealing.com/21days/recipes/?cat=4">Whole Food Recipes</a>!</p>
+        <p class="card-text">During the whole food phase (days 1, 2, 20 and 21), we will enjoy cooked and raw whole foods! Because these foods are unprocessed, our digestive systems will be able to process them more efficiently, and extract the nutrients that we need. </p>
+        <p class="card-text">Need a little inspiration?  Check out some of our <a href="https://culinaryhealing.com/21days/recipes/?cat=4">Whole Food Recipes</a>!</p>
       </div>
       
      
@@ -81,7 +81,7 @@
             <li class="list-group-item list-group-item-success"><h5>Seeds</h5>Sesame, Flax, Chia, Pumpkin, Sunflower, Hemp</li>
             <li class="list-group-item list-group-item-success" ><h5>Salts And Salty Stuff</h5> Sea Salt, Crystal Salt, Liquid Aminos, Tamari, Shoyu</li>
             <li class="list-group-item list-group-item-success"> <h5>Sweeteners</h5> Honey, Maple Syrup, Agave Nectar, And Stevia  </li>
-            <li class="list-group-item list-group-item-success"><h5>Herbs and Spices</h5>Thyme, Rosemary, Tumeric, Dried Spices, Fresh Herbs.  If you are using a spice blend, read the ingredients to make sure there are no forbidden ingredients. </li>
+            <li class="list-group-item list-group-item-success"><h5>Herbs and Spices</h5>Thyme, Rosemary, Turmeric, Dried Spices, Fresh Herbs.  If you are using a spice blend, read the ingredients to make sure there are no forbidden ingredients. </li>
           </ul>
         </div>
       </div>
