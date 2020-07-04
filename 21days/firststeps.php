@@ -147,7 +147,9 @@
               </div>
               <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                 <div class="card-body">
-                  The truth is, what we put into our bodies is half the battle.  The other half is.. what comes out.  We are reitroducing toxins back into our system at an insane rate, and if our bodies can not purge them in time, they will get reabsorbed.  Colonics and enemas are an excellent way to purge pounds of toxins quickly. If we are feeling sluggish, feeling sick, or irritable... It's time to flush the colon.  Here are a few <a href="http://www.ljaidetoxme.com/faqs.html">FAQ's about colonics</a> from my favorite therapisst.  Let's talk about this on the group discussion!
+                    The truth is, what we put into our bodies is half the battle.  The other half is.. what comes out.  We are reintroducing toxins back into our system at an insane rate, and if our bodies can not purge them in time, they will get reabsorbed.  Colonics and enemas are an excellent way to purge pounds of toxins quickly. If we are feeling sluggish, feeling sick, or irritable... It's time to flush the colon.  Here are a few <a href="http://www.ljaidetoxme.com/faqs.html">FAQ's about colonics</a> from my favorite therapists.  Let's talk about this in the group discussion!
+                </div>
+
                 </div>
               </div>
             </div>
@@ -162,7 +164,7 @@
               </div>
               <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordion">
                 <div class="card-body">
-                  I am personally not a fan of vitamins and supplements, due to the fact that they are isolated nutrients.  I believe that getting these nutrients from food is the most beneficial way.  If you are deficient in some vitamin, I recommond finding a food that is high in it and adding it to your daily diet.  
+                  I am personally not a fan of vitamins and supplements, due to the fact that they are isolated nutrients.  I believe that getting these nutrients from food is the most beneficial way.  If you are deficient in some vitamin, I recommend finding a food that is high in it and adding it to your daily diet.  
                 </div>
               </div>
             </div>
@@ -177,7 +179,8 @@
               </div>
               <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordion">
                 <div class="card-body">
-                  Herbs are delicous and have lots of medicinal benefits.  They are welcome additions to the cleanse as they work with our bodies to cleanse and nourish.  Superfoods are are also welcome additions to the cleasne. 
+                  Herbs are delicious and have lots of medicinal benefits.  They are welcome additions to the cleanse as they work with our bodies to cleanse and nourish.  Superfoods are also welcome additions to the cleanse. 
+
                 </div>
               </div>
             </div>
@@ -192,7 +195,9 @@
               </div>
               <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordion">
                 <div class="card-body">
-                Keep exercise to a minimum - Our bodies are in repari mode, which means that most of our energy should be dedicated to detoxing. At times, we may want to go run a couple of miles, try to resist the urge, and replace vigirous activity with ones that help purge... stretching, yoga, walking, even activities like the sauna and steam room and massage.  
+                   Keep exercise to a minimum - Our bodies are in repair mode, which means that most of our energy should be dedicated to detoxing. At times, we may want to go run a couple of miles, try to resist the urge, and replace vigorous activity with ones that help purge... stretching, yoga, walking, even activities like the sauna and steam room and massage.  
+                </div>
+ 
                 </div>
               </div>
             </div>
@@ -225,7 +230,7 @@
                 <p> There are two types of carbohydrates, refined and complex.</p>
                 <p>Refined carbs started off as a whole food, but have been stripped of much of the fiber and nutritional content. This includes white rice, white pasta, white sugar, white bread, most commercially available cereals etc. Because the fiber has been removed it enters your bloodstream quickly, spikes your blood sugar and leaves you feeling depleted soon after.</p>
 
-                <p>On the other hand complex carbs (which we can and should eat) are complete unprocessed whole foods and enter your bloodstream more gradually giving you sustained energy. These are whole grains like oats, brown rice, quinoa, millet, farro and starchy vegetables like potatoes.  Do not let the advertising on foods trick you. The only foods that are whole grains are actually whole grains. Bread, whole wheat bagels, cereals, etc. are NOT whole grains. They are cracked grains, processed, and as a result, are simple sugars. </p>
+                <p>On the other hand complex carbs (which we can and should eat) are completely unprocessed whole foods and enter your bloodstream more gradually giving you sustained energy. These are whole grains like oats, brown rice, quinoa, millet, farro and starchy vegetables like potatoes.  Do not let the advertising on foods trick you. The only foods that are whole grains are actually whole grains. Bread, whole wheat bagels, cereals, etc. are NOT whole grains. They are cracked grains, processed, and as a result, are simple sugars. </p>
                 </div>
               </div>
             </div>
