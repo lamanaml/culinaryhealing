@@ -231,6 +231,7 @@
                 <p>On the other hand complex carbs (which we can and should eat) are completely unprocessed whole foods and enter your bloodstream more gradually giving you sustained energy. These are whole grains like oats, brown rice, quinoa, millet, farro and starchy vegetables like potatoes.  Do not let the advertising on foods trick you. The only foods that are whole grains are actually whole grains. Bread, whole wheat bagels, cereals, etc. are NOT whole grains. They are cracked grains, processed, and as a result, are simple sugars. </p>
                 </div>
               </div>
+                </div>
        
             <div class="card">
               <div class="card-header" id="heading10">
