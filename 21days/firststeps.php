@@ -178,8 +178,7 @@
               </div>
               <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordion">
                 <div class="card-body">
-                  Herbs are delicious and have lots of medicinal benefits.  They are welcome additions to the cleanse as they work with our bodies to cleanse and nourish.  Superfoods are also welcome additions to the cleanse. 
-
+                  Herbs are delicious and have lots of medicinal benefits.  Herbs and superfoods are welcome additions to the cleanse as they work with our bodies to cleanse and nourish. 
                 </div>
               </div>
             </div>
