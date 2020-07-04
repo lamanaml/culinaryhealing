@@ -113,10 +113,10 @@
                   <li>- Partially hydrogenated oils</li>
                   <li>- Monosodium Glutamate (aka MSG).</li>
                   <li>- High fructose corn syrup</li>
-                  <li>- Artificial Sweeteners (including aspartame and sucralose - aka splenda)</li>
+                  <li>- Artificial Sweeteners (including aspartame and sucralose - aka Splenda)</li>
                   <li>- Artificial Colors</li>
                 </ul>
-                 Make sure the ingredients listed are real food, meaning that you can identify where it comes from.  Avoid items with 10 syllable ingredients. Check the serving size, as sometimes it is manipulated so that the nutrition looks acceptable at first glance. 
+                 Make sure the ingredients listed are real food, meaning that you can identify where it comes from.  Avoid ingredients with 10-syllables. Check the serving size, as sometimes it is manipulated so that the nutrition looks acceptable at first glance. 
                 </div>
               </div>
             </div>
@@ -125,7 +125,7 @@
               <div class="card-header" id="headingThree">
                 <h5 class="mb-0">
                   <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapsThree">
-                    Journaling, prayer and meditation and finding peace
+                    Journaling, prayer, meditation and finding peace
                   </button>
                 </h5>
               </div>
