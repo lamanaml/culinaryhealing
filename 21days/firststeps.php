@@ -114,10 +114,10 @@
                   <li>- Partially hydrogenated oils</li>
                   <li>- Monosodium Glutamate (aka MSG).</li>
                   <li>- High fructose corn syrup</li>
-                  <li>- Artifical Sweeteners (including aspertame and sucrulose - aka spenda)</li>
+                  <li>- - Artificial Sweeteners (including aspartame and sucralose - aka splenda)</li>
                   <li>- Artificial Colors</li>
                 </ul>
-                 Make sure the ingredients listed are real food, meaning that you can identify where it comes from.  Avoid items with 10 sylable ingredients. Check the serving size, as sometimes it is manipulated so that the nutrition looks acceptable at first glance. 
+                 Make sure the ingredients listed are real food, meaning that you can identify where it comes from.  Avoid items with 10 syllable ingredients. Check the serving size, as sometimes it is manipulated so that the nutrition looks acceptable at first glance. 
                 </div>
               </div>
             </div>
@@ -132,7 +132,7 @@
               </div>
               <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                 <div class="card-body">
-                  Toxins love to stay inside of us, controlling us.  As we start do to things to purge them, they will try to sabatoge our progress.  We need to establish some tools to help us stay the course.  Journaling, prayer and meditation will allow us to combat not only the physical toxins, but the emotional ones that have been stored for years as well.  We can write our thoughts, feelings, frustrations, joys.  We can pray for strength and guidance, we can meditate on the things that we would like to manifest.  During this journey, we will have to find the peace inside of the storm.  We will have to find comfort when we are uncomfortable.  Let's identify our weapons so that we can fight fire with fire!! 
+                  Toxins love to stay inside of us, controlling us.  As we start do to things to purge them, they will try to  sabotage our progress.  We need to establish some tools to help us stay the course.  Journaling, prayer and meditation will allow us to combat not only the physical toxins, but the emotional ones that have been stored for years as well.  We can write our thoughts, feelings, frustrations, joys.  We can pray for strength and guidance, we can meditate on the things that we would like to manifest.  During this journey, we will have to find the peace inside of the storm.  We will have to find comfort when we are uncomfortable.  Let's identify our weapons so that we can fight fire with fire!! 
                 </div>
               </div>
             </div>
