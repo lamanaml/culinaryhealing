@@ -146,7 +146,7 @@
               </div>
               <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                 <div class="card-body">
-                    The truth is, what we put into our bodies is only half the battle.  The other half is... what comes out.  We are reintroducing toxins back into our system at an insane rate, and if our bodies can not purge them in time, they will get reabsorbed.  Colonics and enemas are an excellent way to purge pounds of toxins quickly. If we are feeling sluggish, feeling sick, or irritable... It's time to flush the colon.  Here are a few <a href="http://www.ljaidetoxme.com/faqs.html">FAQ's about colonics</a> from my favorite therapists.  Let's talk about this in the group discussion!
+                    The truth is, what we put into our bodies is only half the battle.  The other half is... what comes out.  We are reintroducing toxins back into our system at an insane rate, and if our bodies cannot purge them quickly enough, they will get reabsorbed.  Colonics and enemas are an excellent way to purge pounds of toxins quickly. If we are feeling sluggish, feeling sick, or irritable... It's time to flush the colon.  Here are a few <a href="http://www.ljaidetoxme.com/faqs.html">FAQ's about colonics</a> from my favorite therapists.  Let's talk about this in the group discussion!
                 </div>
 
                 </div>
