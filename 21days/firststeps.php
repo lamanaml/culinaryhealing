@@ -146,7 +146,7 @@
               </div>
               <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                 <div class="card-body">
-                    The truth is, what we put into our bodies is only half the battle.  The other half is... what comes out.  We are reintroducing toxins back into our system at an insane rate, and if our bodies cannot purge them quickly enough, they will get reabsorbed.  Colonics and enemas are an excellent way to purge pounds of toxins quickly. If we are feeling sluggish, feeling sick, or irritable... It's time to flush the colon.  Here are a few <a href="http://www.ljaidetoxme.com/faqs.html">FAQ's about colonics</a> from my favorite therapists.  Let's talk about this in the group discussion!
+                    The truth is, what we put into our bodies is only half the battle.  The other half is... what comes out.  We are reintroducing toxins back into our system at an insane rate, and if our bodies cannot purge them quickly enough, they will get reabsorbed.  Colonics and enemas are an excellent way to purge pounds of toxins quickly. If we are feeling sluggish, feeling sick, or irritable... it's time to flush the colon.  Here are a few <a href="http://www.ljaidetoxme.com/faqs.html">FAQs about colonics</a> from my favorite therapists.  Let's talk about this in the group discussion!
                 </div>
 
                 </div>
@@ -163,7 +163,7 @@
               </div>
               <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordion">
                 <div class="card-body">
-                  I am personally not a fan of vitamins and supplements, due to the fact that they are isolated nutrients.  I believe that getting these nutrients from food is the most beneficial way.  If you are deficient in some vitamin, I recommend finding a food that is high in it and adding it to your daily diet.  
+                  Most vitamins and supplements are isolated nutrients, meaning they are not processed and not whole.  The best way to get our nutrients is from real food.  That said, if we are deficient in some nutrients, try to find a whole food source.  Some supplements are made from whole food sources so try to find a reputable company.  
                 </div>
               </div>
             </div>
