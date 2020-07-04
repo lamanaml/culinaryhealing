@@ -172,7 +172,7 @@
               <div class="card-header" id="heading6">
                 <h5 class="mb-0">
                   <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
-                    Spices, Herbs and Superfoods
+                    Spices, herbs and superfoods
                   </button>
                 </h5>
               </div>
@@ -187,7 +187,7 @@
               <div class="card-header" id="heading7">
                 <h5 class="mb-0">
                   <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
-                    Physical Activity
+                    Physical activity
                   </button>
                 </h5>
               </div>
@@ -204,7 +204,7 @@
               <div class="card-header" id="heading815">
                 <h5 class="mb-0">
                   <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                    Meat and Dairy
+                    Meat and dairy
                   </button>
                 </h5>
               </div>
