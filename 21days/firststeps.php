@@ -131,7 +131,7 @@
               </div>
               <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                 <div class="card-body">
-                  Toxins love to stay inside of us, controlling us.  As we start do to things to purge them, they will try to  sabotage our progress.  We need to establish some tools to help us stay the course.  Journaling, prayer and meditation will allow us to combat not only the physical toxins, but the emotional ones that have been stored for years as well.  We can write our thoughts, feelings, frustrations, joys.  We can pray for strength and guidance, we can meditate on the things that we would like to manifest.  During this journey, we will have to find the peace inside of the storm.  We will have to find comfort when we are uncomfortable.  Let's identify our weapons so that we can fight fire with fire!! 
+                  The toxins inside of us have a way of controlling us.  As we start do to things to purge them, they will try to  sabotage our progress.  We need to establish some tools to help us stay the course.  Journaling, prayer and meditation will allow us to combat not only the physical toxins, but the emotional ones that have been stored for years as well.  We can write our thoughts, feelings, frustrations, joys.  We can pray for strength and guidance, we can meditate on the things that we would like to manifest.  During this journey, we will have to find the peace inside of the storm.  We will have to find comfort when we are uncomfortable.  Let's identify our weapons so that we can fight fire with fire!! 
                 </div>
               </div>
             </div>
