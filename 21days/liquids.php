@@ -8,9 +8,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>21-Day Cleanse - Liquids - Culinary Healing</title>
-    <meta name="Culinary Healing, Plant Based Lifestyle Brand" content="plant-based, vegan, vegetarian, 21-day, cleanse, detox, recipes, lamana, lamanaml, brooklyn, durham, atlanta, burlington">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
+   <meta name="robots" content="noimageindex, noindex, nofollow, nosnippet">
 <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26808506-1"></script>
     <script>
