@@ -54,7 +54,7 @@
   <img src="..." class="mr-3" alt="...">
   <div class="media-body">
     <h5 class="mt-0">Weekly Menu Planning Template</h5>
-    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+    
   
   </div>
 </div>
@@ -62,7 +62,7 @@
   <img src="..." class="mr-3" alt="...">
   <div class="media-body">
     <h5 class="mt-0">Calendar</h5>
-    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+    <iframe src="https://calendar.google.com/calendar/embed?src=culinaryhealing%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
   
   </div>
 </div>
