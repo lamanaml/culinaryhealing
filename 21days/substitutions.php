@@ -45,8 +45,17 @@
          
         
 
-              <p align="left" class="body">Go into your pantry, refrigerators and freezers and look at the ingredients in your foods. You will be surprised to find how many chemicals are in the foods that we enjoy! Even foods that say "natural" and "pure" are full of drugs. Look out for hydrogenated oils and Monosodium Glutamate. Please go through your home and donate or throw away any foods that contain hydrogenated oils, MSG, texturized soy or vegetable protein, corn syrup, high fructose corn syrup and all of the following items in the toss it column. You can then substitute these items with the 
-              healthier alternatives in the other columns:</p>
+              <p align="left" class="body">One major step in becoming healthier is making better food choices. The foods below are healthier options that you can swap out in your favorite recipes. Reading labels is very important. The main ingredients that we should avoid are:
+              <ul>
+                <li>Hydrogenated oils</li>
+                <li>Partially hydrogenated oils</li>
+                <li>Monosodium Glutamate (aka MSG).</li>
+                <li>High fructose corn syrup</li>
+                <li>Artifical Sweeteners (including aspertame and sucrulose - aka spenda)</li>
+                <li>rtificial Colors</li>
+              </ul>
+
+Below is a more extensive list of ingredients to avoid, and healthier substitutions for each.</p>
               <table width="100%" border="1" class="sample">
                 <tr valign="top" class="body">
                   <td width="111"><strong>Toss it! </strong></td>
