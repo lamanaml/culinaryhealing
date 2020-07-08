@@ -64,7 +64,7 @@
    <div class="media">
       <div class="media-body">
       <h5 class="mt-0">Calendar</h5>
-      <iframe src="https://calendar.google.com/calendar/embed?src=culinaryhealing%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+      <iframe src="https://calendar.google.com/calendar/embed?src=culinaryhealing%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800px" height="600px" frameborder="0" scrolling="no"></iframe>
   </div>
 </div>
         </div>
