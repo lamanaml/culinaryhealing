@@ -42,12 +42,12 @@
 
        <div class="jumbotron" style="margin:0px; background-color: white;">
        <div class="container" style="margin-top:20px; background-color: white;">
-          <h1 class="display-4">Resources</h1>
+          <h1 class="display-4">>> Resources</h1>
          
          <div class="media">
 
   <div class="media-body">
-    <h5 class="mt-0"><a href="substitutions.php">Food Substitutions</a></h5>
+    <h5 class="mt-0"><a href="substitutions.php">>> Food Substitutions</a></h5>
     
   
   </div>
@@ -55,7 +55,7 @@
    <div class="media">
   
   <div class="media-body">
-    <h5 class="mt-0"><a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit">Weekly Menu Planning Template</a></h5>
+    <h5 class="mt-0"><a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit">>> Weekly Menu Planning Template</a></h5>
     
   
   </div>
