@@ -43,27 +43,25 @@
           <h1 class="display-4">Resources</h1>
          
          <div class="media">
-  <img src="..." class="mr-3" alt="...">
+
   <div class="media-body">
-    <h5 class="mt-0">Food Substitutions</h5>
-    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-  
-  </div>
-</div>
-   <div class="media">
-  <img src="..." class="mr-3" alt="...">
-  <div class="media-body">
-    <h5 class="mt-0">Weekly Menu Planning Template</h5>
+    <h5 class="mt-0"><a href="substitutions.php">Food Substitutions</a></h5>
     
   
   </div>
 </div>
    <div class="media">
-  <img src="..." class="mr-3" alt="...">
-  <div class="media-body">
-    <h5 class="mt-0">Calendar</h5>
-    <iframe src="https://calendar.google.com/calendar/embed?src=culinaryhealing%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
   
+  <div class="media-body">
+    <h5 class="mt-0"><a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit">Weekly Menu Planning Template</a></h5>
+    
+  
+  </div>
+</div>
+   <div class="media">
+      <div class="media-body">
+      <h5 class="mt-0">Calendar</h5>
+      <iframe src="https://calendar.google.com/calendar/embed?src=culinaryhealing%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
   </div>
 </div>
         </div>
