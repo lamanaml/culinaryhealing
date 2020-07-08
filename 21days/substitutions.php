@@ -354,6 +354,7 @@ healthier alternatives in the other columns:</p>
     </ul></td>
   </tr>
 </table>
+</div>
    
     <!-- Footer-->
         <div>
