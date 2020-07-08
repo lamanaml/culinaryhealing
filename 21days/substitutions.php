@@ -41,7 +41,7 @@
      <div class="jumbotron" style="margin:0px; background-color: white;">
      
  <div class="container" style="margin-top:20px; background-color: white;">
-          <h1 class="display-4">Food Substitutions Chart</h1>
+          <h1 class="display-4">Food Substitution Chart</h1>
          
         
 
@@ -64,7 +64,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   <td width="155"><strong>Raw</strong></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">white sugar, corn syrup, syrups (like log cabin) </td>
+                  <td bgcolor="yellow">white sugar, corn syrup, syrups (like log cabin) </td>
                   <td><ul>
                       <li>rapadura</li>
                       <li>sucanat</li>
@@ -91,7 +91,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">white pasta </td>
+                  <td bgcolor="yellow">white pasta </td>
                   <td><ul>
                       <li>whole wheat pasta</li>
                       <li>soba noodles</li>
@@ -109,7 +109,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">white rice </td>
+                  <td bgcolor="yellow">white rice </td>
                   <td><ul>
                       <li>brown rice </li>
                   </ul></td>
@@ -121,7 +121,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">white flour</td>
+                  <td bgcolor="yellow">white flour</td>
                   <td><ul>
                       <li>spelt flour</li>
                       <li>whole wheat flour </li>
@@ -136,7 +136,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">white bread </td>
+                  <td bgcolor="yellow">white bread </td>
                   <td><ul>
                       <li>whole wheat bread</li>
                       <li>spelt bread </li>
@@ -156,7 +156,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">table salt, kosher salt </td>
+                  <td bgcolor="yellow">table salt, kosher salt </td>
                   <td><ul>
                       <li>red crystal salt</li>
                       <li>celtic salt</li>
@@ -176,7 +176,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">canola oil and vegetable oils </td>
+                  <td bgcolor="yellow">canola oil and vegetable oils </td>
                   <td><ul>
                       <li>Extra virgin cold pressed olive oil </li>
                   </ul></td>
@@ -188,7 +188,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">margarine, shortening</td>
+                  <td bgcolor="yellow">margarine, shortening</td>
                   <td><ul>
                       <li>organic butter</li>
                       <li>cold pressed coconut oil </li>
@@ -201,7 +201,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">corn syrup</td>
+                  <td bgcolor="yellow">corn syrup</td>
                   <td><ul>
                       <li>maple syrup</li>
                   </ul></td>
@@ -211,7 +211,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   <td>&nbsp;</td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">corn starch (or thickeners) </td>
+                  <td bgcolor="yellow">corn starch (or thickeners) </td>
                   <td ><ul>
                       <li>arrowroot powder</li>
                       <li>kudzu</li>
@@ -223,7 +223,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   <td >&nbsp;</td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">peanut butter </td>
+                  <td bgcolor="yellow">peanut butter </td>
                   <td ><ul>
                       <li>almond butter and other nut butters </li>
                       <li>non-hydrogenated peanut butter</li>
@@ -240,7 +240,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">milk</td>
+                  <td bgcolor="yellow">milk</td>
                   <td ><ul>
                       <li>organic milk</li>
                       <li>raw dairy milk </li>
@@ -280,7 +280,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </div></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">cheese, especially american cheese </td>
+                  <td bgcolor="yellow">cheese, especially american cheese </td>
                   <td ><ul>
                       <li>organic cheese</li>
                       <li>raw dairy cheese</li>
@@ -299,7 +299,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">eggs (scrambled) </td>
+                  <td bgcolor="yellow">eggs (scrambled) </td>
                   <td ><ul>
                       <li>organic eggs, cage free, free range </li>
                       <li>tofu</li>
@@ -310,7 +310,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   <td >&nbsp;</td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300"><p>eggs (in baking)</p>
+                  <td bgcolor="yellow"><p>eggs (in baking)</p>
                       <p>equivalent to 1 egg </p>
                       <p>&nbsp;</p>
                       <p>&nbsp;</p></td>
@@ -328,7 +328,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   <td >&nbsp;</td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">vinegar</td>
+                  <td bgcolor="yellow">vinegar</td>
                   <td ><ul>
                       <li>Braggs apple cider vinegar </li>
                   </ul></td>
@@ -338,7 +338,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   <td >&nbsp;</td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">gelatin</td>
+                  <td bgcolor="yellow">gelatin</td>
                   <td ><ul>
                       <li>agar-agar</li>
                   </ul></td>
@@ -350,7 +350,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="#CC3300">soda, kool-aid, fruit &quot;drinks&quot; </td>
+                  <td bgcolor="yellow">soda, kool-aid, fruit &quot;drinks&quot; </td>
                   <td ><ul>
                       <li>fresh juice</li>
                       <li>organic and unsweetened fruit juice </li>
