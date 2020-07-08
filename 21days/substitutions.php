@@ -56,7 +56,7 @@
               </ul>
 
 Below is a more extensive list of ingredients to avoid, and healthier substitutions for each.</p>
-              <table width="100%" border="1" class="sample">
+              <table width="100%" border="1" class="sample" style="padding:5px;">
                 <tr valign="top" class="body">
                   <td width="111"><strong>Toss it! </strong></td>
                   <td width="188"><strong>Meat/dairy/vegetarian</strong></td>
