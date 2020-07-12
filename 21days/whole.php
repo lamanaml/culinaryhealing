@@ -91,7 +91,7 @@
       <div class="card mb-3">
         <div class="card-body">
           <h3 class="card-title">What should we avoid?</h3>
-          <p class="card-text">Since this cleanse is vegan, whole food will exclude meat, chicken and fish; all dairy products, eggs, urs and sugars (particularly, bleached).
+          <p class="card-text">Since this cleanse is vegan, whole food will exclude meat, chicken and fishand all dairy products and eggs.  In addition we will avoid "the whites" - white flour, white pasta, and sugars (particularly, bleached).
           </p>
           <p>Specifically, during the whole foods phase, should avoid</p>
           <ul class="list-group ">
