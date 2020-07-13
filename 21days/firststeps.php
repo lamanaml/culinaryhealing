@@ -121,6 +121,41 @@
                     </div>
                   </div>
                 </div>
+                <div class="card">
+                  <div class="card-header" id="headingOne">
+                    <h5 class="mb-0">
+                      <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                     Sweeteners
+                      </button>
+                    </h5>
+                  </div>
+                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div class="card-body"> <p>I know that Sugar is a big problem for some of us (raise your hand if this is you).  Processed sugars are highly addictive, but there are some natural ones that are OK.  </p>
+
+                   <p> Sweeteners that are better (but should still be used in moderation)</p>
+                    <ul class="default">
+                      <li>- Dried fruit - Figs, Dates, Raisins...</li>
+                      <li>- Raw honey (it is the only sweetener that exist in nature, unprocessed, but keep in mind that it is has a very high glycemic index)</li>
+                      <li>- Stevia (an herb that taste sweet - does not affect blood sugar at all, but has a slightly bitter aftertaste)</li>
+                      <li>- Pure Maple Syrup (although minimally processed, I use this only on pancakes and waffles, and I usually blend it with fruit)</li>
+                      <li>- Maple Crystals - which is dried Maple Syrup</li>
+                      <li>- Raw Agave Nectar... I had taken this off of the list for a while, but Dr. Sebi recommends it over other sweeteners because it is alkaline.</li>
+                       <li>-Date Syrup (blend dates with water)</li>
+                        <li>- Date sugar (you can make this or purchase it at whole foods or earth fare)</li>
+                    </ul>
+                   <p>Sweeteners to avoid</p>
+                   <ul>
+                     <li> white sugar</li>
+                      <li>turbinado sugar</li>
+                      <li>sugar in the raw</li>
+                      <li>brown sugar</li>
+                      <li>powdered sugar</li>
+                      <li>organic cane sugar</li>
+                    </ul>
+                    </div>
+                  </div>
+                </div>
+
 
                 <div class="card">
                   <div class="card-header" id="headingThree">
