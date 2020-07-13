@@ -122,14 +122,14 @@
                   </div>
                 </div>
                 <div class="card">
-                  <div class="card-header" id="headingOne">
+                  <div class="card-header" id="headinga">
                     <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                      <button class="btn btn-link" data-toggle="collapse" data-target="#collapsa" aria-expanded="true" aria-controls="collapsea">
                      Sweeteners
                       </button>
                     </h5>
                   </div>
-                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div id="collapsea" class="collapse show" aria-labelledby="headinga" data-parent="#accordion">
                     <div class="card-body"> <p>I know that Sugar is a big problem for some of us (raise your hand if this is you).  Processed sugars are highly addictive, but there are some natural ones that are OK.  </p>
 
                    <p> Sweeteners that are better (but should still be used in moderation)</p>
