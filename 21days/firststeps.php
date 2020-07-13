@@ -134,14 +134,14 @@
 
                    <p> Sweeteners that are better (but should still be used in moderation)</p>
                     <ul class="default">
-                      <li>- Dried fruit - Figs, Dates, Raisins...</li>
+                      <li>- Dried fruit (Figs, Dates, Raisins)</li>
                       <li>- Raw honey (it is the only sweetener that exist in nature, unprocessed, but keep in mind that it is has a very high glycemic index)</li>
                       <li>- Stevia (an herb that taste sweet - does not affect blood sugar at all, but has a slightly bitter aftertaste)</li>
                       <li>- Pure Maple Syrup (although minimally processed, I use this only on pancakes and waffles, and I usually blend it with fruit)</li>
                       <li>- Maple Crystals (which is dried Maple Syrup)</li>
                       <li>- Raw Agave Nectar (Dr. Sebi recommends it over other sweeteners because it is alkaline.)</li>
-                       <li>- Date Syrup (blend dates with water)</li>
-                        <li>- Date sugar (you can make this or purchase it at whole foods)</li>
+                      <li>- Date Syrup (blend dates with water)</li>
+                      <li>- Date sugar (you can make this or purchase it at whole foods)</li>
                     </ul>
                    <p>Sweeteners to avoid</p>
                    <ul>
