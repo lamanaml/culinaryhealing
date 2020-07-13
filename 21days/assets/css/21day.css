@@ -2,7 +2,10 @@
 
    margin-top:400px; 
 }
-
+.default {
+    list-style-type: disc !important;
+    padding-left: 1em;
+}
 
 /* Generic styling */
 * {
