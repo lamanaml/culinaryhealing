@@ -122,7 +122,7 @@
         <li class="list-group-item list-group-item-danger"><h5>Any foods, live/raw or cooked</h5> </li>
         <li class="list-group-item list-group-item-danger"><h5>Oils</h5>Unprocessed natural oils are wonderful and have many healing properties on their own. The reason is that many toxins are fat-soluble, which means that the toxins can hitch a ride inside of the oils and get reabsorbed back into our bodies ... we don't want that]
 </li>
-        <li class="list-group-item list-group-item-danger"><h5>Bottled, canned or carton juices </h5></li>
+        <li class="list-group-item list-group-item-danger"><h5>Bottled, canned or carton juices (unless it is cold pressed) </h5></li>
         <li class="list-group-item list-group-item-danger"><h5>Bananas  </h5></li>
         <li class="list-group-item list-group-item-danger"><h5>Smoothies </h5></li>
         
