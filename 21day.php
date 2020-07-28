@@ -46,7 +46,7 @@
 
 <!-- ------------------------------  The phases --------------------------------------------- -->
       <div class="container" width="100%"> 
-        <img src="assets/images/chprocessweb.png" width="100%">
+        <img src="assets/images/chprocessweb.png" width="90%">
       </div>
          
 <!-- ------------------------------  The components --------------------------------------------- -->
