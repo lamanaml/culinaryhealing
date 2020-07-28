@@ -45,7 +45,7 @@
         <div class="hero-text">
           <h1>21-DAY CLEANSE</h1>
           <h3 class="cursive"> Eat Better... Feel Better. </h3>
-          <p>July 10 - 30, 2020</p>
+          <p>October 2 - 22, 2020</p>
         <p> <a href="21day.php" class="btn btn-primary">Learn More</a></p>
         </div>
       </div>
