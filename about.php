@@ -38,7 +38,7 @@
 
 
 <!-- Hero -->
- 
+
 <div class="hero2-image">
   <div class="hero2-text">
     <h1 class="display-4">About Culinary Healing</h1>
