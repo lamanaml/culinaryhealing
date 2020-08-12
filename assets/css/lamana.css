@@ -446,7 +446,7 @@ h3, .h3 {
   p {
     padding:0px;
   }
-/* 
+
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/bean-salad.jpg");
   height: 70%;
@@ -467,14 +467,10 @@ h3, .h3 {
 
  }
 
-/* The hero image */
+
 .hero2-image {
-   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/yellow-plate.jpg");
-
-  /* Set a specific height */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/yellow-plate.jpg");  
   height: 75%;
-
-  /* Position and center the image to scale nicely on all screens */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
