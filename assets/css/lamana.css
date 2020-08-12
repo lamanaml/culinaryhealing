@@ -270,7 +270,7 @@ margin:10px;
   flex-direction: row;
   width: 100%;
    justify-content: center;
-  padding: 10px 100px 10px 10px;
+  /* padding: 10px 100px 10px 10px; */
   align-items: center;
   justify-content: space-around;
   
@@ -408,6 +408,16 @@ input[type=submit] {
   align-items: center;
   justify-content: center;
 }
+
+.flex-containerFooter {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+   justify-content: center;
+  /* padding: 10px 100px 10px 10px; */
+  align-items: center;
+  justify-content: space-around;
+  
 
  h1, h2, h3 {
   justify-content: center;
