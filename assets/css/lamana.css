@@ -192,6 +192,10 @@ font-family: 'Dancing Script', cursive;
 padding:0px 20px 0px 20px;
 }
 
+.padding {
+padding:20px 20px 20px 20px;
+}
+
 .whitebg{
     background-color:white;
 }
