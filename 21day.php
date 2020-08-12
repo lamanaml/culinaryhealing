@@ -33,18 +33,18 @@
      
      
 <!-- Hero -->
-      <div class="hero-image3">
+      <!-- <div class="hero-image">
         <div class="hero-text">
           <h1>21-Day Cleanse</h1>
           <p>October 2 - 22, 2020</p>
         </div>
-      </div>
+      </div> -->
 <!-- Header -->
     <div class="container whitebg">  
 
-      <!-- <div class="jumbotron whitebg">
+      <!-- <div class="jumbotron whitebg"> -->
                 
-        <img src="assets/images/cleansecover.png" width="100%" > -->
+        <img src="assets/images/vegetable-soup.jpg" width="100%" >
         <div>
           <p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis - from the air that we breathe, to the products that we use, to the foods that we eat.  Although our bodies are designed to rid themselves of these toxins naturally, they can become overburdened. Detox programs, such as this cleanse, give our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and well-being.​</p>
           
