@@ -44,8 +44,8 @@
       <div class="hero-image">
         <div class="hero-text">
           <h1>Eat Better... Feel Better</h1>
-          <h3 >Join our next 21-DAY CLEANSE </h3>
-          <p>October 2 - 22, 2020</p>
+
+          <p>Join our next 21-DAY CLEANSE - October 2 - 22, 2020</p>
         <p> <a href="21day.php" class="btn btn-primary">Learn More</a></p>
         </div>
       </div>
