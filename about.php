@@ -32,10 +32,6 @@
       <?php include_once("nav.html"); ?>
     </div>
      
-<!-- index -->
-
-
-
 
 <!-- Hero -->
  
