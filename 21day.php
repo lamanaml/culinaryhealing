@@ -42,7 +42,7 @@
 <!-- Header -->
     <div class="container whitebg">  
 
-      <!-- <div class="jumbotron whitebg"> -->
+      <div class="jumbotron whitebg">
                 
         <img src="assets/images/vegetable-soup.jpg" width="100%" >
         <div>
