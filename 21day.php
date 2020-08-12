@@ -36,9 +36,7 @@
       <div class="hero-image3">
         <div class="hero-text">
           <h1>21-Day Cleanse</h1>
-          
           <p>October 2 - 22, 2020</p>
-        <p> <a href="21day.php" class="btn btn-primary">Learn More</a></p>
         </div>
       </div>
 <!-- Header -->
