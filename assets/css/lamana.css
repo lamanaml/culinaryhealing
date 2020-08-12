@@ -16,31 +16,18 @@ body, html {
 };
 
 html, body, iframe { height: 100%; }
-li
-{
+li {
   list-style-type: none;
   margin-left: 1vw;
 }
 
-li:first-child
-{
+li:first-child {
   margin:0;
 }
 
-footer
-{
-  padding-top: 5vh;
-  padding-bottom: 2vh;
-}
 
 
-.copyright,  .impressum
-{
-  text-align: center;
-}
-
-.logo
-{
+.logo {
   height: 4vh;
 }
 
@@ -122,6 +109,40 @@ font-family: 'Dancing Script', cursive;
   transform: translate(-50%, -50%);
   color: white;
 }
+
+
+
+.hero2-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/yellow-plate.jpg");  
+  height: 75%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero2-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+
+
+
+ .hero3-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/vegetable-soup.jpg");
+  height: 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* position: relative;  */
+}
+
+
 
 .container-class {
     background-image: url("../images/profile-lamana1.jpg");
@@ -255,6 +276,17 @@ margin:10px;
 /* ///////////////////////// */
 /*           Footer          */
 /* ///////////////////////// */
+
+footer {
+  padding-top: 5vh;
+  padding-bottom: 2vh;
+}
+
+
+.copyright,  .impressum
+{
+  text-align: center;
+}
 .footer {
   /* position: fixed; */
   width:100%;
@@ -460,13 +492,7 @@ h3, .h3 {
   align-items: center;
  } 
 
- .hero-image3 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/vegetable-soup.jpg");
-  height: 70%;
-  background-position: center;
-  background-repeat: no-repeat;
-  /* position: relative;  */
-}
+
 
  .navbar-brand {
    width:200px;
@@ -475,22 +501,4 @@ h3, .h3 {
  }
 
 
-.hero2-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/yellow-plate.jpg");  
-  height: 75%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-/* Place text in the middle of the image */
-.hero2-text {
-  text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
 
