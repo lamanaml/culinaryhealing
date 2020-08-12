@@ -38,7 +38,12 @@
 
 
 <!-- Hero -->
-
+<div class="hero2-image">
+  <div class="hero2-text">
+    <h1 class="display-4">About Culinary Healing</h1>
+    <p class="lead">Vegan / Vegetarian Lifestyle Brand</p>
+  </div>
+</div>
 
     <!-- main content -->
   <div class="container" style="padding:75px">
@@ -50,12 +55,6 @@
  
    
         <div >
-        <div class="hero2-image">
-  <div class="hero2-text">
-    <h1 class="display-4">About Culinary Healing</h1>
-    <p class="lead">Vegan / Vegetarian Lifestyle Brand</p>
-  </div>
-</div>
           <h1 class="display-4">About LaMana</h1><img class="img-right" src="assets/images/profile-lamana1.jpg"  alt="...">
           <p> I remember back in the day, my uncle Rico used to make the best fried bologna sandwiches known to man. You know, the kind of bologna that had the red strip around it. He would fry it up in the pan to the point that it bubbled up in the middle, and he had to cut it with a knife... Put that on white bread with mustard and I was in heaven!!! Is anybody with me?! Hehehe... those were the days. I think back now and I have to ask... what the hell is bologna anyway?!?!</p></div>
 
