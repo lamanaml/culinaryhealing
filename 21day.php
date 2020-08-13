@@ -35,13 +35,12 @@
 <!-- Hero -->
       <div class="hero3-image">
         <div class="hero-text">
-          <h1>21-DAY CLEANSE</h1>
-          <p>October 2 - 22, 2020</p>
+         <h1 class="display-4">A21-DAY CLEANSE</h1>
+         <p class="lead">October 2 - 22, 2020</p>
         </div>
       </div>
 <!-- Header -->
-    <div class="container whitebg">  
-    <div class="padding">
+   <div class="container" style="padding:75px">
       <p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis - from the air that we breathe, to the products that we use, to the foods that we eat.  Although our bodies are designed to rid themselves of these toxins naturally, they can become overburdened. Detox programs, such as this cleanse, give our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and well-being.​</p>
           
       <p>During these 21 days, we will eat and drink REAL, unprocessed, natural foods and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us.</p>

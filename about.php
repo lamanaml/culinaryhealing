@@ -46,11 +46,7 @@
 
     <!-- main content -->
   <div class="container" style="padding:75px">
-       <!-- <div class="jumbotron">
-        <h1 class="display-4">About</h1>
-        <p class="lead">Meet Chef LaMana</p>
-        <hr class="my-4"> -->
- <div></div> <div></div>
+    <div></div> <div></div>
  
    
         <div >
