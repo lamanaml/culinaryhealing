@@ -1,6 +1,7 @@
 .jumbotron {
-
-   margin-top:400px; 
+   margin:400 0 0 0 ; 
+   background-color: white;
+   padding:0px;
 }
 .default {
     list-style-type: disc !important;
