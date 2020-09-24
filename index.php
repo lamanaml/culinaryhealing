@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -43,7 +44,37 @@
 
     <!-- Navigation -->
       <div class="nav-div">
-        <?php include_once("nav.html"); ?>
+        
+      <nav class="navbar navbar-expand-md fixed-top navbar-light bg-light" > 
+
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        
+         <span class="navbar-brand mb-0 h1">
+          <a href="index.php"><img src="assets/images/chlogo-tran.png" width="300px"></a>
+          </span>
+        <div class="collapse navbar-collapse" id="collapse_target">
+          <ul class="navbar-nav">
+
+            <li class="nav-item">
+              <a class="nav-link " href="index.php">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="21day.php">21-Day Cleanse</a>
+            </li>
+            <!-- <li class="nav-item">
+              <a class="nav-link" href="recipes.php">Recipes</a>
+            </li>            -->
+            <li class="nav-item">
+              <a class="nav-link" href="about.php">About</a>
+            </li>         
+            
+          </ul>
+        </div>
+      </nav>
+
+
       </div>
     <!-- end of navigation -->
      
@@ -58,8 +89,33 @@
     <!-- end of header -->
    
     <!-- Subscribe -->
-      <?php include_once("subscribe.html"); ?>
-    <!-- end of Subscribe -->
+       <!-- Subscribe -->
+      <div class="subscribe flex-container">
+        <div>
+          <h2 space>Join our Mailing List</h2>
+        </div>
+        <!-- Begin Mailchimp Signup Form -->
+        <div id="mc_embed_signup">
+          <form action="https://culinaryhealing.us20.list-manage.com/subscribe/post?u=7bd51cd7f1b65f154b476fb09&amp;id=a57ff37c91" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll ">
+              <span class="mc-field-group space"> <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+              </span>
+              <span id="mce-responses" class="clear">
+                <span class="response" id="mce-error-response" style="display:none"></span>
+                <span class="response" id="mce-success-response" style="display:none"></span>
+              </span>    
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <span style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7bd51cd7f1b65f154b476fb09_a57ff37c91" tabindex="-1" value=""></span>
+            </div>
+          </div>
+          <div>
+            <span class="clear space"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></span>
+          </div>
+        </form>
+      </div>  
+          <!--End mc_embed_signup-->
+      </div>  
+        <!-- end of Subscribe -->
 
     <!-- Main content area -->
       <div class="container">
@@ -97,7 +153,69 @@
 
     <!-- Footer-->
       <div>
-        <?php include_once("footer.html"); ?> 
+         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="assets/css/lamana.css">
+
+    <!-- Footer -->
+    <div class= "footer feed">  
+      <div class="flex-containerFooter">
+        <div>
+          <a href="https://www.facebook.com/culinaryhealing">
+            <img class="logo" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-128.png">
+            </a>
+        </div>
+        <div> 
+          <a href="https://twitter.com/culinaryhealing">
+            <img class="logo" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-128.png">
+          </a>
+        </div>
+        <div>
+          <a href="http://www.instagram.com/culinaryhealing">
+            <img class="logo" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-128.png">
+          </a>
+        </div>
+        <div>
+          <p> &copy; Culinary Healing 2006 </p>
+        </div>
+      </div>
+
+    </div>
+
+
+
+  <!-- <div class="content"></div>
+  <footer class="row">
+    <div class="sozial col-xs-12 col-sm-6 col-sm-push-6">
+      <ul class="row">
+        <li class="col-xs-6 col-sm-2">
+          
+        </li>
+        <li class="col-xs-6 col-sm-2">
+         
+        </li>
+        <li class="col-xs-6 col-sm-2">
+          
+        </li>
+        
+      </ul>
+    </div>
+    </div>
+  </footer>
+</div>
+  
+    </div>
+
+
+        
+  
+
+    <script src="https://kit.fontawesome.com/910ccccaa3.js" crossorigin="anonymous"></script> 
       </div>
     <!-- end of footer -->
 
