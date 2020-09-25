@@ -13,7 +13,7 @@ body, html {
     height: 100%;
     width: 100%;
     background-color: beige;
-    background-image: url("../images/beige-tiles.png");
+    background-image: url("../../images/beige-tiles.png");
     /* padding-top: 50px; */
    font-family: 'Montserrat', sans-serif;
    line-height: 1.6;
@@ -92,7 +92,7 @@ font-family: 'Roboto', sans-serif;
 
 .hero-image {
   /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/webcover.png"); */
-    background-image: url("../images/masthead/butternutsquash.png");
+    background-image: url("../../images/masthead/butternutsquash.png");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -119,7 +119,7 @@ font-family: 'Dancing Script', cursive;
 
 
 .hero2-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/masthead/yellow-plate.jpg");  
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/masthead/yellow-plate.jpg");  
   height: 60%;
   background-position: center;
   background-repeat: no-repeat;
@@ -141,7 +141,7 @@ font-family: 'Dancing Script', cursive;
 
 
  .hero3-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/vegetable-soup.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/vegetable-soup.jpg");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -151,7 +151,7 @@ font-family: 'Dancing Script', cursive;
 
 
 .container-class {
-    background-image: url("../images/profile-lamana1.jpg");
+    background-image: url("../../images/profile-lamana1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     width:100%;
@@ -225,7 +225,7 @@ padding:20px 20px 20px 20px;
 }
 
 .profile-image {
-  background-image: url('../images/profile-lamana1.jpg');
+  background-image: url('../../images/profile-lamana1.jpg');
   background-repeat: no-repeat;
   background-size: contain;
   background-color: teal;
