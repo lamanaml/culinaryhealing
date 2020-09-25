@@ -138,6 +138,8 @@ li:first-child {
   background-position: center;
   background-repeat: no-repeat;
   /* position: relative;  */
+  background-size: cover;
+  position: relative;
 }
 
 .container-class {
