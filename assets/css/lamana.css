@@ -11,7 +11,7 @@ body, html {
     height: 100%;
     width: 100%;
     background-color: beige;
-    background-image: url("../images/masthead/butternutsquash.png");
+    background-image: url("../images/beige-tiles.png");
     /* padding-top: 50px; */
    font-family: 'Montserrat', sans-serif;
    line-height: 1.6;
@@ -90,7 +90,7 @@ font-family: 'Roboto', sans-serif;
 
 .hero-image {
   /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/webcover.png"); */
-    background-image: url("../images/webcover.png");
+    background-image: url("../images/butternutsquash.png");
   height: 90%;
   background-position: center;
   background-repeat: no-repeat;
