@@ -36,7 +36,7 @@
       <div class="hero3-image">
         <div class="hero-text">
          <h1 class="display-4">21-DAY CLEANSE</h1>
-         <p class="lead">October 2 - 22, 2020</p>
+         <p class="lead">October 9 - 29, 2020</p>
         </div>
       </div>
 <!-- Header -->
@@ -102,7 +102,7 @@
           <div class="col text-center">
             <h3 class="text-center" >REGISTER NOW!!</h3>
             <h3>Price: $45 </h3> 
-            <h2>October 2 - 22</h2> 
+            <h2>October 9 - 29</h2> 
             <div id="paypal-button-container"></div>
             <script src="https://www.paypal.com/sdk/js?client-id=AdSBBt2wxstg1Kqw-6DcjuD0wd4fCBKUX-pdsBYvzC_taETS9D3aHFc8t8ri3aYpRYL90RzkKuu7b6Tb&currency=USD" data-sdk-integration-source="button-factory"></script>
             <script>
