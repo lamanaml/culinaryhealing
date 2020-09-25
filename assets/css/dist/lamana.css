@@ -137,7 +137,6 @@ li:first-child {
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
-  /* position: relative;  */
   background-size: cover;
   position: relative;
 }
@@ -204,7 +203,7 @@ li:first-child {
 }
 
 .display-4 {
-  color: grey;
+  color: white;
 }
 
 .card-img-top {

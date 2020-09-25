@@ -90,6 +90,7 @@ font-family: 'Roboto', sans-serif;
 /*           Hero            */
 /* ///////////////////////// */
 
+
 .hero-image {
   /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/webcover.png"); */
     background-image: url("../../images/masthead/butternutsquash.png");
@@ -103,6 +104,7 @@ font-family: 'Roboto', sans-serif;
 .cursive {
 font-family: 'Dancing Script', cursive;
 }
+
 .hero-text {
   text-align: center;
   position: absolute;
@@ -142,14 +144,9 @@ font-family: 'Dancing Script', cursive;
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
-  /* position: relative;  */
-
-
   background-size: cover;
   position: relative;
 }
-
-
 
 .container-class {
     background-image: url("../../images/profile-lamana1.jpg");
@@ -215,7 +212,7 @@ padding:20px 20px 20px 20px;
 }
 
 .display-4 {
-    color:grey;
+    color:white;
 }
 
 .card-img-top {
