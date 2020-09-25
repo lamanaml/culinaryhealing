@@ -35,7 +35,7 @@
 <!-- Hero -->
       <div class="hero3-image">
         <div class="hero-text">
-         <h1 class="display-4">A21-DAY CLEANSE</h1>
+         <h1 class="display-4">21-DAY CLEANSE</h1>
          <p class="lead">October 2 - 22, 2020</p>
         </div>
       </div>
