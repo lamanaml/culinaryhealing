@@ -47,15 +47,15 @@
 
 <!-- ------------------------------  The phases --------------------------------------------- -->
     <div class="container" style="padding:75px" >
-      <div > 
+  
         <img src="assets/images/chprocessweb.png" width="90%">
    
-<!-- navigation -->
+<!-- theprocess -->
     <div>
       <?php include_once("theprocess.html"); ?>
     </div>
 
-         </div>
+    
 
 
 
