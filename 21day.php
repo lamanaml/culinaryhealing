@@ -49,7 +49,7 @@
      
 
 <!-- ------------------------------  The phases --------------------------------------------- -->
-    <div  >
+    <div class="container" style="padding:75px" >
       <div > 
         <img src="assets/images/chprocessweb.png" width="90%">
    
