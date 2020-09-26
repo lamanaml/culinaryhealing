@@ -49,7 +49,7 @@
      
 
 <!-- ------------------------------  The phases --------------------------------------------- -->
-    <div class="container" style="padding:75px">
+    <div class="container">
       <div  width="100%"> 
         <!-- <img src="assets/images/chprocessweb.png" width="90%"> -->
    
@@ -186,11 +186,7 @@
         </div>
       </div>
 <!-- ------------------------------  Register --------------------------------------------- -->      
-      
-      <div class="wrapper">
-	<div class="outer">
-    <div class="content animated fadeInLeft">
-      <!-- <div class="alert alert-warning" role="alert" > -->
+      <div class="alert alert-success" role="alert" >
         <div class="row" >
           <div class="col text-center">
             <h3 class="text-center" >REGISTER NOW!!</h3>
@@ -229,11 +225,10 @@
             <h6>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  We are not medical doctors. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmless Culinary Healing and any of its employees for any issues while participating in this cleanse. 
             </h6>
           </div>
-</div>
+
         </div>
       </div>
-     <!-- </div> -->
-      </div>
+
     </div>
 
 
