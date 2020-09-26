@@ -53,7 +53,7 @@
       <div > 
         <img src="assets/images/chprocessweb.png" width="90%">
    
-         
+         </div>
 <div class="flex-container">
   <div>
  <div class="ft-recipe cardBody cardHTML"> 
