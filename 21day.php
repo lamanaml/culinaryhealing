@@ -131,7 +131,7 @@
     <!-- <footer class="content__footer"><a href="#">View Recipe</a></footer> -->
   </div>
 </div></div>
-</div>
+
 
 
   <div>
