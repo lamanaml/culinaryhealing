@@ -51,6 +51,7 @@
         <img src="assets/images/chprocessweb.png" width="90%">
    </div> -->
 <!-- theprocess -->
+  <h3>The Process</h3>
  <div>
   <?php include_once("theprocess.html"); ?>
 
