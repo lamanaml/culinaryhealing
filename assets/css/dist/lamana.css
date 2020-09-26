@@ -421,6 +421,7 @@ li:first-child {
   background: #white;
   width: 100%;
   height: 60vh;
+  margin: 20px;
 }
 
 .outer {
