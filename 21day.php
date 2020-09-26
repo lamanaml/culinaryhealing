@@ -52,7 +52,7 @@
    
 <!-- theprocess -->
  
-      <?php include_once("theprocess.html"); ?>
+  <?php include_once("theprocess.html"); ?>
 
 
     
