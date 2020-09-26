@@ -38,6 +38,15 @@ a {
   text-decoration: none;
 }
 
+.ft-recipe {
+  top: 50%;
+  right: 50%;
+  bottom: 50%;
+  left: 50%;
+  position: relative;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
 .ft-recipe .ft-recipe__thumb {
   position: relative;
   height: 281px;
