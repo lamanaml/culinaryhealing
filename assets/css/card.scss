@@ -54,7 +54,7 @@ a {
     height: 100%;
     background: var(--white);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     box-shadow: 0 0 88px 0 rgba(0, 0, 0, 0.1607843137254902);
     overflow: hidden;
     @include poCentering;
