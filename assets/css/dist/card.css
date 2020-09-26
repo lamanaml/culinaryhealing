@@ -56,8 +56,6 @@ a {
   transform: translate(-50%, -50%);
 }
 .ft-recipe .ft-recipe__thumb {
-  position: relative;
-  height: 281px;
   box-shadow: 0px 0px 130px 0 rgba(0, 0, 0, 0.38);
 }
 .ft-recipe .ft-recipe__thumb h3 {
@@ -77,6 +75,10 @@ a {
   height: 100%;
   object-fit: cover;
   object-position: 50% 50%;
+}
+.ft-recipe .ft-recipe__content {
+  flex: 1;
+  padding: 0 2em 1em;
 }
 .ft-recipe .ft-recipe__content .content__header .row-wrapper {
   display: flex;
