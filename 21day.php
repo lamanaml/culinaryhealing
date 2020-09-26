@@ -57,7 +57,7 @@
   <div class="ft-recipe__thumb">
     <!-- <span id="close-modal"><i class="ion ion-md-close"></i> -->
     </span>
-    <h3>First Steps</h3><img src="https://zippypaws.com/app/uploads/2018/05/strawberry-waffles-1024x668.jpg" alt="First steps"/>
+    <h3>Phase 1</h3><img src="https://zippypaws.com/app/uploads/2018/05/strawberry-waffles-1024x668.jpg" alt="First steps"/>
   </div>
   <div class="ft-recipe__content">
     <header class="content__header">
