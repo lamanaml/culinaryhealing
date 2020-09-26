@@ -46,10 +46,10 @@
      
 
 <!-- ------------------------------  The phases --------------------------------------------- -->
-<!-- <div>
+<div>
   
         <img src="assets/images/chprocessweb.png" width="90%">
-   </div> -->
+   </div>
 <!-- theprocess -->
   <h3>The Process</h3>
  <div>
