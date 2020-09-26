@@ -50,11 +50,11 @@ a {
 }
 
 .ft-recipe {
-    width: 100%;
+    width: 300px;
     height: 100%;
     background: var(--white);
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     box-shadow: 0 0 88px 0 rgba(0, 0, 0, 0.1607843137254902);
     overflow: hidden;
     @include poCentering;
