@@ -46,10 +46,10 @@
      
 
 <!-- ------------------------------  The phases --------------------------------------------- -->
-<div>
+<!-- <div>
   
         <img src="assets/images/chprocessweb.png" width="90%">
-   </div>
+   </div> -->
 <!-- theprocess -->
  <div>
   <?php include_once("theprocess.html"); ?>
