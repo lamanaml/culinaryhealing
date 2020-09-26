@@ -48,10 +48,10 @@
      
 
 <!-- ------------------------------  The phases --------------------------------------------- -->
-      <!-- <div  width="100%"> 
-        <img src="assets/images/chprocessweb.png" width="90%">
-      </div>
-          -->
+      <div  width="100%"> 
+        <!-- <img src="assets/images/chprocessweb.png" width="90%"> -->
+   
+         
 
  <div class="ft-recipe cardBody cardHTML"> 
   <div class="ft-recipe__thumb"><span id="close-modal"><i class="ion ion-md-close"></i></span>
@@ -74,6 +74,7 @@
     <footer class="content__footer"><a href="#">View Recipe</a></footer>
   </div>
 </div>
+   </div>
 <!-- ------------------------------  The components --------------------------------------------- -->
       <div>
         <h3>The Experience</h3>
