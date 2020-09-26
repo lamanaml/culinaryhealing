@@ -46,7 +46,7 @@
      
 
 <!-- ------------------------------  The phases --------------------------------------------- -->
-    <div class="container" style="padding:75px" >
+
   
         <img src="assets/images/chprocessweb.png" width="90%">
    
@@ -59,7 +59,7 @@
 
 
 
-   </div>
+  
 <!-- ------------------------------  The components --------------------------------------------- -->
       <div>
         <h3>The Experience</h3>
