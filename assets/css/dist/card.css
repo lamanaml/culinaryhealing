@@ -78,10 +78,6 @@ a {
   object-fit: cover;
   object-position: 50% 50%;
 }
-.ft-recipe .ft-recipe__content {
-  flex: 1;
-  padding: 0 2em 1em;
-}
 .ft-recipe .ft-recipe__content .content__header .row-wrapper {
   display: flex;
   padding: 0.55em 0 0.3em;
