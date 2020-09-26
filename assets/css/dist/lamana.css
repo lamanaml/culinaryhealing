@@ -43,6 +43,7 @@ a {
 .ft-recipe {
   width: 300px;
   height: 100%;
+  padding: 20px;
   background: var(--white);
   display: flex;
   flex-direction: column;
