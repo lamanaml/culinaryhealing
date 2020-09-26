@@ -412,7 +412,33 @@ li:first-child {
   margin: 10px;
 }
 
-/* Quote */
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Montserrat;
+  background: #262626;
+  width: 100%;
+  height: 100vh;
+}
+
+.outer {
+  position: relative;
+  background: #fff;
+  height: 350px;
+  width: 550px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+.content {
+  animation-delay: 0.3s;
+  position: absolute;
+  left: 20px;
+  z-index: 3;
+}
+
 /* ///////////////////////// */
 /*           Footer          */
 /* ///////////////////////// */
