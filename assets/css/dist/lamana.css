@@ -59,6 +59,7 @@ a {
   top: 50%;
   right: 50%;
   bottom: 50%;
+  left: 25%;
   position: relative;
 }
 .ft-recipe .ft-recipe__thumb {
