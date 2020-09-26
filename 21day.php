@@ -186,7 +186,7 @@
         </div>
       </div>
 <!-- ------------------------------  Register --------------------------------------------- -->      
-      <!-- <div class="alert alert-success" role="alert" >
+      <div class="alert alert-success" role="alert" >
         <div class="row" >
           <div class="col text-center">
             <h3 class="text-center" >REGISTER NOW!!</h3>
@@ -227,52 +227,7 @@
           </div>
 
         </div>
-      </div> -->
-<div class="wrapper">
-	<div class="outer">
-		<div class="content animated fadeInLeft">
-			<span class="bg animated fadeInDown">Phase 1</span>
-			<h1>Register Now<br/>October 9 - 29</h1>
-			<p>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions. Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care. We are not medical doctors. If you are on medication, consult your doctor before participating. By registering for this cleanse, you agree to hold harmless Culinary Healing and any of its employees for any issues while participating in this cleanse.</p>
-			
-			<div class="button">
-				<a href="#">$45</a><div id="paypal-button-container"></div>
-            <script src="https://www.paypal.com/sdk/js?client-id=AdSBBt2wxstg1Kqw-6DcjuD0wd4fCBKUX-pdsBYvzC_taETS9D3aHFc8t8ri3aYpRYL90RzkKuu7b6Tb&currency=USD" data-sdk-integration-source="button-factory"></script>
-            <script>
-              paypal.Buttons({
-                  style: {
-                      shape: 'rect',
-                      color: 'gold',
-                      layout: 'vertical',
-                      label: 'paypal',
-                      
-                  },
-                  createOrder: function(data, actions) {
-                      return actions.order.create({
-                          purchase_units: [{
-                              amount: {
-                                  value: '45'
-                              }
-                          }]
-                      });
-                  },
-                  onApprove: function(data, actions) {
-                      return actions.order.capture().then(function(details) {
-                          alert('Transaction completed by ' + details.payer.name.given_name + '!');
-                          window.location.replace("http://www.culinaryhealing.com/21days");
-                      });
-                  }
-              }).render('#paypal-button-container');
-            </script>
-			</div>
-			
-		</div>
-		<img src="https://bit.ly/2kOzUTm" width="300px" class="animated fadeInRight">
-	</div>
-	<p class="footer">Based on the Silk UI Kit - DesignModo Market</p>
-</div>
-
-
+      </div>
 
     </div>
 
