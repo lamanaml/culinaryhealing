@@ -40,8 +40,8 @@ a {
 }
 
 .ft-recipe {
-  width: 230px;
-  height: 326px;
+  width: 460px;
+  height: 654px;
   background: var(--white);
   display: flex;
   flex-direction: column;
