@@ -16,7 +16,7 @@
   box-sizing: border-box;
 }
 
-.cardBody {
+.cardBbody {
   background: var(--bodyBg);
   font-family: var(--bodyFont);
   color: var(--textColor);
@@ -39,8 +39,8 @@ a {
 }
 
 .ft-recipe {
-  width: 230px;
-  height: 326px;
+  width: 460px;
+  height: 654px;
   background: var(--white);
   display: flex;
   flex-direction: column;
