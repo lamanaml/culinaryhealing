@@ -16,7 +16,7 @@
   box-sizing: border-box;
 }
 
-.cardBbody {
+.cardBody {
   background: var(--bodyBg);
   font-family: var(--bodyFont);
   color: var(--textColor);
