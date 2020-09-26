@@ -50,18 +50,18 @@ a {
 }
 
 .ft-recipe {
-    width: 300px;
-    height: 100%;
-    margin:20px;
-    background: var(--white);
-    display: flex;
-    flex-direction: column;
-    box-shadow: 0 0 88px 0 rgba(0, 0, 0, 0.1607843137254902);
-    overflow: hidden;
-    @include poCentering;
+    // width: 300px;
+    // height: 100%;
+    // margin:20px;
+    // background: var(--white);
+    // display: flex;
+    // flex-direction: column;
+    // box-shadow: 0 0 88px 0 rgba(0, 0, 0, 0.1607843137254902);
+    // overflow: hidden;
+    // @include poCentering;
     .ft-recipe__thumb {
-        // position: relative;
-        // height: 281px;
+        position: relative;
+        height: 281px;
         box-shadow: 0px 0px 130px 0 rgba(0, 0, 0, 0.38);
         // #close-modal {
         //     position: absolute;
