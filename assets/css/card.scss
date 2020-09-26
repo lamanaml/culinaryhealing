@@ -57,7 +57,7 @@ a {
     flex-direction: column;
     box-shadow: 0 0 88px 0 rgba(0, 0, 0, 0.1607843137254902);
     overflow: hidden;
-    // @include poCentering;
+    @include poCentering;
     .ft-recipe__thumb {
         position: relative;
         height: 281px;
