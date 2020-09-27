@@ -27,7 +27,12 @@
   <body id="21day">
         
 
-     
+      
+    <div class="nav-div">
+    
+<!-- navigation -->
+      <?php include_once("nav.html"); ?>
+    </div>
      
 <!-- Hero -->
       <div class="hero3-image">
