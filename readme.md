@@ -1,20 +1,39 @@
 # Culinary Healing
-## Overview
+
+[![N|Solid](http://culinaryhealing.com/assets/images/chlogo-tran.png)](https://culinaryhealing.com)
+## Deployment
+ ### Live Site
+ https://culinaryhealng.com
+
+ ### Repository
+ https://github.com/lamanaml/culinaryhealing
+
+
+
+## Introduction
 Vegan and Vegetarian Lifestyle Brand featuring recipes, detox programs and examples of daily meals as a vegan / vegetarian.
 
-![Image description](http://www.lamanadonadelle.com/images/thumbs/giphy.jpg)
+![Image description](https://github.com/lamanaml/culinaryhealing)
 
 
-## Skills
+## Features and Functionality
 ```python
 * HTML5
-* CSS / Bootstrap
-* JavaScript
 * PHP
+* CSS / Bootstrap
+* SCSS
+* JavaScript
 
 ```
 
-### Live Site
-https://culinaryhealing.herokuapp.com/
+
+
+
+
+
+
+
+
+
 
 
