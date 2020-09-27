@@ -1,6 +1,6 @@
 # Culinary Healing
 
-[![N|Solid](http://culinaryhealing.com/assets/images/chlogo-tran.png)](https://culinaryhealing.com)
+[![N|Solid](http://culinaryhealing.com/assets/images/culinaryhealing.png)](https://culinaryhealing.com)
 ## Deployment
  ### Live Site
  https://culinaryhealing.com
