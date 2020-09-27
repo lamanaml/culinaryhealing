@@ -3,7 +3,7 @@
 [![N|Solid](http://culinaryhealing.com/assets/images/chlogo-tran.png)](https://culinaryhealing.com)
 ## Deployment
  ### Live Site
- https://culinaryhealng.com
+ https://culinaryhealing.com
 
  ### Repository
  https://github.com/lamanaml/culinaryhealing
