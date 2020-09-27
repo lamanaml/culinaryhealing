@@ -13,8 +13,6 @@
 ## Introduction
 Vegan and Vegetarian Lifestyle Brand featuring recipes, detox programs and examples of daily meals as a vegan / vegetarian.
 
-![Image description](https://github.com/lamanaml/culinaryhealing)
-
 
 ## Features and Functionality
 ```python
