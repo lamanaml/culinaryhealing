@@ -151,7 +151,7 @@
                   onApprove: function(data, actions) {
                       return actions.order.capture().then(function(details) {
                           alert('Transaction completed by ' + details.payer.name.given_name + '!');
-                          window.location.replace("http://www.culinaryhealing.com/21days");
+                          window.location.replace("http://www.culinaryhealing21days.com");
                       });
                   }
               }).render('#paypal-button-container');
