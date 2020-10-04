@@ -76,14 +76,14 @@
           <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
             <div class="card-header">First Steps</div>
             <div class="card-body">
-              <p class="card-text">This initial time will help us ramp up our knowledge about clean healthy eating.  We will learn about the foods that help establish and maintain optimal health.  We will learn how to identify safe recipes, menu plan and grocery shop like a pro!  </p>
+              <p class="card-text">Think of this step as a healthy eating bootcamp. Here we learn about the different phases of the cleanse, the ingredients, and what to expect. We will learn how to create a menu, a grocery list and even how to grocery shop for healthy items!  </p>
             </div>
           </div>    
 
           <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
             <div class="card-header">Daily Discussions</div>
             <div class="card-body">
-              <p class="card-text">Once we are empowered with our goal, we will start the journey.  You will receive daily notes of information, encouragement and tips to keep us all on track! </p>
+              <p class="card-text">Each day we will touch base. Here we will motivate and support each other and share our experiences. Through images, links and kind words we will stay connected through this journey. </p>
             </div>
           </div>
 
@@ -95,6 +95,12 @@
             </div>
           </div>
 
+ <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+            <div class="card-header">Resources</div>
+            <div class="card-body">
+              <p class="card-text">Tools and resources to help us along the way </p>
+            </div>
+          </div>
           
           <!-- <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
             <div class="card-header">Group Discussion</div>
