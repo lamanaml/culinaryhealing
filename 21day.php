@@ -81,7 +81,7 @@
           </div>    
 
           <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
-            <div class="card-header">Daily Notes</div>
+            <div class="card-header">Daily Discussions</div>
             <div class="card-body">
               <p class="card-text">Once we are empowered with our goal, we will start the journey.  You will receive daily notes of information, encouragement and tips to keep us all on track! </p>
             </div>
@@ -96,12 +96,12 @@
           </div>
 
           
-          <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+          <!-- <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
             <div class="card-header">Group Discussion</div>
             <div class="card-body">
               <p class="card-text">There is a PRIVATE Facebook group where current members of the cleanse can support each other.  We ask and answer questions, share our experiences, and motivate each other to keep pushing forward. </p>
             </div>
-          </div>
+          </div> -->
 
         
 
@@ -119,7 +119,7 @@
         <div class="row" >
           <div class="col text-center">
             <h3 class="text-center" >REGISTER NOW!!</h3>
-            <h3>Price: $45 </h3> 
+            <h3>Only $25 if you register before Oct 6th! (normally $45)</h3> 
             <h2>October 9 - 29</h2> 
             <div id="paypal-button-container"></div>
             <script src="https://www.paypal.com/sdk/js?client-id=AdSBBt2wxstg1Kqw-6DcjuD0wd4fCBKUX-pdsBYvzC_taETS9D3aHFc8t8ri3aYpRYL90RzkKuu7b6Tb&currency=USD" data-sdk-integration-source="button-factory"></script>
@@ -136,7 +136,7 @@
                       return actions.order.create({
                           purchase_units: [{
                               amount: {
-                                  value: '45'
+                                  value: '25'
                               }
                           }]
                       });
