@@ -95,7 +95,7 @@
             </div>
           </div>
 
- <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+ <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
             <div class="card-header">Resources</div>
             <div class="card-body">
               <p class="card-text">Tools and resources to help us along the way </p>
