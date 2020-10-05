@@ -32,26 +32,39 @@
       <?php include_once("nav.html"); ?>
     </div>
      
-<!-- Header -->
-    <div class="container whitebg">  
-
-      <div class="jumbotron whitebg">
-        <h1 class="display-4">21-Day Cleanse - VIP PASS</h1>
- 
-        
-        <img src="assets/images/vip.png" width="100%" >
-        <div>
-          <p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis - from the air that we breathe, to the products that we use, to the foods that we eat.  Although our bodies are designed to rid themselves of these toxins naturally, they can become overburdened. Detox programs, such as this cleanse, give our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and well-being.​</p>
-          
-          <p>During these 21 days, we will eat and drink REAL, unprocessed, natural foods and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us.</p>
+     
+<!-- Hero -->
+      <div class="hero3-image">
+        <div class="hero-text">
+         <h1 class="display-4">21-DAY CLEANSE</h1>
+         <p class="lead">Starts October 9th</p>
         </div>
       </div>
+<!-- Header -->
+   <div class="container" style="padding:75px">
+      <p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis - from the air that we breathe, to the products that we use, to the foods that we eat.  Although our bodies are designed to rid themselves of these toxins naturally, they can become overburdened. Detox programs, such as this cleanse, give our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and well-being.​</p>
+          
+      <p>During these 21 days, we will eat and drink REAL, unprocessed, natural foods and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us.</p>
+   
+       
+     
 
 <!-- ------------------------------  The phases --------------------------------------------- -->
-      <div width="100%"> 
-        <img src="assets/images/chprocessweb.png" width="100%">
-      </div>
-         
+<!-- <div>
+  
+        <img src="assets/images/chprocessweb.png" width="90%">
+   </div> -->
+<!-- theprocess -->
+  <h3>The Process</h3>
+ <div>
+  <?php include_once("theprocess.html"); ?>
+
+
+    </div>
+
+
+
+  
 <!-- ------------------------------  The components --------------------------------------------- -->
       <div>
         <h3>The Experience</h3>
@@ -62,37 +75,47 @@
           <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
             <div class="card-header">First Steps</div>
             <div class="card-body">
-              <p class="card-text">This initial time will help us ramp up our knowledge about clean healthy eating.  We will learn about the foods that help establish and maintain optimal health.  We will learn how to identify safe recipes, menu plan and grocery shop like a pro!  </p>
+              <p class="card-text">Think of this step as a healthy eating bootcamp. Here we learn about the different phases of the cleanse, the ingredients, and what to expect. We will learn how to create a menu, a grocery list and even how to grocery shop for healthy items!  </p>
             </div>
           </div>    
 
           <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
-            <div class="card-header">Daily Notes</div>
+            <div class="card-header">Daily Discussions</div>
             <div class="card-body">
-              <p class="card-text">Once we are empowered with our goal, we will start the journey.  You will receive daily notes of information, encouragement and tips to keep us all on track! </p>
+              <p class="card-text">Each day we will touch base. Here we will motivate and support each other and share our experiences. Through images, links and kind words we will stay connected through this journey. </p>
             </div>
           </div>
 
-          <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
-            <div class="card-header">Group Discussion</div>
-            <div class="card-body">
-              <p class="card-text">There is a PRIVATE Facebook group where current members of the cleanse can support each other.  We ask and answer questions, share our experiences, and motivate each other to keep pushing forward. </p>
-            </div>
-          </div>
 
-          <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+  <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
             <div class="card-header">Recipes</div>
             <div class="card-body">
               <p class="card-text">There are several recipes for each phase of the cleanse.  You can test some out and find your favorites, or add your own! </p>
             </div>
           </div>
 
-          <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
+ <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+            <div class="card-header">Resources</div>
+            <div class="card-body">
+              <p class="card-text">FAQ's, Calendars, Roadmaps and other tools and resources to help us along the way. </p>
+            </div>
+          </div>
+          
+          <!-- <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+            <div class="card-header">Group Discussion</div>
+            <div class="card-body">
+              <p class="card-text">There is a PRIVATE Facebook group where current members of the cleanse can support each other.  We ask and answer questions, share our experiences, and motivate each other to keep pushing forward. </p>
+            </div>
+          </div> -->
+
+        
+
+          <!-- <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
             <div class="card-header">Hotline</div>
             <div class="card-body">
               <p class="card-text">Our facilitators will be available 24/7 to support us all through the cleanse.  Through phone call, email, chat or through the group discussion, you are never alone!</p>
             </div>
-          </div>
+          </div> -->
 
         </div>
       </div>
@@ -101,8 +124,8 @@
         <div class="row" >
           <div class="col text-center">
             <h3 class="text-center" >REGISTER NOW!!</h3>
-            <h3>Price: $25 </h3> 
-            <h2>July 10 - 30</h2> 
+            <h3>Always $25 
+            <h2>October 9 - 29</h2> 
             <div id="paypal-button-container"></div>
             <script src="https://www.paypal.com/sdk/js?client-id=AdSBBt2wxstg1Kqw-6DcjuD0wd4fCBKUX-pdsBYvzC_taETS9D3aHFc8t8ri3aYpRYL90RzkKuu7b6Tb&currency=USD" data-sdk-integration-source="button-factory"></script>
             <script>
@@ -126,7 +149,7 @@
                   onApprove: function(data, actions) {
                       return actions.order.capture().then(function(details) {
                           alert('Transaction completed by ' + details.payer.name.given_name + '!');
-                          window.location.replace("http://www.culinaryhealing.com/21days");
+                          window.location.replace("http://www.culinaryhealing21days.com");
                       });
                   }
               }).render('#paypal-button-container');
@@ -141,6 +164,9 @@
       </div>
 
     </div>
+
+
+     </div>
    <!-- </div>
     -->
    
