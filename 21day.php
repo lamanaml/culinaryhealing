@@ -125,8 +125,8 @@
         <div class="row" >
           <div class="col text-center">
             <h3 class="text-center" >REGISTER NOW!!</h3>
-            <h3>Only $25... 
-            <h4>if you register before Oct 6th! (normally $45)</h4>
+            <h3>Price: $45... 
+           
             <h2>October 9 - 29</h2> 
             <div id="paypal-button-container"></div>
             <script src="https://www.paypal.com/sdk/js?client-id=AdSBBt2wxstg1Kqw-6DcjuD0wd4fCBKUX-pdsBYvzC_taETS9D3aHFc8t8ri3aYpRYL90RzkKuu7b6Tb&currency=USD" data-sdk-integration-source="button-factory"></script>
