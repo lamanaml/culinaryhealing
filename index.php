@@ -81,7 +81,7 @@
       <div class="hero-image">
         <div class="hero-text">
           <h1>21-Day Cleanse</h1>
-          <p>October 9 - 29, 2020</p>
+          <p>January 8 - 28, 2021</p>
           <p><a href="21day.php" class="btn btn-primary">Learn More</a></p>
         </div>
       </div>
