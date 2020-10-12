@@ -38,7 +38,7 @@
       <div class="hero3-image">
         <div class="hero-text">
          <h1 class="display-4">21-DAY CLEANSE</h1>
-         <p class="lead">Starts October 9th</p>
+         <p class="lead">The next one starts in January!</p>
         </div>
       </div>
 <!-- Header -->
@@ -125,7 +125,7 @@
         <div class="row" >
           <div class="col text-center">
             <h3 class="text-center" >REGISTER NOW!!</h3>
-            <h3>Price: $45... 
+            <h3>Price: $55... 
            
             <h2>January 8 - 28, 2021</h2> 
             <div id="paypal-button-container"></div>

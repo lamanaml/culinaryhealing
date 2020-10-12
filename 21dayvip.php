@@ -40,7 +40,7 @@
         <div class="hero-text">
          <h1 class="display-4">21-DAY CLEANSE</h1>
              <h1 class="display-4">VIP PASS</h1>
-         <p class="lead">Starts October 9th</p>
+         <p class="lead">Starts in January</p>
         </div>
       </div>
 <!-- Header -->
