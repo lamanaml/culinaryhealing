@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Recipes - Culinary Healing</title>
-    <meta name="Culinary Healing, Plant Based Lifestyle Brand" content="plant-based, vegan, vegetarian, 21-day, cleanse, detox, recipes, lamana, lamanaml, brooklyn, durham, atlanta, burlington">
+    <meta name="Culinary Healing, Plant Based Lifestyle Brand" content="vegan meals near me, healthy plant-based, vegan, vegetarian, 21-day, cleanse, detox, recipes, lamana, lamanaml, brooklyn, durham, atlanta, burlington">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -21,7 +21,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/lamana.css">
+    <link rel="stylesheet" href="assets/css/dist/lamana.css">
   </head>
 
 
