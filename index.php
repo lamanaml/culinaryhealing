@@ -6,11 +6,14 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" rel=canonical” content="IE=edge">
     <title>Culinary Healing</title>
     <link rel="icon"  type="image/jpg" href="assets/images/favicon.jpg">
-    <meta name="Culinary Healing, Plant Based Lifestyle Brand" content="plant-based, vegan, vegetarian, 21-day, cleanse, detox, recipes, lamana, lamanaml, brooklyn, durham, atlanta, burlington">
+    <link rel="canonical" href="https://www.culinaryhealing.com">
+    <meta name="description" content="Chef LaMana follows a plant based whole food philosophy to create delicious meals.  She uses classes, detox program and recipes to show the world that a vegan, vegetarian lifestyle does not have to be bland. ">
+   
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="follow, index">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26808506-1"></script>
