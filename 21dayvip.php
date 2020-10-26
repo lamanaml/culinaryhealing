@@ -22,7 +22,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/dist/lamana.css">
-
   </head>
 
   <body id="21day">
@@ -36,32 +35,26 @@
 <!-- Hero -->
       <div class="hero3-image">
         <div class="hero-text">
-         <h1 class="display-4">21-DAY CLEANSE</h1>
-             <h1 class="display-4">VIP PASS</h1>
-         <p class="lead">Starts in January</p>
+        <h1 class="display-4">21-DAY CLEANSE</h1>
+        <h1 class="display-4">VIP PASS</h1>
+        <p class="lead">Starts in January</p>
         </div>
       </div>
+
+
 <!-- Header -->
-   <div class="container" style="padding:75px">
+    <div class="container" style="padding:75px">
       <p>This cleanse will help remove toxins from our bodies and help us maintain a healthy weight. We are exposed to toxins on a daily basis - from the air that we breathe, to the products that we use, to the foods that we eat.  Although our bodies are designed to rid themselves of these toxins naturally, they can become overburdened. Detox programs, such as this cleanse, give our bodies the support to get rid of these toxins and manage weight, which is important to our overall health and well-being.​</p>
           
       <p>During these 21 days, we will eat and drink REAL, unprocessed, natural foods and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us.</p>
    
-       
-     
+
 
 <!-- ------------------------------  The phases --------------------------------------------- -->
-<!-- <div>
-  
-        <img src="assets/images/chprocessweb.png" width="90%">
-   </div> -->
-<!-- theprocess -->
-  <h3>The Process</h3>
- <div>
-  <?php include_once("theprocess.html"); ?>
-
-
-    </div>
+      <h3>The Process</h3>
+      <div>
+        <?php include_once("includes.theprocess.html"); ?>
+      </div>
 
 
 
@@ -88,36 +81,20 @@
           </div>
 
 
-  <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+          <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
             <div class="card-header">Recipes</div>
             <div class="card-body">
               <p class="card-text">There are several recipes for each phase of the cleanse.  You can test some out and find your favorites, or add your own! </p>
             </div>
           </div>
 
- <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+          <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
             <div class="card-header">Resources</div>
             <div class="card-body">
               <p class="card-text">FAQ's, Calendars, Roadmaps and other tools and resources to help us along the way. </p>
             </div>
           </div>
-          
-          <!-- <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
-            <div class="card-header">Group Discussion</div>
-            <div class="card-body">
-              <p class="card-text">There is a PRIVATE Facebook group where current members of the cleanse can support each other.  We ask and answer questions, share our experiences, and motivate each other to keep pushing forward. </p>
-            </div>
-          </div> -->
-
-        
-
-          <!-- <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-            <div class="card-header">Hotline</div>
-            <div class="card-body">
-              <p class="card-text">Our facilitators will be available 24/7 to support us all through the cleanse.  Through phone call, email, chat or through the group discussion, you are never alone!</p>
-            </div>
-          </div> -->
-
+                
         </div>
       </div>
 <!-- ------------------------------  Register --------------------------------------------- -->      
@@ -160,24 +137,16 @@
             <h6>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  We are not medical doctors. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmless Culinary Healing and any of its employees for any issues while participating in this cleanse. 
             </h6>
           </div>
-
         </div>
       </div>
-
     </div>
-
-
      </div>
-   <!-- </div>
-    -->
    
     <!-- Footer -->
     <?php include_once("footer.html"); ?>
 
 
     <!-- Scripts -->
-    
-     
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
