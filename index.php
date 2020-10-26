@@ -83,9 +83,9 @@
     <!-- Header -->
       <div class="hero-image">
         <div class="hero-text">
-          <h1>21-Day Cleanse</h1>
-          <p>January 8 - 28, 2021</p>
-          <p><a href="21day.php" class="btn btn-primary">Learn More</a></p>
+          <h1 class="cursive">'Tis the Season</h1>
+          <p>To Be Healthy!</p>
+          <!-- <p><a href="21day.php" class="btn btn-primary">Learn More</a></p> -->
         </div>
       </div>
     <!-- end of header -->
