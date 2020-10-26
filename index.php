@@ -96,7 +96,7 @@
 
     <!-- Footer -->
        <div class="nav-div">
-      <?php include_once("includes/footer.html"); ?>
+      <?php include_once("includes/footer.php"); ?>
     </div>
      
     <!-- end of footer -->
