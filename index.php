@@ -84,7 +84,7 @@
       <div class="hero-image">
         <div class="hero-text">
           <h1 class="cursive">'Tis the Season</h1>
-          <p>To Be Healthy!</p>
+          <p class="cursive">To Be Healthy!</p>
           <!-- <p><a href="21day.php" class="btn btn-primary">Learn More</a></p> -->
         </div>
       </div>
