@@ -308,6 +308,15 @@ li:first-child {
   position: relative;
 }
 
+.heroRecipes-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/masthead/webcover.png");
+  height: 40%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 .container-class {
   background-image: url("../../images/profile-lamana1.jpg");
   background-repeat: no-repeat;
@@ -333,6 +342,7 @@ li:first-child {
   width: 100%;
   padding: 10px 100px 10px 10px;
   align-items: center;
+  justify-content: flex-end;
 }
 
 /* ///////////////////////// */

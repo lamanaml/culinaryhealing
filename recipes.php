@@ -34,7 +34,7 @@
      
 <!-- index -->
 <!-- Hero -->
-      <div class="hero3-image">
+      <div class="heroRecipes-image">
         <div class="hero-text">
         <h1 class="display-4">Recipes</h1>
     
