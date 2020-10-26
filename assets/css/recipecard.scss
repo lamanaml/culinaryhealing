@@ -1,127 +1,153 @@
+@import "bourbon";
+
+* {
+	@include box-sizing(border-box);
+}
+
 html {
-  background: #FAF7F2;
-  background-image: url(https://s3.postimg.org/s1n3ji1ur/paper_fibers_2_X.png);
-  box-sizing: border-box;
-  font-family: 'Lato', sans-serif;
-  font-size: 14px;
-  font-weight: 400;
+	height: 100%;
 }
 
-*, *:before, *:after {
-  box-sizing: inherit;
+body {
+	@include linear-gradient(-45deg, #19d3d1 5%, #57abf2, $fallback: #57abf2);
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1rem;
 }
 
-.u-clearfix:before,
-.u-clearfix:after {
-  content: " ";
-  display: table;
+img {
+	max-width: 100%;
+	height: auto;
+	vertical-align: bottom;
 }
 
-.u-clearfix:after {
-  clear: both;
-}
+.recipe-card {
+	background: #fff;
+	margin: 4em auto;
+	width: 90%;
+	max-width: 496px;
+	@include border-top-radius(5px);
+	@include border-bottom-radius(5px);
 
-.u-clearfix {
-  *zoom: 1;
-}
+	aside {
+		position: relative;
 
-.subtle {
-  color: #aaa;
-}
+		img {
+			@include border-top-radius(5px);
+		}
 
-.card-container {
-  margin: 25px auto 0;
-  position: relative;
-  width: 692px;
-}
+		.button {
+			background: #57abf2;
+			display: inline-block;
+			position: absolute;
+			top: 80%;
+			right: 3%;
+			width: em(65);
+			height: em(65);
+			border-radius: em(65);
+			line-height: em(65);
+			text-align: center;
 
-.card {
-  background-color: #fff;
-  padding: 30px;
-  position: relative;
-  box-shadow: 0 0 5px rgba(75, 75, 75, .07);
-  z-index: 1;
-}
+			.icon {
+				vertical-align: middle;
+			}
+		}
+	}
 
-.card-body {
-  display: inline-block;
-  float: left;
-  width: 310px;
-}
+	article {
+		padding: 1.25em 1.5em;
 
-.card-number {
-  margin-top: 15px;
-}
+		ul {
+			list-style: none;
+			margin: 0.5em 0 0;
+			padding: 0;
+			li {
+				display: inline-block;
+				margin-left: 1em;
+				line-height: 1em;
+				&:first-child {
+					margin-left: 0;
+				}
 
-.card-circle {
-  border: 1px solid #aaa;
-  border-radius: 50%;
-  display: inline-block;
-  line-height: 22px;
-  font-size: 12px;
-  height: 25px;
-  text-align: center;
-  width: 25px;
-}
+				.icon {
+				    vertical-align: bottom;
+				}
 
-.card-author {
-  display: block;
-  font-size: 12px;
-  letter-spacing: .5px;
-  margin: 15px 0 0;
-  text-transform: uppercase;
-}
+				span:nth-of-type(2) {
+					margin-left: 0.5em;
+					font-size: 0.8em;
+					font-weight: 300;
+					vertical-align: middle;
+					color: #838689;
+				}
+			}
+		}
 
-.card-title {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 60px;
-  font-weight: 300;
-  line-height: 60px;
-  margin: 10px 0;
-}
+		h2, h3 {
+			margin: 0;
+			font-weight: 300;
+		}
 
-.card-description {
-  display: inline-block;
-  font-weight: 300;
-  line-height: 22px;
-  margin: 10px 0;
-}
+		h2 {
+			font-size: em(28);
+			color: #222222;
+		}
 
-.card-read {
-  cursor: pointer;
-  font-size: 14px;
-  font-weight: 700;
-  letter-spacing: 6px;
-  margin: 5px 0 20px;
-  position: relative;
-  text-align: right;
-  text-transform: uppercase;
-}
+		h3 {
+			font-size: em(15);
+			color: #838689;
+		}
 
-.card-read:after {
-  background-color: #b8bddd;
-  content: "";
-  display: block;
-  height: 1px;
-  position: absolute;
-  top: 9px;
-  width: 75%;
-}
+		p {
+			margin: 1.25em 0;
+			font-size: em(13);
+			font-weight: 400;
+			color: #222222;
 
-.card-tag {
-  float: right;
-  margin: 5px 0 0;
-}
+			span {
+				font-weight: 700;
+				color: #000000;
+			}
+		}
 
-.card-media {
-  float: right;
-}
+		.ingredients {
+			margin: 2em 0 0.5em;
+		}
+	}
 
-.card-shadow {
-  background-color: #fff;
-  box-shadow: 0 2px 25px 2px rgba(0, 0, 0, 1), 0 2px 50px 2px rgba(0, 0, 0, 1), 0 0 100px 3px rgba(0, 0, 0, .25);
-  height: 1px;
-  margin: -1px auto 0;
-  width: 80%;
-  z-index: -1;
+	.icon {
+	    display: inline;
+	    display: inline-block;
+	    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/203277/recipe-card-icons.svg);
+	    background-repeat: no-repeat;
+	}
+
+	.icon-calories,.icon-calories\:regular {
+	    background-position: 0 0;
+	    width: 16px;
+	    height: 19px;
+	}
+
+	.icon-clock,.icon-clock\:regular {
+	    background-position: 0 -19px;
+	    width: 20px;
+	    height: 20px;
+	}
+
+	.icon-level,.icon-level\:regular {
+	    background-position: 0 -39px;
+	    width: 16px;
+	    height: 19px;
+	}
+
+	.icon-play,.icon-play\:regular {
+	    background-position: 0 -58px;
+	    width: 21px;
+	    height: 26px;
+	}
+
+	.icon-users,.icon-users\:regular {
+	    background-position: 0 -84px;
+	    width: 18px;
+	    height: 18px;
+	}
 }

@@ -22,6 +22,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/dist/lamana.css">
+       <link rel="stylesheet" href="assets/css/dist/recipecard.css">
   </head>
 
 
@@ -41,54 +42,35 @@
          <div class="jumbotron whitebg">
          <h1 class="display-4">Recipes</h1>
          
-       <!-- Sidebar (hidden by default) -->
-<nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
-  <a href="javascript:void(0)" onclick="w3_close()"
-  class="w3-bar-item w3-button">Close Menu</a>
-  <a href="#food" onclick="w3_close()" class="w3-bar-item w3-button">Food</a>
-  <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">About</a>
-</nav>
+    <div class="recipe-card">
 
+	<aside>
 
-  
-<!-- !PAGE CONTENT! -->
-<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+		<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/203277/oatmeal.jpg" alt="Chai Oatmeal" />
 
-  <!-- First Photo Grid-->
-  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
-    <div class="w3-quarter">
-      <img src="recipes/images/kalesquashstew.JPG" alt="Kale Butternut Squash Stew" style="width:100%">
-      <h3>Kale Salad</h3>
-    </div>
+		<a href="#" class="button"><span class="icon icon-play"></span></a>
 
-    <div class="w3-quarter">
-      <img src="recipes/images/whitebeansoup.JPG" alt="Steak" style="width:100%">
-      <h3>Eggplant Parmesan</h3>
-    </div>
+	</aside>
 
-    <div class="w3-quarter">
-      <img src="recipes/images/rolledoatwaffles.JPG" alt="Cherries" style="width:100%">
-      <h3>Rolled Oat Waffles</h3>
-    </div>
+	<article>
 
-    <div class="w3-quarter">
-      <img src="/w3images/wine.jpg" alt="Pasta and Wine" style="width:100%">
-      <h3>BBQ Collard Green Rolls</h3>
-    </div>
-  
-  </div>
-  
-  <!-- Second Photo Grid-->
-  <div class="w3-row-padding w3-padding-16 w3-center">
-    <div class="w3-quarter">
-      <img src="/w3images/popsicle.jpg" alt="Popsicle" style="width:100%">
-      <h3>Collard Green Egg Rolls</h3>
-    </div>
-  </div>
+		<h2>Chai Oatmeal</h2>
+		<h3>Breakfast</h3>
 
-  
-  
+		<ul>
+			<li><span class="icon icon-users"></span><span>1</span></li>
+			<li><span class="icon icon-clock"></span><span>15 min</span></li>
+			<li><span class="icon icon-level"></span><span>Beginner level</span></li>
+			<li><span class="icon icon-calories"></span><span>248</span></li>
+		</ul>
 
+		<p>For an extra thick and creamy bowl, add oat bran.  It'll make for a hearty helping and also add more fiber to your meal.  If you love the taste of chai, you'll enjoy this spiced version with coriander, cinnamon, and turmeric.</p>
+
+		<p class="ingredients"><span>Ingredients:&nbsp;</span>Milk, salt, coriander, cardamom, cinnamon, turmeric, honey, vanilla extract, regular oats, oat bran.</p>
+
+	</article>
+
+</div>
   
 
 
