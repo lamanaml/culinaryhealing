@@ -143,7 +143,7 @@
      </div>
    
     <!-- Footer -->
-    <?php include_once("includes/footer.html"); ?>
+    <?php include_once("includes/footer.php"); ?>
 
 
     <!-- Scripts -->
