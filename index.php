@@ -139,10 +139,10 @@
      
       <div class="subscribe flex-container">
         <div>
-         
+          <h2 space>Join our Mailing List</h2>
         </div>
         <!-- Begin Mailchimp Signup Form -->
-         <h2 space>Join our Mailing List</h2>
+        
         <div id="mc_embed_signup">
           <form action="https://culinaryhealing.us20.list-manage.com/subscribe/post?u=7bd51cd7f1b65f154b476fb09&amp;id=a57ff37c91" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll ">
