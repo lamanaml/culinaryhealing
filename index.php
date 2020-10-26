@@ -94,10 +94,10 @@
               <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
               <span style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7bd51cd7f1b65f154b476fb09_a57ff37c91" tabindex="-1" value=""></span>
             </div>
-          </div>
-  
+          <!-- </div>
+        <div> -->
             <span class="clear space"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></span>
-          </div>
+          <!-- </div> -->
         </form>
       </div>  
           <!--End mc_embed_signup-->
