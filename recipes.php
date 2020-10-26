@@ -33,6 +33,14 @@
     </div>
      
 <!-- index -->
+<!-- Hero -->
+      <div class="hero3-image">
+        <div class="hero-text">
+        <h1 class="display-4">Recipes</h1>
+    
+        </div>
+      </div>
+
 
    <!-- main content -->
 
