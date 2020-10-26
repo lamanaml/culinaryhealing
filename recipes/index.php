@@ -29,13 +29,7 @@
   <body id="recipes">
     <!-- navigation -->
     <div class="nav-div">
-
-      <?php 
-   $path = $_SERVER['DOCUMENT_ROOT'];
-   $path .= "/includes/nav.html";
-   include_once($path);
-?>
-      <!-- <?php include_once(""); ?> -->
+      <!-- <?php include_once("/includes/nav.html"); ?> -->
     </div>
      
 <!-- index -->
