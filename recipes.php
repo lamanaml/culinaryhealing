@@ -27,21 +27,19 @@
 
 
   <body id="recipes">
+    <!-- navigation -->
     <div class="nav-div">
-    
-<!-- navigation -->
-      <?php include_once("nav.html"); ?>
+      <?php include_once("includes/nav.html"); ?>
     </div>
      
 <!-- index -->
 
    <!-- main content -->
 
-
-      <div class="container whitebg">
-         <div class="jumbotron whitebg">
-         <h1 class="display-4">Recipes</h1>
-         
+    <div class="container whitebg">
+      <div class="jumbotron whitebg">
+        <h1 class="display-4">Recipes</h1>
+    
     <div class="recipe-card">
 
 	<aside>
@@ -88,7 +86,7 @@
 
 
       <!-- Footer -->
-      <?php include_once("footer.html"); ?>
+      <?php include_once("includes/footer.html"); ?>
 
       <!-- Scripts -->
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
