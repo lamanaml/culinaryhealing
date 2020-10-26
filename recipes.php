@@ -45,7 +45,7 @@
    <!-- main content -->
 
 
-<div class="flex-container">
+<div class="flex-containerRow">
 <div class="card" style="width: 18rem;">
   <img src="..." class="card-img-top" alt="...">
   <div class="card-body">

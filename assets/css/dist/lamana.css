@@ -327,6 +327,14 @@ li:first-child {
   font-weight: bold;
 }
 
+.flex-containerRow {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  padding: 10px 100px 10px 10px;
+  align-items: center;
+}
+
 /* ///////////////////////// */
 /*      Subscribe            */
 /* ///////////////////////// */
