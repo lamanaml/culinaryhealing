@@ -30,8 +30,12 @@
     <!-- navigation -->
     <div class="nav-div">
 
-      
-      <?php include_once("/includes/nav.html"); ?>
+      <?php 
+   $path = $_SERVER['DOCUMENT_ROOT'];
+   $path .= "../includes/nav.html";
+   include_once($path);
+?>
+      <!-- <?php include_once(""); ?> -->
     </div>
      
 <!-- index -->
