@@ -11,7 +11,6 @@
     <link rel="icon"  type="image/jpg" href="assets/images/favicon.jpg">
     <link rel="canonical" href="https://www.culinaryhealing.com">
     <meta name="description" content="Chef LaMana follows a plant based whole food philosophy to create delicious meals.  She uses classes, detox program and recipes to show the world that a vegan, vegetarian lifestyle does not have to be bland. ">
-   
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="follow, index">
 
@@ -30,53 +29,39 @@
       <link rel="stylesheet" href="assets/css/dist/lamana.css">
       <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">      
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">   
+      
     <!-- end of styles -->
   </head>
-
-
-
-
-   
-    
-
-
 
   <body id="home">
 
     <!-- Navigation -->
       <div class="nav-div">
-        
-      <nav class="navbar navbar-expand-md fixed-top navbar-light bg-light" > 
-
-        <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        
-         <span class="navbar-brand mb-0 h1">
-          <a href="index.php"><img src="assets/images/chlogo-tran.png" width="300px"></a>
+        <nav class="navbar navbar-expand-md fixed-top navbar-light bg-light" > 
+          <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <span class="navbar-brand mb-0 h1">
+            <a href="index.php"><img src="assets/images/chlogo-tran.png" width="300px"></a>
           </span>
-        <div class="collapse navbar-collapse" id="collapse_target">
-          <ul class="navbar-nav">
-
-            <li class="nav-item">
-              <a class="nav-link " href="index.php">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="21day.php">21-Day Cleanse</a>
-            </li>
-            <!-- <li class="nav-item">
-              <a class="nav-link" href="recipes.php">Recipes</a>
-            </li>            -->
-            <li class="nav-item">
-              <a class="nav-link" href="about.php">About</a>
-            </li>         
-            
-          </ul>
-        </div>
-      </nav>
-
-
+          <div class="collapse navbar-collapse" id="collapse_target">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link " href="index.php">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="21day.php">21-Day Cleanse</a>
+              </li>
+              <!-- <li class="nav-item">
+                <a class="nav-link" href="recipes.php">Recipes</a>
+              </li>            -->
+              <li class="nav-item">
+                <a class="nav-link" href="about.php">About</a>
+              </li>         
+            </ul>
+          </div>
+        </nav>
       </div>
     <!-- end of navigation -->
      
@@ -91,7 +76,7 @@
     <!-- end of header -->
    
     <!-- Subscribe -->
-       <!-- Subscribe -->
+     
       <div class="subscribe flex-container">
         <div>
           <h2 space>Join our Mailing List</h2>
@@ -110,14 +95,14 @@
               <span style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7bd51cd7f1b65f154b476fb09_a57ff37c91" tabindex="-1" value=""></span>
             </div>
           </div>
-          <div>
+  
             <span class="clear space"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></span>
           </div>
         </form>
       </div>  
           <!--End mc_embed_signup-->
       </div>  
-        <!-- end of Subscribe -->
+    <!-- end of Subscribe -->
 
     <!-- Main content area -->
       <div class="container">
@@ -153,13 +138,9 @@
       </div>
     <!-- End of main content area -->
 
-    <!-- Footer-->
+ 
       <div>
-         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+  
 
 
     <link rel="stylesheet" href="assets/css/lamana.css">
