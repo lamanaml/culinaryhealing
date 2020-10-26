@@ -255,7 +255,7 @@ li:first-child {
 .hero-image {
   /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/webcover.png"); */
   background-image: url("../../images/masthead/tistheseason.png");
-  height: 70%;
+  height: 60%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
