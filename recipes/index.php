@@ -28,7 +28,7 @@
 
   <body id="recipes">
     <!-- navigation -->
-    <div class="nav-div">
+    <div >
       <!-- <?php include_once("../includes/nav.html"); ?> -->
     </div>
      
