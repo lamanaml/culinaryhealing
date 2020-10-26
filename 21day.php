@@ -28,7 +28,7 @@
         
 <!-- navigation -->
     <div class="nav-div">
-      <?php include_once("nav.html"); ?>
+      <?php include_once("includes/nav.html"); ?>
     </div>
      
      
@@ -142,7 +142,7 @@
      </div>
    
     <!-- Footer -->
-    <?php include_once("footer.html"); ?>
+    <?php include_once("includes/footer.html"); ?>
 
 
     <!-- Scripts -->
