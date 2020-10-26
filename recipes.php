@@ -29,7 +29,7 @@
   <body id="recipes">
     <!-- navigation -->
     <div >
-      <!-- <?php include_once("includes/nav.html"); ?> -->
+      <?php include_once("includes/nav.html"); ?> -->
     </div>
      
 <!-- index -->
