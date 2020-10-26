@@ -162,7 +162,9 @@
         </div>  
           <!--End mc_embed_signup-->
       </div>  
+      </div
     <!-- end of Subscribe -->
+    <div>
           <p> &copy; Culinary Healing 2006 </p>
         </div>
       </div>
