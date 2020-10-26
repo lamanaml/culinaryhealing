@@ -32,7 +32,7 @@
 
       <?php 
    $path = $_SERVER['DOCUMENT_ROOT'];
-   $path .= "../includes/nav.html";
+   $path .= "/includes/nav.html";
    include_once($path);
 ?>
       <!-- <?php include_once(""); ?> -->
