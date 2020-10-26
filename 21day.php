@@ -52,7 +52,7 @@
 <!-- ------------------------------  The phases --------------------------------------------- -->
       <h3>The Process</h3>
       <div>
-        <?php include_once("includes.theprocess.html"); ?>
+        <?php include_once("includes/theprocess.html"); ?>
       </div>
 
 
