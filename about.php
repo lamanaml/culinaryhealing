@@ -28,18 +28,15 @@
 
 
   <body id="about">
-    <div class="nav-div">
-    
-<!-- navigation -->
-      <?php include_once("includes/nav.html"); ?>
-    </div>
-     
+<!-- //////////////////////////// Navigation  ////////////////////////////////////////////-->
+      <?php include('includes/nav.php'); ?>
+ 
 
 <!-- Hero -->
  
 <div class="hero2-image">
   <div class="hero2-text">
-    <h1 class="display-4">About Culinary Healing</h1>
+    <h1 >About Culinary Healing</h1>
     <p class="lead">Vegan / Vegetarian Lifestyle Brand</p>
   </div>
 </div>
@@ -50,7 +47,7 @@
  
    
         <div >
-          <h1 class="display-4">About LaMana</h1><img class="img-right" src="assets/images/profile-lamana1.jpg"  alt="...">
+          <h2 >About LaMana</h2><img class="img-right" src="assets/images/profile-lamana1.jpg"  alt="...">
           <p> I remember back in the day, my uncle Rico used to make the best fried bologna sandwiches known to man. You know, the kind of bologna that had the red strip around it. He would fry it up in the pan to the point that it bubbled up in the middle, and he had to cut it with a knife... Put that on white bread with mustard and I was in heaven!!! Is anybody with me?! Hehehe... those were the days. I think back now and I have to ask... what the hell is bologna anyway?!?!</p></div>
 
         <div><p>I tell this story just to let you know where I come from. I grew up in the 70's in the south, Durham, NC... where food was food, there was no separation of healthy food and unhealthy food, good or bad. If you could eat it and it stopped you from being hungry, it was all good. On any given day we had up to 15 people in our house to feed, and money was not abundant, so off to the local Piggly Wiggly grocery store (I am not making this name up), we went to get food to feed the family. I don't have to tell you what types of foods we ended up with. But not to worry, my grandma would "put her foot" in whatever came through the door, and each meal was prepared with love and tasted delicious!! Pig feet, pork chops, fried chicken, white rice, liver and onions, chitterlings w/ hot sauce, fried fish on Fridays! Boy were we happy. Little did we know, we were setting our bodies up to fail us. How could we know? No one ever told my grandma that pork was bad, and fried foods would eventually kill us.</p></div>
@@ -78,8 +75,9 @@
        
         </div>
 </div>
-    <!-- Footer -->
-    <?php include_once("includes/footer.php"); ?>
+<!-- /////////////////////////////  Footer   ///////////////////////  -->
+   
+<?php include('includes/footer.php'); ?>
 
     <!-- Scripts -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

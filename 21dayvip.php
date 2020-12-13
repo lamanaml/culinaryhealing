@@ -26,11 +26,9 @@
 
   <body id="21day">
         
-<!-- navigation -->
-    <div class="nav-div">
-      <?php include_once("includes/nav.html"); ?>
-    </div>
-     
+<!-- //////////////////////////// Navigation  ////////////////////////////////////////////-->
+      <?php include('includes/nav.php'); ?>
+ 
      
 <!-- Hero -->
       <div class="hero3-image">
@@ -142,8 +140,9 @@
     </div>
      </div>
    
-    <!-- Footer -->
-    <?php include_once("includes/footer.php"); ?>
+<!-- /////////////////////////////  Footer   ///////////////////////  -->
+   
+<?php include('includes/footer.php'); ?>
 
 
     <!-- Scripts -->

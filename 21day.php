@@ -22,20 +22,19 @@
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/dist/lamana.css">
+    <link rel="stylesheet" href="assets/css/dist/card.css">
   </head>
 
   <body id="21day">
         
-<!-- navigation -->
-    <div class="nav-div">
-      <?php include_once("includes/nav.html"); ?>
-    </div>
-     
+<!-- //////////////////////////// Navigation  ////////////////////////////////////////////-->
+      <?php include('includes/nav.php'); ?>
+ 
      
 <!-- Hero -->
-      <div class="hero3-image">
+      <div class="hero3-image ">
         <div class="hero-text">
-        <h1 class="display-4">21-DAY CLEANSE</h1>
+        <h1 >21-DAY CLEANSE</h1>
         <p class="lead">Starts in January</p>
         </div>
       </div>
@@ -47,102 +46,97 @@
           
       <p>During these 21 days, we will eat and drink REAL, unprocessed, natural foods and juices (don't worry, we will learn what that means). There are no gimmicks and there are no pills to buy.  We will allow food to be our medicine, repairing us at the cellular level.  There are simple guidelines to follow each day, recipes and videos for extra help, and peer support to help keep us motivated.  If you need a little help to get on track to better health, join us.</p>
    
-
-
+</div>
+<div class="container">
 <!-- ------------------------------  The phases --------------------------------------------- -->
-      <h3>The Process</h3>
-      <div>
-        <?php include_once("includes/theprocess.html"); ?>
-      </div>
+  <h2>The Process</h2>
+  <div>
+    <?php include_once("includes/theprocess.php"); ?>
+  </div>
 
 
 
   
 <!-- ------------------------------  The components --------------------------------------------- -->
-      <div>
-        <h3>The Experience</h3>
-        <div>This cleanse is for people with all levels of fasting experience from first timers to the experts. It is virtual, so you can live anywhere in the world and still participate. There are several components that work together to create the total cleanse experience.
+  <div>
+    <h2>The Experience</h2>
+    <div>This cleanse is for people with all levels of fasting experience from first timers to the experts. It is virtual, so you can live anywhere in the world and still participate. There are several components that work together to create the total cleanse experience.
+    </div>
+    <div class="card-group">
+
+      <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+        <div class="card-header">First Steps</div>
+        <div class="card-body">
+          <p class="card-text">Think of this step as a healthy eating bootcamp. Here we learn about the different phases of the cleanse, the ingredients, and what to expect. We will learn how to create a menu, a grocery list and even how to grocery shop for healthy items!  </p>
         </div>
-        <div class="card-group">
+      </div>    
 
-          <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
-            <div class="card-header">First Steps</div>
-            <div class="card-body">
-              <p class="card-text">Think of this step as a healthy eating bootcamp. Here we learn about the different phases of the cleanse, the ingredients, and what to expect. We will learn how to create a menu, a grocery list and even how to grocery shop for healthy items!  </p>
-            </div>
-          </div>    
-
-          <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
-            <div class="card-header">Daily Discussions</div>
-            <div class="card-body">
-              <p class="card-text">Each day we will touch base. Here we will motivate and support each other and share our experiences. Through images, links and kind words we will stay connected through this journey. </p>
-            </div>
-          </div>
-
-
-          <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
-            <div class="card-header">Recipes</div>
-            <div class="card-body">
-              <p class="card-text">There are several recipes for each phase of the cleanse.  You can test some out and find your favorites, or add your own! </p>
-            </div>
-          </div>
-
-          <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
-            <div class="card-header">Resources</div>
-            <div class="card-body">
-              <p class="card-text">FAQ's, Calendars, Roadmaps and other tools and resources to help us along the way. </p>
-            </div>
-          </div>
-                
+      <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
+        <div class="card-header">Daily Discussions</div>
+        <div class="card-body">
+          <p class="card-text">Each day we will touch base. Here we will motivate and support each other and share our experiences. Through images, links and kind words we will stay connected through this journey. </p>
         </div>
       </div>
-<!-- ------------------------------  Register --------------------------------------------- -->      
-      <div class="alert alert-success" role="alert" >
-        <div class="row" >
-          <div class="col text-center">
-            <h3 class="text-center" >REGISTER NOW!!</h3>
-            <h3>Always $50 
-            <h2>January 8 - 28, 2021</h2> 
-            <div id="paypal-button-container"></div>
-            <script src="https://www.paypal.com/sdk/js?client-id=AdSBBt2wxstg1Kqw-6DcjuD0wd4fCBKUX-pdsBYvzC_taETS9D3aHFc8t8ri3aYpRYL90RzkKuu7b6Tb&currency=USD" data-sdk-integration-source="button-factory"></script>
-            <script>
-              paypal.Buttons({
-                  style: {
-                      shape: 'rect',
-                      color: 'gold',
-                      layout: 'vertical',
-                      label: 'paypal',
-                      
-                  },
-                  createOrder: function(data, actions) {
-                      return actions.order.create({
-                          purchase_units: [{
-                              amount: {
-                                  value: '50'
-                              }
-                          }]
-                      });
-                  },
-                  onApprove: function(data, actions) {
-                      return actions.order.capture().then(function(details) {
-                          alert('Transaction completed by ' + details.payer.name.given_name + '!');
-                          window.location.replace("http://www.culinaryhealing21days.com");
-                      });
-                  }
-              }).render('#paypal-button-container');
-            </script>
-          </div>
-          <div class="col">
-            <h6>DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  We are not medical doctors. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmless Culinary Healing and any of its employees for any issues while participating in this cleanse. 
-            </h6>
-          </div>
+
+
+      <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+        <div class="card-header">Recipes</div>
+        <div class="card-body">
+          <p class="card-text">There are several recipes for each phase of the cleanse.  You can test some out and find your favorites, or add your own! </p>
         </div>
+      </div>
+
+      <div class="card text-white bg-info mb-3" style="max-width: 18rem;">
+        <div class="card-header">Resources</div>
+        <div class="card-body">
+          <p class="card-text">FAQ's, Calendars, Roadmaps and other tools and resources to help us along the way. </p>
+        </div>
+      </div>
+            
+    </div>
+  </div>
+<!-- ------------------------------  Register --------------------------------------------- -->      
+  <div class="text-center" >
+    <h2 >REGISTER NOW!!</h2>
+    <h3>January 8 - 28, 2021</h3> 
+    <h5> $50 </h5>
+    <div id="paypal-button-container"></div>
+    <script src="https://www.paypal.com/sdk/js?client-id=AdSBBt2wxstg1Kqw-6DcjuD0wd4fCBKUX-pdsBYvzC_taETS9D3aHFc8t8ri3aYpRYL90RzkKuu7b6Tb&currency=USD" data-sdk-integration-source="button-factory"></script>
+    <script>
+      paypal.Buttons({
+          style: {
+            shape: 'rect',
+            color: 'gold',
+            layout: 'vertical',
+            label: 'paypal',
+          },
+          createOrder: function(data, actions) {
+            return actions.order.create({
+              purchase_units: [{
+                amount: {
+                  value: '50'
+                }
+              }]
+            });
+          },
+          onApprove: function(data, actions) {
+            return actions.order.capture().then(function(details) {
+              alert('Transaction completed by ' + details.payer.name.given_name + '!');
+              window.location.replace("http://www.culinaryhealing21days.com");
+            });
+          }
+        }).render('#paypal-button-container');
+      </script>
+    
+      <div style="padding:60px;" >DISCLAIMER: Do not participate in this cleanse if you are pregnant, nursing or have chronic medical conditions.  Although this cleanse is intended to improve overall health, it is not a replacement for professional medical care.  We are not medical doctors. If you are on medication, consult your doctor before participating.  By registering for this cleanse, you agree to hold harmless Culinary Healing and any of its employees for any issues while participating in this cleanse. 
       </div>
     </div>
-     </div>
+  </div>
+</div>
    
-    <!-- Footer -->
-    <?php include_once("includes/footer.php"); ?>
+<!-- /////////////////////////////  Footer   ///////////////////////  -->
+   
+<?php include('includes/footer.php'); ?>
 
 
     <!-- Scripts -->

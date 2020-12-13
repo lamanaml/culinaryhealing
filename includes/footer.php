@@ -1,48 +1,50 @@
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/lamana.css">
-
-    <!-- Footer -->
-    <div class= "footer feed">  
-      <div class="flex-containerFooter">
-        <div>
-          <a href="https://www.facebook.com/culinaryhealing">
-            <img class="logo" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-128.png">
-            </a>
-        </div>
-        <div> 
-          <a href="https://twitter.com/culinaryhealing">
-            <img class="logo" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-128.png">
-          </a>
-        </div>
-        <div>
-          <a href="http://www.instagram.com/culinaryhealing">
-            <img class="logo" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-128.png">
-          </a>
-        </div>
-        <div>
-   <!-- Subscribe -->
-           <div class="nav-div">
-      <?php include_once("subscribe.html"); ?>
-    </div>
-     
-    
-    <!-- end of Subscribe -->
-    <div>
-          <p> &copy; Culinary Healing 2006 </p>
-        </div>
-      </div>
-
-    </div>
-
-
-
-
+<!-- Subscribe -->   
+<div class="subscribe flex-container">
+   <h3 space>Join our Mailing List</h3>
+   <div id="mc_embed_signup">
+      <form action="https://culinaryhealing.us20.list-manage.com/subscribe/post?u=7bd51cd7f1b65f154b476fb09&amp;id=a57ff37c91" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+         <div id="mc_embed_signup_scroll ">
+            <span class="mc-field-group space"> <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+            </span>
+            <span id="mce-responses" class="clear">
+               <span class="response" id="mce-error-response" style="display:none"></span>
+               <span class="response" id="mce-success-response" style="display:none"></span>
+            </span>    
         
+         <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+         <span style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_7bd51cd7f1b65f154b476fb09_a57ff37c91" tabindex="-1" value="">
+         </span>
+         <span class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class=" btn btn-warning"></span>
+         </div>
+      </form>
+   </div>  
+</div>  
+ 
+
+
+
+<footer>  
+   <div class="flex-containerFooter">
+<div>
+         <a href="https://www.facebook.com/culinaryhealing">
+            <img class="icons" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-32.png">
+         </a>
+         <a href="https://twitter.com/culinaryhealing">
+            <img class="icons" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-32.png">
+         </a>
+         <a href="http://www.instagram.com/culinaryhealing">
+            <img class="icons" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-32.png">
+         </a>
+</div>
+      <div>
+         <p> &copy; Culinary Healing 2006 </p>
+      </div>
+   </div>
+</footer>
+
+
+
+
   
 
-    <script src="https://kit.fontawesome.com/910ccccaa3.js" crossorigin="anonymous"></script> 
-      </div>
