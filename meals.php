@@ -38,19 +38,14 @@
   <div class="hero2-text">
     <h1 >Meal Ideas</h1>
   </div>
-  </div>
+</div>
 
     <!-- main content -->
 
-  <section>
   <!-- instagram feed-->
-    <div class="container feed" >
-      <div class="powr-instagram-feed" id="1c268b0b_1579652448"></div>
-        <script src="https://www.powr.io/powr.js?platform=html"></script>        
-      </div> 
-
-</section>
-
+<div class="container feed" >
+  <div class="powr-instagram-feed" id="1c268b0b_1579652448"></div>
+  <script src="https://www.powr.io/powr.js?platform=html"></script>        
 </div>
 <!-- /////////////////////////////  Footer   ///////////////////////  -->
    
