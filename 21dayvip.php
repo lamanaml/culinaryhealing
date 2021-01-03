@@ -49,10 +49,10 @@
 
 
 <!-- ------------------------------  The phases --------------------------------------------- -->
-      <h3>The Process</h3>
+      <!-- <h3>The Process</h3>
       <div>
         <?php include_once("includes/theprocess.php"); ?>
-      </div>
+      </div> -->
 
 
 
