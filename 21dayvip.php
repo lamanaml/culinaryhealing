@@ -35,7 +35,7 @@
         <div class="hero-text">
         <h1 class="display-4">21-DAY CLEANSE</h1>
         <h1 class="display-4">VIP PASS</h1>
-        <p class="lead">Starts in January</p>
+        
         </div>
       </div>
 
@@ -51,7 +51,7 @@
 <!-- ------------------------------  The phases --------------------------------------------- -->
       <h3>The Process</h3>
       <div>
-        <?php include_once("includes/theprocess.html"); ?>
+        <?php include_once("includes/theprocess.php"); ?>
       </div>
 
 
